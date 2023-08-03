@@ -1,0 +1,6 @@
+Earth/Europe/Slovenia/Domzale, Kamnik, Ljubljana/1
+Earth/Europe/Slovenia/Maribor, Murska Sobota, Ravne na Koroskem/2
+Earth/Europe/Slovenia/Celje, Trbovlje/3
+Earth/Europe/Slovenia/Jesenice, Kranj/4
+Earth/Europe/Slovenia/Koper, Nova Gorica, Postojna/5
+Earth/Europe/Slovenia/Krsko, Novo Mesto/7

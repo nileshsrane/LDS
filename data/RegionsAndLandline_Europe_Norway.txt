@@ -1,0 +1,29 @@
+Earth/Europe/Norway/Akershus/66
+Earth/Europe/Norway/Akershus/67
+Earth/Europe/Norway/Ostfold/69
+Earth/Europe/Norway/More og Romsdal/70
+Earth/Europe/Norway/More og Romsdal/71
+Earth/Europe/Norway/Sor-Trondelag/72
+Earth/Europe/Norway/Rogaland/51
+Earth/Europe/Norway/Sor-Trondelag/73
+Earth/Europe/Norway/Rogaland/52
+Earth/Europe/Norway/Nord-Trondelag/74
+Earth/Europe/Norway/Buskerud/31
+Earth/Europe/Norway/Hordaland, Hordaland/53
+Earth/Europe/Norway/Nordland/75
+Earth/Europe/Norway/Buskerud/32
+Earth/Europe/Norway/Nordland/76
+Earth/Europe/Norway/Vestfold County/33
+Earth/Europe/Norway/Hordaland/55
+Earth/Europe/Norway/Troms/77
+Earth/Europe/Norway/Hordaland/56
+Earth/Europe/Norway/Finnmark/78
+Earth/Europe/Norway/Telemark/35
+Earth/Europe/Norway/Sogn/57
+Earth/Europe/Norway/Aust-Agder/37
+Earth/Europe/Norway/Vest-Agder/38
+Earth/Europe/Norway/Oslo/2
+Earth/Europe/Norway/Oppland/61
+Earth/Europe/Norway/Hedmark/62
+Earth/Europe/Norway/Akershus/63
+Earth/Europe/Norway/Akershus/64

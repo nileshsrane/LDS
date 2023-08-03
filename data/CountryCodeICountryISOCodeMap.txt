@@ -1,0 +1,222 @@
+Afghanistan/93/AF/af.svg
+Albania/355/AL/al.svg
+Algeria/213/DZ/dz.svg
+American Samoa/1684/AS/as.svg
+Andorra/376/AD/ad.svg
+Angola/244/AO/ao.svg
+Anguilla/1264/AI/ai.svg
+Antigua and Barbuda/1268/AG/ag.svg
+Argentina/54/AR/ar.svg
+Armenia/374/AM/am.svg
+Aruba/297/AW/aw.svg
+Australia/61/AU/au.svg
+Austria/43/AT/at.svg
+Azerbaijan/994/AZ/az.svg
+Bahamas/1242/BS/bs.svg
+Bahrain/973/BH/bh.svg
+Bangladesh/880/BD/bd.svg
+Barbados/1246/BB/bb.svg
+Belarus/375/BY/by.svg
+Belgium/32/BE/be.svg
+Belize/501/BZ/bz.svg
+Benin/229/BJ/bj.svg
+Bermuda/1441/BM/bm.svg
+Bhutan/975/BT/bt.svg
+Bolivia/591/BO/bo.svg
+Bosnia and Herzegovina/387/BA/ba.svg
+Botswana/267/BW/bw.svg
+Brazil/55/BR/br.svg
+British Indian Ocean Territory/246/IO/io.svg
+British Virgin Islands/1284/VG/vg.svg
+Brunei/673/BN/bn.svg
+Bulgaria/359/BG/bg.svg
+Burkina Faso/226/BF/bf.svg
+Burundi/257/BI/bi.svg
+Cambodia/855/KH/kh.svg
+Cameroon/237/CM/cm.svg
+Canada/1/CA/ca.svg
+Cape Verde/238/CV/cv.svg
+Cayman Islands/345/KY/ky.svg
+Central African Republic/236/CF/cf.svg
+Chad/235/TD/td.svg
+Chile/56/CL/cl.svg
+China/86/CN/cn.svg
+Christmas Island/61/CX/cx.svg
+Colombia/57/CO/co.svg
+Comoros/269/KM/km.svg
+Congo/242/CG/cg.svg
+Congo/Dem. Rep. of Zaire/243/CD/cd.svg
+Cook Islands/682/CK/ck.svg
+Costa Rica/506/CR/cr.svg
+Croatia/385/HR/hr.svg
+Cuba/53/CU/cu.svg
+Curacao/599/CW/cw.svg
+Cyprus/537/CY/cy.svg
+Czech Republic/420/CZ/cz.svg
+Denmark/45/DK/dk.svg
+Djibouti/253/DJ/dj.svg
+Dominica/1767/DM/dm.svg
+Dominican Republic/1809/DO/do.svg
+East Timor/670/TR/tr.svg
+Ecuador/593/EC/ec.svg
+Egypt/20/EG/eg.svg
+El Salvador/503/SV/sv.svg
+Equatorial Guinea/240/GQ/gq.svg
+Eritrea/291/ER/er.svg
+Estonia/372/EE/ee.svg
+Ethiopia/251/ET/et.svg
+Falkland Islands/500/FK/fk.svg
+Faroe Islands/298/FO/fo.svg
+Fiji/679/FJ/fj.svg
+Finland/358/FI/fi.svg
+France/33/FR/fr.svg
+French Guiana/594/GF/gf.svg
+French Polynesia/689/PF/pf.svg
+Gabon/241/GA/ga.svg
+Gambia/220/GM/gm.svg
+Georgia/995/GE/ge.svg
+Germany/49/DE/de.svg
+Ghana/233/GH/gh.svg
+Gibraltar/350/GI/gi.svg
+Greece/30/GR/gr.svg
+Greenland/299/GL/gl.svg
+Grenada/1473/GD/gd.svg
+Guadeloupe/590/GP/gp.svg
+Guam/1671/GU/gu.svg
+Guatemala/502/GT/gt.svg
+Guinea/224/GN/gn.svg
+Guinea-Bissau/245/GW/gw.svg
+Guyana/595/GY/gy.svg
+Haiti/509/HT/ht.svg
+Honduras/504/HN/hn.svg
+Hong Kong/852/HK/hk.svg
+Hungary/36/HU/hu.svg
+Iceland/354/IS/is.svg
+India/91/IN/in.svg
+Indonesia/62/ID/id.svg
+Iran/98/IR/ir.svg
+Iraq/964/IQ/iq.svg
+Ireland/353/IE/ie.svg
+Israel/972/IL/il.svg
+Italy/39/IT/it.svg
+Ivory Coast/225/CI/ci.svg
+Jamaica/1876/JM/jm.svg
+Japan/81/JP/jp.svg
+Jordan/962/JO/jo.svg
+Kazakhstan/7 7/KZ/kz.svg
+Kenya/254/KE/ke.svg
+Kiribati/686/KI/ki.svg
+Kuwait/965/KW/kw.svg
+Kyrgyzstan/996/KG/kg.svg
+Laos/856/LA/la.svg
+Latvia/371/LV/lv.svg
+Lebanon/961/LB/lb.svg
+Lesotho/266/LS/ls.svg
+Liberia/231/LR/lr.svg
+Libya/218/LY/ly.svg
+Liechtenstein/423/LI/li.svg
+Lithuania/370/LT/lt.svg
+Luxembourg/352/LU/lu.svg
+Macau/853/MO/mo.svg
+Macedonia/389/MK/mk.svg
+Madagascar/261/MG/mg.svg
+Malawi/265/MW/mw.svg
+Malaysia/60/MY/my.svg
+Maldives/960/MV/mv.svg
+Mali/223/ML/ml.svg
+Malta/356/MT/mt.svg
+Marshall Islands/692/MH/mh.svg
+Martinique/596/MQ/mq.svg
+Mauritania/222/MR/mr.svg
+Mauritius/230/MU/mu.svg
+Mayotte/262/YT/yt.svg
+Mexico/52/MX/mx.svg
+Micronesia/691/FM/fm.svg
+Moldova/373/MD/md.svg
+Monaco/377/MC/mc.svg
+Mongolia/976/MN/mn.svg
+Montenegro/382/ME/me.svg
+Montserrat/1664/MS/ms.svg
+Morocco/212/MA/ma.svg
+Myanmar/95/MM/mm.svg
+Namibia/264/NA/na.svg
+Nauru/674/NR/nr.svg
+Nepal/977/NP/np.svg
+Netherlands/31/NL/nl.svg
+Saint Kitts and Nevis/1/KN/kn.svg
+New Caledonia/687/NC/nc.svg
+New Zealand/64/NZ/nz.svg
+Nicaragua/505/NI/ni.svg
+Niger/227/NE/ne.svg
+Nigeria/234/NG/ng.svg
+Niue/683/NU/nu.svg
+Norfolk Island/672/NF/nf.svg
+North Korea/850/KP/kp.svg
+Northern Mariana Islands/1670/MP/mp.svg
+Norway/47/NO/no.svg
+Oman/968/OM/om.svg
+Pakistan/92/PK/pk.svg
+Palau/680/PW/pw.svg
+Panama/507/PA/pa.svg
+Papua New Guinea/675/PG/pg.svg
+Paraguay/595/PY/py.svg
+Peru/51/PE/pe.svg
+Philippines/63/PH/ph.svg
+Poland/48/PL/pl.svg
+Portugal/351/PT/pt.svg
+Puerto Rico/1787/PR/pr.svg
+Qatar/974/QA/qa.svg
+Reunion/262/RE/re.svg
+Romania/40/RO/ro.svg
+Russia/7/RU/ru.svg
+Rwanda/250/RW/rw.svg
+Samoa/685/WS/ws.svg
+San Marino/378/SM/sm.svg
+Saudi Arabia/966/SA/sa.svg
+Senegal/221/SN/sn.svg
+Serbia/381/RS/rs.svg
+Seychelles/248/SC/sc.svg
+Sierra Leone/232/SL/sl.svg
+Singapore/65/SG/sg.svg
+Slovakia/421/SK/sk.svg
+Slovenia/386/SI/si.svg
+Solomon Islands/677/SB/sb.svg
+South Africa/27/ZA/za.svg
+South Georgia and the South Sandwich Islands/500/GS/gs.svg
+South Korea/82/KR/kr.svg
+Spain/34/ES/es.svg
+Sri Lanka/94/LK/lk.svg
+Sudan/249/SD/sd.svg
+Suriname/597/SR/sr.svg
+Swaziland/268/SZ/sz.svg
+Sweden/46/SE/se.svg
+Switzerland/41/CH/ch.svg
+Syria/963/SY/sy.svg
+Taiwan/886/TW/tw.svg
+Tajikistan/992/TJ/tj.svg
+Tanzania/255/TZ/tz.svg
+Thailand/66/TH/th.svg
+Timor Leste/670/TL/tl.svg
+Togo/228/TG/tg.svg
+Tokelau/690/TK/tk.svg
+Tonga/676/TO/to.svg
+Trinidad and Tobago/1868/TT/tt.svg
+Tunisia/216/TN/tn.svg
+Turkey/90/TR/tr.svg
+Turkmenistan/993/TM/tm.svg
+Turks and Caicos Islands/1649/TC/tc.svg
+Tuvalu/688/TV/tv.svg
+Uganda/256/UG/ug.svg
+Ukraine/380/UA/ua.svg
+United Arab Emirates/971/AE/ae.svg
+United Kingdom/44/GB/gb.svg
+United States/1/US/us.svg
+Uruguay/598/UY/uy.svg
+Uzbekistan/998/UZ/uz.svg
+Vanuatu/678/VU/vu.svg
+Venezuela/58/VE/ve.svg
+Vietnam/84/VN/vn.svg
+Wallis and Futuna/681/WF/wf.svg
+Yemen/967/YE/ye.svg
+Zambia/260/ZM/zm.svg
+Zimbabwe/263/ZW/zw.svg

@@ -1,0 +1,48 @@
+Earth/Europe/Ireland/Cork, Coachford, Kinsale, Midleton/21
+Earth/Europe/Ireland/Mallow/22
+Earth/Europe/Ireland/Bandon, Clonakilty/23
+Earth/Europe/Ireland/Youghal/24
+Earth/Europe/Ireland/Fermoy/25
+Earth/Europe/Ireland/Macroom/26
+Earth/Europe/Ireland/Bantry/27
+Earth/Europe/Ireland/Skibbereen/28
+Earth/Europe/Ireland/Kanturk/29
+Earth/Europe/Ireland/Arklow/402
+Earth/Europe/Ireland/Wicklow/404
+Earth/Europe/Ireland/Drogheda, Ardee/41
+Earth/Europe/Ireland/Dundalk, Carrickmacross, Castleblayney/42
+Earth/Europe/Ireland/Longford, Granard/43
+Earth/Europe/Ireland/Mullingar, Castlepollard, Tyrrellspass/44
+Earth/Europe/Ireland/Naas, Newbridge Kildare, The Curragh/45
+Earth/Europe/Ireland/Navan, Kells, Trim, Enfield, Edenderry/46
+Earth/Europe/Ireland/Monaghan, Clones/47
+Earth/Europe/Ireland/Cavan, Cootehill, Oldcastle, Belturbet/49
+Earth/Europe/Ireland/Thurles, Templemore, Borrisoleigh, Holycross,/504
+Earth/Europe/Ireland/Roscrea/505
+Earth/Europe/Ireland/Waterford, Carrick-on-Suir, New Ross, Kilmacthomas, Glenmore/51
+Earth/Europe/Ireland/Clonmel, Cahir, Killenaule/52
+Earth/Europe/Ireland/Wexford, Enniscorthy, Ferns, Gorey Craanford/53
+Earth/Europe/Ireland/Kilkenny, Castlecomer, Freshford/56
+Earth/Europe/Ireland/Portlaoise, Abbeyleix, Tullamore, Birr/57
+Earth/Europe/Ireland/Dungarvan/58
+Earth/Europe/Ireland/Carlow, Muine Bheag, Athy, Baltinglass/59
+Earth/Europe/Ireland/Limerick, Scariff/61
+Earth/Europe/Ireland/Tipperary, Cashel/62
+Earth/Europe/Ireland/Charleville, Kilmallock/63
+Earth/Europe/Ireland/Killarney, Kenmare, Rathmore/64
+Earth/Europe/Ireland/Ennis, Ennistymon, Kilrush/65
+Earth/Europe/Ireland/Tralee, Dingle, Killorglin, Cahersiveen, Ballyheigue/66
+Earth/Europe/Ireland/Nenagh/67
+Earth/Europe/Ireland/Listowel/68
+Earth/Europe/Ireland/Newcastle West, Abbeyfeale/69
+Earth/Europe/Ireland/Sligo, Manorhamilton, Carrick-on-Shannon, Drumshanbo/71
+Earth/Europe/Ireland/Donegal, Letterkenny, Dungloe, Buncrana/74
+Earth/Europe/Ireland/Athlone, Ballinasloe, Portumna, Roscommon/90
+Earth/Europe/Ireland/Galway, Loughrea, Gort, Athenry/91
+Earth/Europe/Ireland/Tuam/93
+Earth/Europe/Ireland/Ballinrobe, Castlebar, Claremorris, Castlerea, Ballyhaunis/94
+Earth/Europe/Ireland/Clifden/95
+Earth/Europe/Ireland/Ballina/96
+Earth/Europe/Ireland/Belmullet/97
+Earth/Europe/Ireland/Westport/98
+Earth/Europe/Ireland/Kilronan/99

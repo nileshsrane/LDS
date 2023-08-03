@@ -1,0 +1,42 @@
+Earth/Europe/Romania/Babeni, Baile Govora, Baile Olanesti, Brezoi, Caciulata, Calimanesti, Dragasani, Horezu, Rimnicu Vilcea, Voicesti/250
+Earth/Europe/Romania/Bailesti, Birca, Calafat, Cerat, Craiova, Dabuleni, Filiasi, Leu, Pielesti, Plenita, Podari, Segarcea/251
+Earth/Europe/Romania/Cimpulung Moldovenesc, Falticeni, Frasin, Gura Humorului, Radauti, Siret, Solca, Suceava, Suceava, Vatra Dornei, Vatra Moldovitei/230
+Earth/Europe/Romania/Drobeta-Turnu Severin, Livezile, Livezile, Orsova, Strehaia, Strehaia, Vinju Mare/252
+Earth/Europe/Romania/Botosani, Braesti, Bucecea, Darabani, Dorohoi, Flaminzi, Hlipiceni, Ripiceni, Saveni, Vaculesti/231
+Earth/Europe/Romania/Motru, Novaci, Tirgu Jiu, Tismana, Turceni/253
+Earth/Europe/Romania/Cotnari, Hirlau, Iasi, Pascani, Podu Iloaiei, Tirgu Frumos/232
+Earth/Europe/Romania/Bacia, Brad, Branisca, Bretea Româna, Bucuresci, Calan, Certeju De Sus, Criscior, Cristur, Deva, Dobra, Geoagiu Bai, Ghelari, Hateg, Hunedoara, Lupeni, Orastie, Petrila, Petrosani, Romos, Ropotu Mare, Sarmisege- Tuza, Simeria, Sintandrei, Soimus, Teliucu Inferior, Vetel, Vulcan/254
+Earth/Europe/Romania/Bicaz, Ceahlau, Dumbrava Rosie, Manastirea Neamt, Piatra Neamt, Roman, Roznov, Savinesti, Tirgu Neamt, Viisoara, Vinatorii-Neamt, Zanesti/233
+Earth/Europe/Romania/Baile Herculane, Bocsa Româna, Brebu, Caransebes, Moldova Veche, Oravita, Otelu Rosu, Resita, Valea Bolvasnita/255
+Earth/Europe/Romania/Asau, Bacau, Buhoci, Buhusi, Casin, Comanesti, Darmanesti, Letea Veche, Livezi, Livezi, Magura, Margineni, Moinesti, Nicolae Balcescu, Onesti, Parava, Podu Turcului, Poduri, Racaciuni, Sascut, Saucesti, Slanic Moldova, Tirgu Ocna, Traian/234
+Earth/Europe/Romania/Buzias, Deta, Faget, Jimbolia, Lugoj, Lugoj, Sinnicolau-Mare, Teremia Mare, Timisoara, Varias/256
+Earth/Europe/Romania/Birlad, Husi, Negresti, Vaslui/235
+Earth/Europe/Romania/Arad, Chisineu Cris, Curtici, Fintinele, Ineu, Lipova, Lipova, Moneasa, Nadlac, Paulis, Savirsin, Sebis, Seitin, Siria, Sofronea, Vinga, Vladimirescu, Zadareni/257
+Earth/Europe/Romania/Galati, Liesti, Tecuci, Tirgu Bujor/236
+Earth/Europe/Romania/Abrud, Aiud, Alba Iulia, Blaj, Cimpeni, Cugir, Ocna Mures, Alba, Sasciori, Sebes, Sintimbru, Zlatna/258
+Earth/Europe/Romania/Adjud, Focsani, Marasesti, Odobesti, Panciu/237
+Earth/Europe/Romania/Alesd, Baile Felix, Beius, Marghita, Oradea, Salonta, Stei, Stei/259
+Earth/Europe/Romania/Buzau, Gheraseni, Glodeanu Silistea, Maracineni, Merei, Nehoiu, Patirla Gele, Pogoanele, Rimnicu Sarat, Scurtesti, Vadu Pasii/238
+Earth/Europe/Romania/Braila, Braila, Ianca, Insuratei/239
+Earth/Europe/Romania/Cehu Silvaniei, Jibou, Simleul Silvaniei, Zalau/260
+Earth/Europe/Romania/Carei, Gelu, Negresti-Oas, Satu Mare, Tasnad, Tasnad, Viile Satu Mare/261
+Earth/Europe/Romania/Babadag, Isaccea, Macin, Sulina, Sulina, Tulcea/240
+Earth/Europe/Romania/Baia Mare, Baia Sprie, Seini, Sighetu Marmatiei, Tirgu Lapus/262
+Earth/Europe/Romania/Agigea, Baneasa, Basarabi, Cap Aurora, Carpinis, Castelu, Cerna Voda, Cochirleni, Constanta, Corbu, Costinesti, Cuza Voda, Doi Mai, , Eforie Sud, Constanta, Hirsova, Jupiter, Lazu, Limanu, Lumina, Lumina, Luminita, Luminita, Mamaia, Mangalia, Medgidia, Navodari, Negureni, Neptun, Nisipari, Olimp, Ovidiu, Palazu Mare, Piatra, Poiana, Razoare, Remus Opreanu, Saligny, Satu Nou, Saturn, Schitu, Seimenii Mici, Sibioara, Siminoc, Techirghiol, Tortoman, Tuzla, Vadu Oii, Valea Dacilor, Vama Veche, Venus/241
+Earth/Europe/Romania/Beclean, Bistrita, Nasaud, Prundu Birgaului, Singeorz-Bai/263
+Earth/Europe/Romania/Calarasi, Lehliu Gara, Oltenita/242
+Earth/Europe/Romania/Apahida, Cimpia Turzii, Cluj-Napoca, Dej, Cluj, Gherla, Huedin, Turda/264
+Earth/Europe/Romania/Amara, Ialomitza, Cosereni, Fetesti, Girbovi, M. Kogalniceanu, Scinteia, Slobozia, Tandarei, Tandarei, Urziceni, Valea Ciorii/243
+Earth/Europe/Romania/Catau Ludus, Iernut, Ludus, Ludus, Miercurea Miraj, Reghin, Sighisoara, Sovata Bai, Sovata Bai, Tirgu Mures, Tirnaveni/265
+Earth/Europe/Romania/Azuga, Baba Ana, Baicoi, Banesti, Prahova, Boldesti-Scaieni, Breaza, Bucov, Busteni, Cimpina, Comarnic, Cornu, Prahova, Lipanesti, Mizil, Ploiesti, Plopeni, Podu Vadului, Poiana Cimpina, Poiana Tapului, Sinaia, Slanic, Telega, Tintea, Urlati, Valea Calugareasca, Valea Doftanei, Valenii De Munte/244
+Earth/Europe/Romania/Gheorghi- Eni, Miercurea Ciuc, Odorheiu Secuiesc, Toplita/266
+Earth/Europe/Romania/Bilciuresti, Fieni, Gaiesti, Gura Ocnitei, Gura Sutii, Ion Luca Caragiale, Malu Cu Flori, Moreni, Moroeni, Ocnita, Dambovita, Pucioasa, Racari, Razvad, Tirgoviste, Titu, Vacaresti, Voinesti/245
+Earth/Europe/Romania/Barcani, Covasna, Intorsura Buzaului, Sfintu Gheorghe, Sita Buzaului, Tirgu Secuiesc/267
+Earth/Europe/Romania/Bolintin Vale, Calugareni, Ghimpati, Giurgiu/246
+Earth/Europe/Romania/Bran, Brasov, Codlea, Fagaras, Harman, Moeciu De Jos, Piriul Rece, Poiana Brasov, Poiana Marului, Predeal, Risnov, Rupea, Sacele, Sinpetru, Timisu De Jos, Timisu De Sus, Tohan, Victoria, Zarnesti/268
+Earth/Europe/Romania/Alexandria, T, Rosiori De Vede, Turnu Magurele, Videle, Zimnicea/247
+Earth/Europe/Romania/Agnita, Avrig, Axente Sever, Cisnadie, Copsa Mica, Cristian, Dirlos, 230, Medias, Ocna Sibiului, Rasinari, Saliste, Selimbar, Sibiu, Talmaciu, Talmaciu/269
+Earth/Europe/Romania/Branesti, Buftea, Snagov/2179
+Earth/Europe/Romania/Baiculesti, Bascov, Cimpulung Muscel, Colibasi, Corbeni, Costesti, Curtea De Arges, Draganu, Leresti, Merisani, Pitesti, Rucar, Stefanesti, Stefanesti, Stolnici, Stolnici, Topoloveni/248
+Earth/Europe/Romania/Bals, Caracal, Corabia, Olt, Scornicesti, Slatina/249
+Earth/Europe/Romania/Bucuresti (Bucharest, Mogosoaia, Otopeni/21

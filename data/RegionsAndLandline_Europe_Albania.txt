@@ -1,0 +1,14 @@
+Earth/Europe/Albania/Berat/32
+Earth/Europe/Albania/Durres/52
+Earth/Europe/Albania/Elbasan/54
+Earth/Europe/Albania/Fier/34
+Earth/Europe/Albania/Gjirokaster/84
+Earth/Europe/Albania/Kavaje/55
+Earth/Europe/Albania/Korce/82
+Earth/Europe/Albania/Kruje /511
+Earth/Europe/Albania/Lushnje/35
+Earth/Europe/Albania/Pogradec/83
+Earth/Europe/Albania/Sarande/852
+Earth/Europe/Albania/Shkoder/22
+Earth/Europe/Albania/Tirane/4
+Earth/Europe/Albania/Vlore/33

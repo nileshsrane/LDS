@@ -1,0 +1,2647 @@
+Earth/Asia/India/Telangana/Adilabad/Adilabad/8732
+Earth/Asia/India/Telangana/Adilabad/Asifabad/8733
+Earth/Asia/India/Telangana/Adilabad/Bellampalli/8735
+Earth/Asia/India/Telangana/Adilabad/Bhainsa/8752
+Earth/Asia/India/Telangana/Adilabad/Boath/8751
+Earth/Asia/India/Telangana/Adilabad/Chinnor/8737
+Earth/Asia/India/Telangana/Adilabad/Jannaram/8739
+Earth/Asia/India/Telangana/Adilabad/Khanapur/8730
+Earth/Asia/India/Telangana/Adilabad/Mancherial/8736
+Earth/Asia/India/Telangana/Adilabad/Nirmal/8734
+Earth/Asia/India/Telangana/Adilabad/Outsarangapalle/8753
+Earth/Asia/India/Telangana/Adilabad/Sirpurkagaznagar/8738
+Earth/Asia/India/Telangana/Adilabad/Utnor/8731
+**
+Earth/Asia/India/Andaman and Nicobar Islands/Andaman Islands/3192
+Earth/Asia/India/Andaman and Nicobar Islands/Nicobar Islands/3193
+**
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Anantapur/8554
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Dharmavaram/8559
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Garladinne/8551
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Gooty (Guntakal)/8552
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Hindupur/8556
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Kadiri/8494
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Kalyandurg/8497
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Kambadur/8492
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Kanaganapalle/8491
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Madakasira/8493
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Nallacheruvu (Tanakallu)/8498
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Penukonda/8557
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Rayadurg/8495
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Tadipatri/8558
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Uravakonda/8496
+Earth/Asia/India/Andhra Pradesh/Anantpur (Guntakal)/Yellanuru/8550
+Earth/Asia/India/Andhra Pradesh/Chittoor/B.kothakota/8582
+Earth/Asia/India/Andhra Pradesh/Chittoor/Bangarupalem/8573
+Earth/Asia/India/Andhra Pradesh/Chittoor/Chittoor/8572
+Earth/Asia/India/Andhra Pradesh/Chittoor/Kuppam/8570
+Earth/Asia/India/Andhra Pradesh/Chittoor/Madanapalli/8571
+Earth/Asia/India/Andhra Pradesh/Chittoor/Pakala/8585
+Earth/Asia/India/Andhra Pradesh/Chittoor/Palmaneru/8579
+Earth/Asia/India/Andhra Pradesh/Chittoor/Piler/8584
+Earth/Asia/India/Andhra Pradesh/Chittoor/Punganur/8581
+Earth/Asia/India/Andhra Pradesh/Chittoor/Putturu/8577
+Earth/Asia/India/Andhra Pradesh/Chittoor/Satyavedu/8576
+Earth/Asia/India/Andhra Pradesh/Chittoor/Sodam/8583
+Earth/Asia/India/Andhra Pradesh/Chittoor/Srikalahasthi/8578
+Earth/Asia/India/Andhra Pradesh/Chittoor/Tirupathi/877
+Earth/Asia/India/Andhra Pradesh/Chittoor/Vayalpad/8586
+Earth/Asia/India/Andhra Pradesh/Chittoor/Venkatgirikota/8587
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Badvel/8569
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Cuddapah/8562
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Jammalamadugu/8560
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Kamalapuram (Yerraguntala)/8563
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Koduru/8566
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Lakkireddipalli/8567
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Proddatur/8564
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Pulivendla/8568
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Rajampeta/8565
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Rayachoti/8561
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Siddavattam/8589
+Earth/Asia/India/Andhra Pradesh/Cuddapah/Vaimpalli/8588
+Earth/Asia/India/Andhra Pradesh/Eluru/Bhimadole/8829
+Earth/Asia/India/Andhra Pradesh/Eluru/Bhimavaram/8816
+Earth/Asia/India/Andhra Pradesh/Eluru/Chintalapudi/8823
+Earth/Asia/India/Andhra Pradesh/Eluru/Eluru/8812
+Earth/Asia/India/Andhra Pradesh/Eluru/Jangareddygudem/8821
+Earth/Asia/India/Andhra Pradesh/Eluru/Kovvur (Nidadavolu)/8813
+Earth/Asia/India/Andhra Pradesh/Eluru/Narsapur (Palakole)/8814
+Earth/Asia/India/Andhra Pradesh/Eluru/Polavaram/8811
+Earth/Asia/India/Andhra Pradesh/Eluru/Tadepalligudem/8818
+Earth/Asia/India/Andhra Pradesh/Eluru/Tanuku/8819
+Earth/Asia/India/Andhra Pradesh/Guntur/Bapatla/8643
+Earth/Asia/India/Andhra Pradesh/Guntur/Guntur/863
+Earth/Asia/India/Andhra Pradesh/Guntur/Krosuru/8640
+Earth/Asia/India/Andhra Pradesh/Guntur/Mangalagiri/8645
+Earth/Asia/India/Andhra Pradesh/Guntur/Narsaraopet/8647
+Earth/Asia/India/Andhra Pradesh/Guntur/Palnad (Macherala)/8642
+Earth/Asia/India/Andhra Pradesh/Guntur/Piduguralla/8649
+Earth/Asia/India/Andhra Pradesh/Guntur/Repalle/8648
+Earth/Asia/India/Andhra Pradesh/Guntur/Sattenapalli/8641
+Earth/Asia/India/Andhra Pradesh/Guntur/Tenali/8644
+Earth/Asia/India/Andhra Pradesh/Guntur/Vinukonda/8646
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Chevella/8417
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Hyderabad Loc/40
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Hyderabadeast (Ghatkeswar)/8415
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Hyderabadwest (Shamshabad)/8413
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Ibrahimpatnam/8414
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Medchal/8418
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Pargi/8412
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Tanduru/8411
+Earth/Asia/India/Andhra Pradesh/Hyderabad/Vikrabad/8416
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Husnabad/8721
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Huzurabad/8727
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Jagtial/8724
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Karimnagar/878
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Mahadevapur/8720
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Manthani/8729
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Metpalli/8725
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Peddapalli/8728
+Earth/Asia/India/Andhra Pradesh/Karimnagar/Sircilla/8723
+Earth/Asia/India/Andhra Pradesh/Khammam/Aswaraopet/8740
+Earth/Asia/India/Andhra Pradesh/Khammam/Bhadrachalam/8743
+Earth/Asia/India/Andhra Pradesh/Khammam/Bhooragamphad (Manuguru)/8746
+Earth/Asia/India/Andhra Pradesh/Khammam/Khammam/8742
+Earth/Asia/India/Andhra Pradesh/Khammam/Kothagudem/8744
+Earth/Asia/India/Andhra Pradesh/Khammam/Madhira/8749
+Earth/Asia/India/Andhra Pradesh/Khammam/Nuguru (Cherla)/8747
+Earth/Asia/India/Andhra Pradesh/Khammam/Sathupalli/8761
+Earth/Asia/India/Andhra Pradesh/Khammam/Sudhimalla (Tekulapalli)/8741
+Earth/Asia/India/Andhra Pradesh/Khammam/V.r.puram/8748
+Earth/Asia/India/Andhra Pradesh/Khammam/Yellandu/8745
+Earth/Asia/India/Andhra Pradesh/Kurnool/Adoni/8512
+Earth/Asia/India/Andhra Pradesh/Kurnool/Allagadda/8519
+Earth/Asia/India/Andhra Pradesh/Kurnool/Alur/8523
+Earth/Asia/India/Andhra Pradesh/Kurnool/Atmakur/8517
+Earth/Asia/India/Andhra Pradesh/Kurnool/Banaganapalle/8515
+Earth/Asia/India/Andhra Pradesh/Kurnool/Dronachalam/8516
+Earth/Asia/India/Andhra Pradesh/Kurnool/Gudur (Kodumur)/8525
+Earth/Asia/India/Andhra Pradesh/Kurnool/Koilkuntla/8510
+Earth/Asia/India/Andhra Pradesh/Kurnool/Kurnool/8518
+Earth/Asia/India/Andhra Pradesh/Kurnool/Nandikotkur/8513
+Earth/Asia/India/Andhra Pradesh/Kurnool/Nandyal/8514
+Earth/Asia/India/Andhra Pradesh/Kurnool/Pattikonda/8520
+Earth/Asia/India/Andhra Pradesh/Kurnool/Peapalle/8522
+Earth/Asia/India/Andhra Pradesh/Kurnool/Srisailam/8524
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Achampet/8541
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Alampur/8502
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Amangallu/8545
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Atmakur/8504
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Gadwal/8546
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Kalwakurthy/8549
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Kodangal/8505
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Kollapur/8501
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Mahabubnagar/8542
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Makthal/8503
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Nagarkurnool/8540
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Narayanpet/8506
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Shadnagar/8548
+Earth/Asia/India/Andhra Pradesh/Mahabubnagar/Wanaparthy/8543
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Bhongir/8685
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Chandoor/8681
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Devarakonda/8691
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Hazurnagar/8683
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Miryalguda/8689
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Nalgonda/8682
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Nampalle/8692
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Nidamanur (Hillcolony)/8680
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Ramannapet/8694
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Suryapet/8684
+Earth/Asia/India/Andhra Pradesh/Nalgonda/Thungaturthy/8693
+Earth/Asia/India/Andhra Pradesh/Nellore/Atmakur/8627
+Earth/Asia/India/Andhra Pradesh/Nellore/Chejerla/8628
+Earth/Asia/India/Andhra Pradesh/Nellore/Gudur/8624
+Earth/Asia/India/Andhra Pradesh/Nellore/Kavali/8626
+Earth/Asia/India/Andhra Pradesh/Nellore/Kovvur/8622
+Earth/Asia/India/Andhra Pradesh/Nellore/Nellore/861
+Earth/Asia/India/Andhra Pradesh/Nellore/Rapur (Podalakur)/8621
+Earth/Asia/India/Andhra Pradesh/Nellore/Sullurpet/8623
+Earth/Asia/India/Andhra Pradesh/Nellore/Udaygiri/8620
+Earth/Asia/India/Andhra Pradesh/Nellore/Venkatgiri/8625
+Earth/Asia/India/Andhra Pradesh/Nellore/Vinjamuru/8629
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Armoor/8463
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Banswada/8466
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Bodhan/8467
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Dichpalli/8461
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Kamareddy/8468
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Madnur/8464
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Nizamabad/8462
+Earth/Asia/India/Andhra Pradesh/Nizamabad/Yellareddy/8465
+Earth/Asia/India/Andhra Pradesh/Ongole/Chirala/8594
+Earth/Asia/India/Andhra Pradesh/Ongole/Cumbum/8406
+Earth/Asia/India/Andhra Pradesh/Ongole/Darsi/8407
+Earth/Asia/India/Andhra Pradesh/Ongole/Donakonda/8408
+Earth/Asia/India/Andhra Pradesh/Ongole/Giddalur/8405
+Earth/Asia/India/Andhra Pradesh/Ongole/Kandukuru/8598
+Earth/Asia/India/Andhra Pradesh/Ongole/Kanigiri/8402
+Earth/Asia/India/Andhra Pradesh/Ongole/Markapur/8596
+Earth/Asia/India/Andhra Pradesh/Ongole/Marturu/8404
+Earth/Asia/India/Andhra Pradesh/Ongole/Medarmetla/8593
+Earth/Asia/India/Andhra Pradesh/Ongole/Ongole/8592
+Earth/Asia/India/Andhra Pradesh/Ongole/Pamuru/8490
+Earth/Asia/India/Andhra Pradesh/Ongole/Podili/8499
+Earth/Asia/India/Andhra Pradesh/Ongole/Ulvapadu/8599
+Earth/Asia/India/Andhra Pradesh/Ongole/Yerragondapalem/8403
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Amalapuram/8856
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Chavitidibbalu/8863
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Kakinada/884
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Mandapeta (Ravulapalem)/8855
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Peddapuram/8852
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Pithapuram/8869
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Rajahmundri/883
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Ramachandrapuram/8857
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Rampachodavaram/8864
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Razole/8862
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Tuni/8854
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Yelavaram/8865
+Earth/Asia/India/Andhra Pradesh/Rajahmundri/Yeleswaram/8868
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Andole (Jogipet)/8450
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Gajwel/8454
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Medak/8452
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Narayankhed/8456
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Narsapur/8458
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Sangareddy/8455
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Siddipet/8457
+Earth/Asia/India/Andhra Pradesh/Sangareddy/Zahirabad/8451
+Earth/Asia/India/Andhra Pradesh/Srikakulam/Palakonda (Rajam)/8941
+Earth/Asia/India/Andhra Pradesh/Srikakulam/Pathapatnam (Hiramandalam)/8946
+Earth/Asia/India/Andhra Pradesh/Srikakulam/Sompeta/8947
+Earth/Asia/India/Andhra Pradesh/Srikakulam/Srikakulam/8942
+Earth/Asia/India/Andhra Pradesh/Srikakulam/Tekkali (Palasa)/8945
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Bandar (Machilipatnam)/8672
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Divi (Challapalli)/8671
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Gudivada/8674
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Jaggayyapet/8654
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Kaikaluru/8677
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Mylavaram/8659
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Nandigama/8678
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Nuzvidu/8656
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Tirivuru/8673
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Vijayawada/866
+Earth/Asia/India/Andhra Pradesh/Vijayawada/Vuyyuru/8676
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Anakapalle/8924
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Araku/8936
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Bheemunipatnam/8933
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Chintapalle/8937
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Chodavaram/8934
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Narsipatnam/8932
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Paderu/8935
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Sileru/8938
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Visakhapatnam/891
+Earth/Asia/India/Andhra Pradesh/Visakhapatnam/Yelamanchili/8931
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Bobbili/8944
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Chepurupalli (Garividi)/8952
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Gajapathinagaram/8965
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Parvathipuram/8963
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Saluru/8964
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Srungavarapukota (Kothvls)/8966
+Earth/Asia/India/Andhra Pradesh/Vizayanagaram/Vizayanagaram/8922
+Earth/Asia/India/Andhra Pradesh/Warangal/Cherial/8710
+Earth/Asia/India/Andhra Pradesh/Warangal/Eturnagaram/8717
+Earth/Asia/India/Andhra Pradesh/Warangal/Jangaon/8716
+Earth/Asia/India/Andhra Pradesh/Warangal/Mahabubbad/8719
+Earth/Asia/India/Andhra Pradesh/Warangal/Mulug/8715
+Earth/Asia/India/Andhra Pradesh/Warangal/Narasampet/8718
+Earth/Asia/India/Andhra Pradesh/Warangal/Parkal/8713
+Earth/Asia/India/Andhra Pradesh/Warangal/Warangal/870
+Earth/Asia/India/Andhra Pradesh/Warangal/Wardhannapet (Ghanapur)/8711
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Abhayapuri/3669
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Bijni/3668
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Bilasipara/3667
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Dhubri/3662
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Goalpara/3663
+Earth/Asia/India/Assam/Bongaigaon (Kokrajhar)/Kokrajhar/3661
+Earth/Asia/India/Assam/Guwahati/Barama/3623
+Earth/Asia/India/Assam/Guwahati/Barpeta Road/3666
+Earth/Asia/India/Assam/Guwahati/Boko/3621
+Earth/Asia/India/Assam/Guwahati/Guwahati/361
+Earth/Asia/India/Assam/Guwahati/Hajo/3664
+Earth/Asia/India/Assam/Guwahati/Nalbari/3624
+Earth/Asia/India/Assam/Guwahati/Tarabarihat/3665
+Earth/Asia/India/Assam/Jorhat/Bokakhat/3776
+Earth/Asia/India/Assam/Jorhat/Golaghat/3774
+Earth/Asia/India/Assam/Jorhat/Jorhat/376
+Earth/Asia/India/Assam/Jorhat/Majuli/3775
+Earth/Asia/India/Assam/Jorhat/Mariani/3771
+Earth/Asia/India/Assam/Jorhat/Sibsagar/3772
+Earth/Asia/India/Assam/Nagaon/Baithalangshu/3677
+Earth/Asia/India/Assam/Nagaon/Bokajan/3675
+Earth/Asia/India/Assam/Nagaon/Diphu/3671
+Earth/Asia/India/Assam/Nagaon/Haflong/3673
+Earth/Asia/India/Assam/Nagaon/Hojai/3674
+Earth/Asia/India/Assam/Nagaon/Howraghat/3676
+Earth/Asia/India/Assam/Nagaon/Maibong/3670
+Earth/Asia/India/Assam/Nagaon/Morigaon/3678
+Earth/Asia/India/Assam/Nagaon/Nagaon/3672
+Earth/Asia/India/Assam/Silchar/Hailakandi/3844
+Earth/Asia/India/Assam/Silchar/Karimganj/3843
+Earth/Asia/India/Assam/Silchar/Silchar/3842
+Earth/Asia/India/Assam/Silchar/Vdarbondh/3841
+Earth/Asia/India/Assam/Tezpur/Gohpur/3715
+Earth/Asia/India/Assam/Tezpur/Mangaldoi/3713
+Earth/Asia/India/Assam/Tezpur/Rangapara/3714
+Earth/Asia/India/Assam/Tezpur/Tezpur/3712
+Earth/Asia/India/Assam/Tezpur/Udalguri/3711
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Bihupuria/3759
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Dhakuakhana/3758
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Dhemaji/3753
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Dibrugarh/373
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Digboi/3751
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Moranhat/3754
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/North Lakhimpur/3752
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Sadiya/3756
+Earth/Asia/India/Assam/Tinsukia (Dibrugarh)/Tinsukhia/374
+Earth/Asia/India/Bihar/Arrah/Arrah/6182
+Earth/Asia/India/Bihar/Arrah/Buxar/6183
+Earth/Asia/India/Bihar/Arrah/Dumraon/6323
+Earth/Asia/India/Bihar/Arrah/Piro/6181
+Earth/Asia/India/Bihar/Bhagalpur/Amarpur/6420
+Earth/Asia/India/Bihar/Bhagalpur/Banka/6424
+Earth/Asia/India/Bihar/Bhagalpur/Bhagalpur/641
+Earth/Asia/India/Bihar/Bhagalpur/Kahalgaon/6429
+Earth/Asia/India/Bihar/Bhagalpur/Katoria/6425
+Earth/Asia/India/Bihar/Bhagalpur/Naugachia/6421
+Earth/Asia/India/Bihar/Chapra/Chapra/6152
+Earth/Asia/India/Bihar/Chapra/Ekma/6155
+Earth/Asia/India/Bihar/Chapra/Gopalganj/6156
+Earth/Asia/India/Bihar/Chapra/Hathua/6150
+Earth/Asia/India/Bihar/Chapra/Maharajganj/6153
+Earth/Asia/India/Bihar/Chapra/Mairwa/6157
+Earth/Asia/India/Bihar/Chapra/Masrakh/6159
+Earth/Asia/India/Bihar/Chapra/Sidhawalia/6151
+Earth/Asia/India/Bihar/Chapra/Siwan/6154
+Earth/Asia/India/Bihar/Chapra/Sonepur/6158
+Earth/Asia/India/Bihar/Darbhanga/Barauni/6279
+Earth/Asia/India/Bihar/Darbhanga/Begusarai/6243
+Earth/Asia/India/Bihar/Darbhanga/Benipatti/6271
+Earth/Asia/India/Bihar/Darbhanga/Benipur/6242
+Earth/Asia/India/Bihar/Darbhanga/Dalsinghsarai/6278
+Earth/Asia/India/Bihar/Darbhanga/Darbhanga/6272
+Earth/Asia/India/Bihar/Darbhanga/Gogri/6245
+Earth/Asia/India/Bihar/Darbhanga/Jainagar/6246
+Earth/Asia/India/Bihar/Darbhanga/Jhajharpur/6273
+Earth/Asia/India/Bihar/Darbhanga/Khagaria/6244
+Earth/Asia/India/Bihar/Darbhanga/Madhubani/6276
+Earth/Asia/India/Bihar/Darbhanga/Phulparas/6277
+Earth/Asia/India/Bihar/Darbhanga/Rosera/6275
+Earth/Asia/India/Bihar/Darbhanga/Samastipur/6274
+Earth/Asia/India/Bihar/Darbhanga/Singhwara/6247
+Earth/Asia/India/Bihar/Dhanbad/Bermo/6549
+Earth/Asia/India/Bihar/Dhanbad/Bokaro/6542
+Earth/Asia/India/Bihar/Dhanbad/Dhanbad/326
+Earth/Asia/India/Bihar/Dhanbad/Gomia/6544
+Earth/Asia/India/Bihar/Dhanbad/Govindpur/6540
+Earth/Asia/India/Bihar/Gaya/Arwal/6337
+Earth/Asia/India/Bihar/Gaya/Aurangabad/6186
+Earth/Asia/India/Bihar/Gaya/Daudnagar/6328
+Earth/Asia/India/Bihar/Gaya/Gaya/631
+Earth/Asia/India/Bihar/Gaya/Imamganj/6331
+Earth/Asia/India/Bihar/Gaya/Jahanabad/6114
+Earth/Asia/India/Bihar/Gaya/Nabinagar/6332
+Earth/Asia/India/Bihar/Gaya/Nawada/6324
+Earth/Asia/India/Bihar/Gaya/Pakribarwan/6325
+Earth/Asia/India/Bihar/Gaya/Rafiganj/6327
+Earth/Asia/India/Bihar/Gaya/Rajauli/6336
+Earth/Asia/India/Bihar/Gaya/Sherghati/6326
+Earth/Asia/India/Bihar/Gaya/Wazirganj/6322
+Earth/Asia/India/Bihar/Katihar/Araria/6453
+Earth/Asia/India/Bihar/Katihar/Banmankhi/6467
+Earth/Asia/India/Bihar/Katihar/Barsoi/6451
+Earth/Asia/India/Bihar/Katihar/Dhamdaha/6462
+Earth/Asia/India/Bihar/Katihar/Forbesganj/6455
+Earth/Asia/India/Bihar/Katihar/Katihar/6452
+Earth/Asia/India/Bihar/Katihar/Kishanganj/6466
+Earth/Asia/India/Bihar/Katihar/Korha/6457
+Earth/Asia/India/Bihar/Katihar/Purnea/6454
+Earth/Asia/India/Bihar/Katihar/Raniganj/6461
+Earth/Asia/India/Bihar/Katihar/Thakurganj/6459
+Earth/Asia/India/Bihar/Monghyr/Chakai/6347
+Earth/Asia/India/Bihar/Monghyr/H.kharagpur/6342
+Earth/Asia/India/Bihar/Monghyr/Jamui/6345
+Earth/Asia/India/Bihar/Monghyr/Jhajha/6349
+Earth/Asia/India/Bihar/Monghyr/Lakhisarai/6346
+Earth/Asia/India/Bihar/Monghyr/Mallehpur/6348
+Earth/Asia/India/Bihar/Monghyr/Monghyr/6344
+Earth/Asia/India/Bihar/Monghyr/Seikhpura/6341
+Earth/Asia/India/Bihar/Motihari/Areraj/6258
+Earth/Asia/India/Bihar/Motihari/Bagaha/6251
+Earth/Asia/India/Bihar/Motihari/Barachakia/6257
+Earth/Asia/India/Bihar/Motihari/Bettiah/6254
+Earth/Asia/India/Bihar/Motihari/Dhaka/6250
+Earth/Asia/India/Bihar/Motihari/Motihari/6252
+Earth/Asia/India/Bihar/Motihari/Narkatiaganj/6253
+Earth/Asia/India/Bihar/Motihari/Pakridayal/6259
+Earth/Asia/India/Bihar/Motihari/Ramnagar/6256
+Earth/Asia/India/Bihar/Motihari/Raxaul/6255
+Earth/Asia/India/Bihar/Muzaffarpur/Bidupur/6229
+Earth/Asia/India/Bihar/Muzaffarpur/Hajipur/6224
+Earth/Asia/India/Bihar/Muzaffarpur/Mahua/6227
+Earth/Asia/India/Bihar/Muzaffarpur/Motipur/6223
+Earth/Asia/India/Bihar/Muzaffarpur/Muzaffarpur/621
+Earth/Asia/India/Bihar/Muzaffarpur/Pupri/6228
+Earth/Asia/India/Bihar/Muzaffarpur/Sheohar/6222
+Earth/Asia/India/Bihar/Muzaffarpur/Sitamarhi/6226
+Earth/Asia/India/Bihar/Patna/Barh/6132
+Earth/Asia/India/Bihar/Patna/Biharsharif/6112
+Earth/Asia/India/Bihar/Patna/Bikram/6135
+Earth/Asia/India/Bihar/Patna/Danapur/6115
+Earth/Asia/India/Bihar/Patna/Hilsa/6111
+Earth/Asia/India/Bihar/Patna/Patna/612
+Earth/Asia/India/Bihar/Saharsa/Birpur/6471
+Earth/Asia/India/Bihar/Saharsa/Madhepura/6476
+Earth/Asia/India/Bihar/Saharsa/S.bakhtiarpur/6475
+Earth/Asia/India/Bihar/Saharsa/Saharsa/6478
+Earth/Asia/India/Bihar/Saharsa/Supaul/6473
+Earth/Asia/India/Bihar/Saharsa/Triveniganj/6477
+Earth/Asia/India/Bihar/Saharsa/Udakishanganj/6479
+Earth/Asia/India/Bihar/Sasaram/Adhaura/6180
+Earth/Asia/India/Bihar/Sasaram/Bhabhua/6189
+Earth/Asia/India/Bihar/Sasaram/Bikramganj/6185
+Earth/Asia/India/Bihar/Sasaram/Mohania/6187
+Earth/Asia/India/Bihar/Sasaram/Rohtas/6188
+Earth/Asia/India/Bihar/Sasaram/Sasaram/6184
+Earth/Asia/India/Bihar/Daltonganj/Balumath/6568
+Earth/Asia/India/Bihar/Daltonganj/Barwadih/6567
+Earth/Asia/India/Bihar/Daltonganj/Bhandaria/6581
+Earth/Asia/India/Bihar/Daltonganj/Bhawanathpur/6563
+Earth/Asia/India/Bihar/Daltonganj/Bishrampur/6584
+Earth/Asia/India/Bihar/Daltonganj/Chainpur/6586
+Earth/Asia/India/Bihar/Daltonganj/Daltonganj/6562
+Earth/Asia/India/Bihar/Daltonganj/Garhwa/6561
+Earth/Asia/India/Bihar/Daltonganj/Garu/6569
+Earth/Asia/India/Bihar/Daltonganj/Japla/6566
+Earth/Asia/India/Bihar/Daltonganj/Latehar/6565
+Earth/Asia/India/Bihar/Daltonganj/Nagarutari/6564
+Earth/Asia/India/Bihar/Daltonganj/Patan/6560
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Deoghar/6432
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Dumka/6434
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Godda/6422
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Jamtara/6433
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Jharmundi/6431
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Kathikund/6427
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Madhupur/6438
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Mahagama/6437
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Maheshpur Raj/6423
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Nala/6428
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Pakur/6435
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Rajmahal/6426
+Earth/Asia/India/Bihar/Deoghar (Dumka)/Sahibganj/6436
+Earth/Asia/India/Bihar/Hazaribagh/Bagodar/6557
+Earth/Asia/India/Bihar/Hazaribagh/Barhi/6543
+Earth/Asia/India/Bihar/Hazaribagh/Barkagaon/6551
+Earth/Asia/India/Bihar/Hazaribagh/Chatra/6541
+Earth/Asia/India/Bihar/Hazaribagh/Chavparan/6547
+Earth/Asia/India/Bihar/Hazaribagh/Dumri(Isribazar)/6558
+Earth/Asia/India/Bihar/Hazaribagh/Giridih/6532
+Earth/Asia/India/Bihar/Hazaribagh/Hazaribagh/6546
+Earth/Asia/India/Bihar/Hazaribagh/Hunterganj/6550
+Earth/Asia/India/Bihar/Hazaribagh/Ichak/6548
+Earth/Asia/India/Bihar/Hazaribagh/Jhumaritalaiya/6534
+Earth/Asia/India/Bihar/Hazaribagh/Mandu/6545
+Earth/Asia/India/Bihar/Hazaribagh/Rajdhanwar/6554
+Earth/Asia/India/Bihar/Hazaribagh/Ramgarh/6553
+Earth/Asia/India/Bihar/Hazaribagh/Simaria/6559
+Earth/Asia/India/Bihar/Hazaribagh/Tisri/6556
+Earth/Asia/India/Bihar/Jamshedpur/Baharagora/6594
+Earth/Asia/India/Bihar/Jamshedpur/Chaibasa/6582
+Earth/Asia/India/Bihar/Jamshedpur/Chakardharpur/6587
+Earth/Asia/India/Bihar/Jamshedpur/Chandil/6591
+Earth/Asia/India/Bihar/Jamshedpur/Ghatsila/6585
+Earth/Asia/India/Bihar/Jamshedpur/Jagarnathpur/6588
+Earth/Asia/India/Bihar/Jamshedpur/Jamshedpur/657
+Earth/Asia/India/Bihar/Jamshedpur/Jhinkpani/6589
+Earth/Asia/India/Bihar/Jamshedpur/Kharsawa/6583
+Earth/Asia/India/Bihar/Jamshedpur/Manoharpur/6593
+Earth/Asia/India/Bihar/Jamshedpur/Noamundi/6596
+Earth/Asia/India/Bihar/Jamshedpur/Saraikela (Adstyapur)/6597
+Earth/Asia/India/Bihar/Ranchi/Basia/6533
+Earth/Asia/India/Bihar/Ranchi/Bolwa/6539
+Earth/Asia/India/Bihar/Ranchi/Bundu/6530
+Earth/Asia/India/Bihar/Ranchi/Chainpur/6535
+Earth/Asia/India/Bihar/Ranchi/Ghaghra/6523
+Earth/Asia/India/Bihar/Ranchi/Gumla/6524
+Earth/Asia/India/Bihar/Ranchi/Itki/6529
+Earth/Asia/India/Bihar/Ranchi/Khunti/6528
+Earth/Asia/India/Bihar/Ranchi/Kolebira/6527
+Earth/Asia/India/Bihar/Ranchi/Lohardaga/6526
+Earth/Asia/India/Bihar/Ranchi/Mandar/6531
+Earth/Asia/India/Bihar/Ranchi/Muri/6522
+Earth/Asia/India/Bihar/Ranchi/Palkot/6536
+Earth/Asia/India/Bihar/Ranchi/Ranchi/651
+Earth/Asia/India/Bihar/Ranchi/Simdega/6525
+Earth/Asia/India/Bihar/Ranchi/Torpa/6538
+Earth/Asia/India/Maharashtra/Mumbai/22
+Earth/Asia/India/Maharashtra/Mumbai/Navi Mumbai/215
+Earth/Asia/India/Gujarat/Ahmedabad/Ahemdabad Local/79
+Earth/Asia/India/Gujarat/Ahmedabad/Bareja/2718
+Earth/Asia/India/Gujarat/Ahmedabad/Barwala/2711
+Earth/Asia/India/Gujarat/Ahmedabad/Dehgam/2716
+Earth/Asia/India/Gujarat/Ahmedabad/Dhandhuka/2713
+Earth/Asia/India/Gujarat/Ahmedabad/Dholka/2714
+Earth/Asia/India/Gujarat/Ahmedabad/Gandhi Nagar/2712
+Earth/Asia/India/Gujarat/Ahmedabad/Sanand/2717
+Earth/Asia/India/Gujarat/Ahmedabad/Viramgam/2715
+Earth/Asia/India/Gujarat/Amreli/Amreli/2792
+Earth/Asia/India/Gujarat/Amreli/Babra/2791
+Earth/Asia/India/Gujarat/Amreli/Damnagar/2793
+Earth/Asia/India/Gujarat/Amreli/Dhari/2797
+Earth/Asia/India/Gujarat/Amreli/Kunkawav/2796
+Earth/Asia/India/Gujarat/Amreli/Rajula/2794
+Earth/Asia/India/Gujarat/Amreli/Savarkundla/2845
+Earth/Asia/India/Gujarat/Bharuch/Amod/2641
+Earth/Asia/India/Gujarat/Bharuch/Ankleshwar/2646
+Earth/Asia/India/Gujarat/Bharuch/Bharuch/2642
+Earth/Asia/India/Gujarat/Bharuch/Dediapada/2649
+Earth/Asia/India/Gujarat/Bharuch/Jambusar/2644
+Earth/Asia/India/Gujarat/Bharuch/Jhagadia/2645
+Earth/Asia/India/Gujarat/Bharuch/Rajpipla/2640
+Earth/Asia/India/Gujarat/Bharuch/Valia/2643
+Earth/Asia/India/Gujarat/Bhavnagar/Bhavnagar/278
+Earth/Asia/India/Gujarat/Bhavnagar/Botad/2849
+Earth/Asia/India/Gujarat/Bhavnagar/Gadhada/2847
+Earth/Asia/India/Gujarat/Bhavnagar/Gariadhar/2843
+Earth/Asia/India/Gujarat/Bhavnagar/Mahuva/2844
+Earth/Asia/India/Gujarat/Bhavnagar/Palitana/2848
+Earth/Asia/India/Gujarat/Bhavnagar/Sihor/2846
+Earth/Asia/India/Gujarat/Bhavnagar/Talaja/2842
+Earth/Asia/India/Gujarat/Bhavnagar/Vallabhipur/2841
+Earth/Asia/India/Gujarat/Bhuj/Anjar (Gandhidham)/2836
+Earth/Asia/India/Gujarat/Bhuj/Bhachav/2837
+Earth/Asia/India/Gujarat/Bhuj/Bhuj/2832
+Earth/Asia/India/Gujarat/Bhuj/Gogodar/2806
+Earth/Asia/India/Gujarat/Bhuj/Khavda/2803
+Earth/Asia/India/Gujarat/Bhuj/Kutchmandvi/2834
+Earth/Asia/India/Gujarat/Bhuj/Lakhpat/2839
+Earth/Asia/India/Gujarat/Bhuj/Mundra/2838
+Earth/Asia/India/Gujarat/Bhuj/Nakhatrana/2835
+Earth/Asia/India/Gujarat/Bhuj/Nalia/2831
+Earth/Asia/India/Gujarat/Bhuj/Rahpar/2830
+Earth/Asia/India/Gujarat/Bhuj/Sumrasar/2808
+Earth/Asia/India/Gujarat/Godhra/Dahod/2673
+Earth/Asia/India/Gujarat/Godhra/Devgadhbaria/2678
+Earth/Asia/India/Gujarat/Godhra/Godhra/2672
+Earth/Asia/India/Gujarat/Godhra/Halol/2676
+Earth/Asia/India/Gujarat/Godhra/Jhalod/2679
+Earth/Asia/India/Gujarat/Godhra/Limkheda/2677
+Earth/Asia/India/Gujarat/Godhra/Lunavada/2674
+Earth/Asia/India/Gujarat/Godhra/Santrampur/2675
+Earth/Asia/India/Gujarat/Godhra/Shehra/2670
+Earth/Asia/India/Gujarat/Himatnagar/Bayad/2779
+Earth/Asia/India/Gujarat/Himatnagar/Bhiloda/2771
+Earth/Asia/India/Gujarat/Himatnagar/Himatnagar/2772
+Earth/Asia/India/Gujarat/Himatnagar/Idar/2778
+Earth/Asia/India/Gujarat/Himatnagar/Khedbrahma/2775
+Earth/Asia/India/Gujarat/Himatnagar/Malpur/2773
+Earth/Asia/India/Gujarat/Himatnagar/Modasa/2774
+Earth/Asia/India/Gujarat/Himatnagar/Prantij/2770
+Earth/Asia/India/Gujarat/Jamnagar/Bhanvad/2896
+Earth/Asia/India/Gujarat/Jamnagar/Dhrol/2897
+Earth/Asia/India/Gujarat/Jamnagar/Jamjodhpur/2898
+Earth/Asia/India/Gujarat/Jamnagar/Jamkalyanpur/2891
+Earth/Asia/India/Gujarat/Jamnagar/Jamnagar/288
+Earth/Asia/India/Gujarat/Jamnagar/Jodia/2893
+Earth/Asia/India/Gujarat/Jamnagar/Kalawad/2894
+Earth/Asia/India/Gujarat/Jamnagar/Khambhalia/2833
+Earth/Asia/India/Gujarat/Jamnagar/Lalpur/2895
+Earth/Asia/India/Gujarat/Jamnagar/Okha/2892
+Earth/Asia/India/Gujarat/Junagarh/Junagarh/285
+Earth/Asia/India/Gujarat/Junagarh/Keshod/2871
+Earth/Asia/India/Gujarat/Junagarh/Kodinar/2795
+Earth/Asia/India/Gujarat/Junagarh/Kutiyana/2804
+Earth/Asia/India/Gujarat/Junagarh/Malia-Hatina/2870
+Earth/Asia/India/Gujarat/Junagarh/Manavadar/2874
+Earth/Asia/India/Gujarat/Junagarh/Mangrol/2878
+Earth/Asia/India/Gujarat/Junagarh/Porbander/286
+Earth/Asia/India/Gujarat/Junagarh/Ranavav/2801
+Earth/Asia/India/Gujarat/Junagarh/Talala/2877
+Earth/Asia/India/Gujarat/Junagarh/Una-Diu/2875
+Earth/Asia/India/Gujarat/Junagarh/Vanthali/2872
+Earth/Asia/India/Gujarat/Junagarh/Veraval/2876
+Earth/Asia/India/Gujarat/Junagarh/Visavadar/2873
+Earth/Asia/India/Gujarat/Mehsana/Chanasma/2734
+Earth/Asia/India/Gujarat/Mehsana/Harij/2733
+Earth/Asia/India/Gujarat/Mehsana/Kalol/2764
+Earth/Asia/India/Gujarat/Mehsana/Kheralu/2761
+Earth/Asia/India/Gujarat/Mehsana/Mehsana/2762
+Earth/Asia/India/Gujarat/Mehsana/Patan/2766
+Earth/Asia/India/Gujarat/Mehsana/Sidhpur/2767
+Earth/Asia/India/Gujarat/Mehsana/Vijapur/2763
+Earth/Asia/India/Gujarat/Mehsana/Visnagar/2765
+Earth/Asia/India/Gujarat/Nadiad/Anand/2692
+Earth/Asia/India/Gujarat/Nadiad/Balasinor/2690
+Earth/Asia/India/Gujarat/Nadiad/Borsad/2696
+Earth/Asia/India/Gujarat/Nadiad/Kapad Wanj/2691
+Earth/Asia/India/Gujarat/Nadiad/Khambat/2698
+Earth/Asia/India/Gujarat/Nadiad/Kheda/2694
+Earth/Asia/India/Gujarat/Nadiad/Nadiad/268
+Earth/Asia/India/Gujarat/Nadiad/Retlad/2697
+Earth/Asia/India/Gujarat/Nadiad/Thasra/2699
+Earth/Asia/India/Gujarat/Palanpur/Danta/2749
+Earth/Asia/India/Gujarat/Palanpur/Deesa/2744
+Earth/Asia/India/Gujarat/Palanpur/Deodar/2735
+Earth/Asia/India/Gujarat/Palanpur/Dhanera/2748
+Earth/Asia/India/Gujarat/Palanpur/Palanpur/2742
+Earth/Asia/India/Gujarat/Palanpur/Radhanpur/2746
+Earth/Asia/India/Gujarat/Palanpur/Santalpur/2738
+Earth/Asia/India/Gujarat/Palanpur/Thara/2747
+Earth/Asia/India/Gujarat/Palanpur/Tharad/2737
+Earth/Asia/India/Gujarat/Palanpur/Vadgam/2739
+Earth/Asia/India/Gujarat/Palanpur/Vav/2740
+Earth/Asia/India/Gujarat/Rajkot/Dhoraji/2824
+Earth/Asia/India/Gujarat/Rajkot/Gondal/2825
+Earth/Asia/India/Gujarat/Rajkot/Jasdan/2821
+Earth/Asia/India/Gujarat/Rajkot/Jetpur/2823
+Earth/Asia/India/Gujarat/Rajkot/Kotdasanghani/2827
+Earth/Asia/India/Gujarat/Rajkot/Maliya Miyana/2829
+Earth/Asia/India/Gujarat/Rajkot/Morvi/2822
+Earth/Asia/India/Gujarat/Rajkot/Paddhari/2820
+Earth/Asia/India/Gujarat/Rajkot/Rajkot/281
+Earth/Asia/India/Gujarat/Rajkot/Upleta/2826
+Earth/Asia/India/Gujarat/Rajkot/Wankaner/2828
+Earth/Asia/India/Gujarat/Surat/Bardoli/2622
+Earth/Asia/India/Gujarat/Surat/Fortsongadh/2624
+Earth/Asia/India/Gujarat/Surat/M.m.mangrol/2629
+Earth/Asia/India/Gujarat/Surat/Mandvi/2623
+Earth/Asia/India/Gujarat/Surat/Nizar/2628
+Earth/Asia/India/Gujarat/Surat/Sayan/2621
+Earth/Asia/India/Gujarat/Surat/Surat/261
+Earth/Asia/India/Gujarat/Surat/Valod/2625
+Earth/Asia/India/Gujarat/Surat/Vyara/2626
+Earth/Asia/India/Gujarat/Surendranagar/Chotila/2751
+Earth/Asia/India/Gujarat/Surendranagar/Dasada/2757
+Earth/Asia/India/Gujarat/Surendranagar/Dhrangadhra/2754
+Earth/Asia/India/Gujarat/Surendranagar/Halvad/2758
+Earth/Asia/India/Gujarat/Surendranagar/Lakhtar/2759
+Earth/Asia/India/Gujarat/Surendranagar/Limbdi/2753
+Earth/Asia/India/Gujarat/Surendranagar/Muli/2756
+Earth/Asia/India/Gujarat/Surendranagar/Sayla/2755
+Earth/Asia/India/Gujarat/Surendranagar/Surendranagar/2752
+Earth/Asia/India/Gujarat/Vadodara/Chhota Udaipur/2669
+Earth/Asia/India/Gujarat/Vadodara/Dabhoi/2663
+Earth/Asia/India/Gujarat/Vadodara/Miyagam/2666
+Earth/Asia/India/Gujarat/Vadodara/Naswadi/2661
+Earth/Asia/India/Gujarat/Vadodara/Padra/2662
+Earth/Asia/India/Gujarat/Vadodara/Pavijetpur/2664
+Earth/Asia/India/Gujarat/Vadodara/Sankheda/2665
+Earth/Asia/India/Gujarat/Vadodara/Savli/2667
+Earth/Asia/India/Gujarat/Vadodara/Vadodara/265
+Earth/Asia/India/Gujarat/Vadodara/Waghodia/2668
+Earth/Asia/India/Gujarat/Valsad/Ahwa/2631
+Earth/Asia/India/Gujarat/Valsad/Bansada/2630
+Earth/Asia/India/Gujarat/Valsad/Billimora/2634
+Earth/Asia/India/Gujarat/Valsad/Dharampur/2633
+Earth/Asia/India/Gujarat/Valsad/Navsari/2637
+Earth/Asia/India/Gujarat/Valsad/Valsad/2632
+Earth/Asia/India/Gujarat/Valsad/Vapi/260
+Earth/Asia/India/Haryana/Ambala/Ambala/171
+Earth/Asia/India/Haryana/Ambala/Barara/1731
+Earth/Asia/India/Haryana/Ambala/Chaaharauli/1735
+Earth/Asia/India/Haryana/Ambala/Jagadhari/1732
+Earth/Asia/India/Haryana/Ambala/Kalka/1733
+Earth/Asia/India/Haryana/Ambala/Naraingarh/1734
+Earth/Asia/India/Haryana/Gurgaon/Faridabad/129
+Earth/Asia/India/Haryana/Gurgaon/Ferojpur/1268
+Earth/Asia/India/Haryana/Gurgaon/Gurgaon/124
+Earth/Asia/India/Haryana/Gurgaon/Nuh/1267
+Earth/Asia/India/Haryana/Gurgaon/Palwal/1275
+Earth/Asia/India/Haryana/Hissar/Adampur Mandi/1669
+Earth/Asia/India/Haryana/Hissar/Barwala/1693
+Earth/Asia/India/Haryana/Hissar/Dabwali/1668
+Earth/Asia/India/Haryana/Hissar/Ellenabad/1698
+Earth/Asia/India/Haryana/Hissar/Fatehabad/1667
+Earth/Asia/India/Haryana/Hissar/Hansi/1663
+Earth/Asia/India/Haryana/Hissar/Hissar/1662
+Earth/Asia/India/Haryana/Hissar/Kalanwali/1696
+Earth/Asia/India/Haryana/Hissar/Ratia/1697
+Earth/Asia/India/Haryana/Hissar/Sirsa/1666
+Earth/Asia/India/Haryana/Hissar/Tohana/1692
+Earth/Asia/India/Haryana/Jind/Jind/1681
+Earth/Asia/India/Haryana/Jind/Julana/1683
+Earth/Asia/India/Haryana/Jind/Narwana/1684
+Earth/Asia/India/Haryana/Jind/Safidon/1686
+Earth/Asia/India/Haryana/Karnal/Assandh/1749
+Earth/Asia/India/Haryana/Karnal/Cheeka/1743
+Earth/Asia/India/Haryana/Karnal/Gharaunda/1748
+Earth/Asia/India/Haryana/Karnal/Kaithal/1746
+Earth/Asia/India/Haryana/Karnal/Karnal/184
+Earth/Asia/India/Haryana/Karnal/Kurukshetra/1744
+Earth/Asia/India/Haryana/Karnal/Nilokheri/1745
+Earth/Asia/India/Haryana/Karnal/Panipat/180
+Earth/Asia/India/Haryana/Karnal/Pehowa/1741
+Earth/Asia/India/Haryana/Narnaul/Bawal/1284
+Earth/Asia/India/Haryana/Narnaul/Jatusana/1281
+Earth/Asia/India/Haryana/Narnaul/Kosli/1259
+Earth/Asia/India/Haryana/Narnaul/Mohindergarh/1285
+Earth/Asia/India/Haryana/Narnaul/Narnaul/1282
+Earth/Asia/India/Haryana/Narnaul/Rewari/1274
+Earth/Asia/India/Haryana/Rohtak/Bahadurgarh/1276
+Earth/Asia/India/Haryana/Rohtak/Bawanikhera/1254
+Earth/Asia/India/Haryana/Rohtak/Bhiwani/1664
+Earth/Asia/India/Haryana/Rohtak/Charkhidadri/1250
+Earth/Asia/India/Haryana/Rohtak/Jhajjar/1251
+Earth/Asia/India/Haryana/Rohtak/Kalanaur/1258
+Earth/Asia/India/Haryana/Rohtak/Loharu/1252
+Earth/Asia/India/Haryana/Rohtak/Meham/1257
+Earth/Asia/India/Haryana/Rohtak/Rohtak/1262
+Earth/Asia/India/Haryana/Rohtak/Siwani/1255
+Earth/Asia/India/Haryana/Rohtak/Tohsham/1253
+Earth/Asia/India/Haryana/Sonipat/Gohana/1263
+Earth/Asia/India/Haryana/Sonipat/Sonipat/130
+Earth/Asia/India/Himachal Pradesh/Hamirpur/Amb/1976
+Earth/Asia/India/Himachal Pradesh/Hamirpur/Bilaspur/1978
+Earth/Asia/India/Himachal Pradesh/Hamirpur/Hamirpur/1972
+Earth/Asia/India/Himachal Pradesh/Hamirpur/Una/1975
+Earth/Asia/India/Himachal Pradesh/Kandra (Dharamsala)/Pangi (Killar)/1897
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Bharmour/1895
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Chamba/1899
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Churah (Tissa)/1896
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Dehra Gopipur/1970
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Kangra (Dharamsala)/1892
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Nurpur/1893
+Earth/Asia/India/Himachal Pradesh/Kangra (Dharamsala)/Palampur/1894
+Earth/Asia/India/Himachal Pradesh/Kullu/Banjar/1903
+Earth/Asia/India/Himachal Pradesh/Kullu/Kullu/1902
+Earth/Asia/India/Himachal Pradesh/Kullu/Lahul (Keylong)/1900
+Earth/Asia/India/Himachal Pradesh/Kullu/Nirmand/1904
+Earth/Asia/India/Himachal Pradesh/Kullu/Spiti (Kaza)/1906
+Earth/Asia/India/Himachal Pradesh/Kullu/Udaipur/1909
+Earth/Asia/India/Himachal Pradesh/Mandi/Jogindernagar/1908
+Earth/Asia/India/Himachal Pradesh/Mandi/Mandi/1905
+Earth/Asia/India/Himachal Pradesh/Mandi/Sundernagar/1907
+Earth/Asia/India/Himachal Pradesh/Shimla/Kalpa/1786
+Earth/Asia/India/Himachal Pradesh/Shimla/Pooh/1785
+Earth/Asia/India/Himachal Pradesh/Shimla/Rampur Bushahar/1782
+Earth/Asia/India/Himachal Pradesh/Shimla/Rohru/1781
+Earth/Asia/India/Himachal Pradesh/Shimla/Shimla/177
+Earth/Asia/India/Himachal Pradesh/Shimla/Theog/1783
+Earth/Asia/India/Himachal Pradesh/Solan/Arki/1796
+Earth/Asia/India/Himachal Pradesh/Solan/Nahan/1702
+Earth/Asia/India/Himachal Pradesh/Solan/Nalagarh/1795
+Earth/Asia/India/Himachal Pradesh/Solan/Paonta/1704
+Earth/Asia/India/Himachal Pradesh/Solan/Rajgarh/1799
+Earth/Asia/India/Himachal Pradesh/Solan/Solan/1792
+Earth/Asia/India/Jammu & Kashmir/Jammu/Akhnoor/1924
+Earth/Asia/India/Jammu & Kashmir/Jammu/Basholi/1921
+Earth/Asia/India/Jammu & Kashmir/Jammu/Jammu/191
+Earth/Asia/India/Jammu & Kashmir/Jammu/Kathua/1922
+Earth/Asia/India/Jammu & Kashmir/Jammu/Samba/1923
+Earth/Asia/India/Jammu & Kashmir/Leh/Kargil/1985
+Earth/Asia/India/Jammu & Kashmir/Leh/Leh/1982
+Earth/Asia/India/Jammu & Kashmir/Leh/Nobra/1980
+Earth/Asia/India/Jammu & Kashmir/Leh/Nyoma/1981
+Earth/Asia/India/Jammu & Kashmir/Leh/Zanaskar/1983
+Earth/Asia/India/Jammu & Kashmir/Rajouri/Kalakot/1964
+Earth/Asia/India/Jammu & Kashmir/Rajouri/Nowshera/1960
+Earth/Asia/India/Jammu & Kashmir/Rajouri/Poonch/1965
+Earth/Asia/India/Jammu & Kashmir/Rajouri/Rajouri/1962
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Anantnag/1932
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Badgam/1951
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Bandipur/1957
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Baramulla/1952
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Karnah/1958
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Kulgam/1931
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Kupwara/1955
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Pahalgam/1936
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Pulwama/1933
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Sopore/1954
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Srinagar/194
+Earth/Asia/India/Jammu & Kashmir/Srinagar/Uri/1956
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Bedarwah/1997
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Doda/1996
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Kishtwar/1995
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Mahore/1999
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Ramban/1998
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Ramnagar/1990
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Reasi/1991
+Earth/Asia/India/Jammu & Kashmir/Udhampur/Udhampur/1992
+Earth/Asia/India/Kerala/Alleppy/Alleppey/477
+Earth/Asia/India/Kerala/Alleppy/Mavelikkara/479
+Earth/Asia/India/Kerala/Alleppy/Shertallai/478
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Badagara/496
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Calicut/495
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Kalpetta/4936
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Mananthody/4935
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Manjeri/483
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Nilambur/4931
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Perinthalmanna/4933
+Earth/Asia/India/Kerala/Calicut (Kozhikode)/Tirur/494
+Earth/Asia/India/Kerala/Cannanore/Cannanore/497
+Earth/Asia/India/Kerala/Cannanore/Kanhangad/4997
+Earth/Asia/India/Kerala/Cannanore/Kasargode/4994
+Earth/Asia/India/Kerala/Cannanore/Payyanur/4985
+Earth/Asia/India/Kerala/Cannanore/Taliparamba/4982
+Earth/Asia/India/Kerala/Cannanore/Tellicherry/490
+Earth/Asia/India/Kerala/Cannanore/Uppala/4998
+Earth/Asia/India/Kerala/Ernakulam/Adimaly/4864
+Earth/Asia/India/Kerala/Ernakulam/Ernakulam/484
+Earth/Asia/India/Kerala/Ernakulam/Munnar/4865
+Earth/Asia/India/Kerala/Ernakulam/Muvattupuzha/485
+Earth/Asia/India/Kerala/Ernakulam/Nedumgandam/4868
+Earth/Asia/India/Kerala/Ernakulam/Peermedu/4869
+Earth/Asia/India/Kerala/Ernakulam/Thodupuzha/4862
+Earth/Asia/India/Kerala/Kavarathy/Agathy/4894
+Earth/Asia/India/Kerala/Kavarathy/Amini/4891
+Earth/Asia/India/Kerala/Kavarathy/Androth/4893
+Earth/Asia/India/Kerala/Kavarathy/Bitra/4890
+Earth/Asia/India/Kerala/Kavarathy/Chetlat/4899
+Earth/Asia/India/Kerala/Kavarathy/Kadamath/4897
+Earth/Asia/India/Kerala/Kavarathy/Kalpeni/4895
+Earth/Asia/India/Kerala/Kavarathy/Kavarathy/4896
+Earth/Asia/India/Kerala/Kavarathy/Kiltan/4898
+Earth/Asia/India/Kerala/Kavarathy/Minicoy/4892
+Earth/Asia/India/Kerala/Kottayam/Kanjirapally/4828
+Earth/Asia/India/Kerala/Kottayam/Kottayam/481
+Earth/Asia/India/Kerala/Kottayam/Palai/4822
+Earth/Asia/India/Kerala/Kottayam/Vaikom/4829
+Earth/Asia/India/Kerala/Palghat/Alathur/4922
+Earth/Asia/India/Kerala/Palghat/Koduvayur/4923
+Earth/Asia/India/Kerala/Palghat/Mannarghat/4924
+Earth/Asia/India/Kerala/Palghat/Palghat/491
+Earth/Asia/India/Kerala/Palghat/Shoranur/4926
+Earth/Asia/India/Kerala/Quilon/Karunagapally/476
+Earth/Asia/India/Kerala/Quilon/Punalur/475
+Earth/Asia/India/Kerala/Quilon/Quilon/474
+Earth/Asia/India/Kerala/Thiruvananthapuram/Attingal/470
+Earth/Asia/India/Kerala/Thiruvananthapuram/Nedumandad/4728
+Earth/Asia/India/Kerala/Thiruvananthapuram/Thiruvananthapuram/471
+Earth/Asia/India/Kerala/Tiruvalla/Adoor/4734
+Earth/Asia/India/Kerala/Tiruvalla/Pathanamthitta/4733
+Earth/Asia/India/Kerala/Tiruvalla/Ranni/4735
+Earth/Asia/India/Kerala/Tiruvalla/Tiruvalla/469
+Earth/Asia/India/Kerala/Trichur/Irinjalakuda/480
+Earth/Asia/India/Kerala/Trichur/Kunnamkulam/4885
+Earth/Asia/India/Kerala/Trichur/Trichur/487
+Earth/Asia/India/Kerala/Trichur/Vadakkanchery/4884
+Earth/Asia/India/Karnataka/Bangalore/Anekal/8110
+Earth/Asia/India/Karnataka/Bangalore/Bangalore/80
+Earth/Asia/India/Karnataka/Bangalore/Channapatna/8113
+Earth/Asia/India/Karnataka/Bangalore/Doddaballapur/8119
+Earth/Asia/India/Karnataka/Bangalore/Hosakote/8111
+Earth/Asia/India/Karnataka/Bangalore/Kanakapura/8117
+Earth/Asia/India/Karnataka/Bangalore/Nelamangala/8118
+Earth/Asia/India/Karnataka/Belgaum/Ainapur/8339
+Earth/Asia/India/Karnataka/Belgaum/Athani/8289
+Earth/Asia/India/Karnataka/Belgaum/Bailhongal/8288
+Earth/Asia/India/Karnataka/Belgaum/Belgaum/831
+Earth/Asia/India/Karnataka/Belgaum/Chikkodi/8338
+Earth/Asia/India/Karnataka/Belgaum/Gokak/8332
+Earth/Asia/India/Karnataka/Belgaum/Hukkeri (Sankeshwar)/8333
+Earth/Asia/India/Karnataka/Belgaum/Khanapur/8336
+Earth/Asia/India/Karnataka/Belgaum/Mudalgi/8334
+Earth/Asia/India/Karnataka/Belgaum/Murugod/8337
+Earth/Asia/India/Karnataka/Belgaum/Raibag (Kudchi)/8331
+Earth/Asia/India/Karnataka/Belgaum/Ramdurg/8335
+Earth/Asia/India/Karnataka/Belgaum/Saundatti/8330
+Earth/Asia/India/Karnataka/Bellary/Bellary/8392
+Earth/Asia/India/Karnataka/Bellary/H.b.halli/8397
+Earth/Asia/India/Karnataka/Bellary/Harapanahalli/8398
+Earth/Asia/India/Karnataka/Bellary/Hospet/8394
+Earth/Asia/India/Karnataka/Bellary/Huvinahadagali/8399
+Earth/Asia/India/Karnataka/Bellary/Kudligi/8391
+Earth/Asia/India/Karnataka/Bellary/Kurugodu/8393
+Earth/Asia/India/Karnataka/Bellary/Sandur/8395
+Earth/Asia/India/Karnataka/Bellary/Siruguppa/8396
+Earth/Asia/India/Karnataka/Bidar/Aurad/8485
+Earth/Asia/India/Karnataka/Bidar/Basavakalyan/8481
+Earth/Asia/India/Karnataka/Bidar/Bhalki/8484
+Earth/Asia/India/Karnataka/Bidar/Bidar/8482
+Earth/Asia/India/Karnataka/Bidar/Humnabad/8483
+Earth/Asia/India/Karnataka/Bijapur/Bableshwar/8355
+Earth/Asia/India/Karnataka/Bijapur/Badami/8357
+Earth/Asia/India/Karnataka/Bijapur/Bagalkot/8354
+Earth/Asia/India/Karnataka/Bijapur/Basavanabagewadi/8358
+Earth/Asia/India/Karnataka/Bijapur/Bijapur/8352
+Earth/Asia/India/Karnataka/Bijapur/Biligi/8425
+Earth/Asia/India/Karnataka/Bijapur/Chadchan/8422
+Earth/Asia/India/Karnataka/Bijapur/Devarahippargi/8424
+Earth/Asia/India/Karnataka/Bijapur/Hungund/8351
+Earth/Asia/India/Karnataka/Bijapur/Indi/8359
+Earth/Asia/India/Karnataka/Bijapur/Jamkhandi/8353
+Earth/Asia/India/Karnataka/Bijapur/Muddebihal/8356
+Earth/Asia/India/Karnataka/Bijapur/Mudhol/8350
+Earth/Asia/India/Karnataka/Bijapur/Sindagi/8488
+Earth/Asia/India/Karnataka/Bijapur/Telgi/8426
+Earth/Asia/India/Karnataka/Chikmagalur/Chikmagalur/8262
+Earth/Asia/India/Karnataka/Chikmagalur/Kadur/8267
+Earth/Asia/India/Karnataka/Chikmagalur/Koppa/8265
+Earth/Asia/India/Karnataka/Chikmagalur/Mudigere/8263
+Earth/Asia/India/Karnataka/Chikmagalur/Narsimharajapur/8266
+Earth/Asia/India/Karnataka/Chikmagalur/Tarikere/8261
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Bantwal/8255
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Belthangady/8256
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Hebri/8253
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Karkala/8258
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Kundapur/8254
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Mangalore/824
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Puttur/8251
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Shankarnarayana/8259
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Sullia/8257
+Earth/Asia/India/Karnataka/Dakshin Kanada (Mangalore)/Udupi/820
+Earth/Asia/India/Karnataka/Devangere/Challakere/8195
+Earth/Asia/India/Karnataka/Devangere/Chitradurga/8194
+Earth/Asia/India/Karnataka/Devangere/Davangere/8192
+Earth/Asia/India/Karnataka/Devangere/Hiriyur/8193
+Earth/Asia/India/Karnataka/Devangere/Holalkere/8191
+Earth/Asia/India/Karnataka/Devangere/Hosadurga/8199
+Earth/Asia/India/Karnataka/Devangere/Jagalur/8196
+Earth/Asia/India/Karnataka/Devangere/Molkalmuru/8198
+Earth/Asia/India/Karnataka/Devangere/Tallak/8190
+Earth/Asia/India/Karnataka/Gulbarga/Afzalpur/8470
+Earth/Asia/India/Karnataka/Gulbarga/Aland/8477
+Earth/Asia/India/Karnataka/Gulbarga/Chincholi/8475
+Earth/Asia/India/Karnataka/Gulbarga/Chittapur/8474
+Earth/Asia/India/Karnataka/Gulbarga/Gulbarga/8472
+Earth/Asia/India/Karnataka/Gulbarga/Hunsagi/8444
+Earth/Asia/India/Karnataka/Gulbarga/Jewargi/8442
+Earth/Asia/India/Karnataka/Gulbarga/Kamalapur/8478
+Earth/Asia/India/Karnataka/Gulbarga/Mashal/8471
+Earth/Asia/India/Karnataka/Gulbarga/Nimburga/8440
+Earth/Asia/India/Karnataka/Gulbarga/Sedam/8441
+Earth/Asia/India/Karnataka/Gulbarga/Shahapur/8479
+Earth/Asia/India/Karnataka/Gulbarga/Shorapur/8443
+Earth/Asia/India/Karnataka/Gulbarga/Wadi/8476
+Earth/Asia/India/Karnataka/Gulbarga/Yadgiri/8473
+Earth/Asia/India/Karnataka/Hassan/Alur/8170
+Earth/Asia/India/Karnataka/Hassan/Arsikere/8174
+Earth/Asia/India/Karnataka/Hassan/Belur/8177
+Earth/Asia/India/Karnataka/Hassan/Cannarayapatna/8176
+Earth/Asia/India/Karnataka/Hassan/Hassan/8172
+Earth/Asia/India/Karnataka/Hassan/Holenarasipur/8175
+Earth/Asia/India/Karnataka/Hassan/Sakleshpur/8173
+Earth/Asia/India/Karnataka/Hubli/Gadag/8372
+Earth/Asia/India/Karnataka/Hubli/Hangal/8379
+Earth/Asia/India/Karnataka/Hubli/Haveri/8375
+Earth/Asia/India/Karnataka/Hubli/Hirekerur/8376
+Earth/Asia/India/Karnataka/Hubli/Hubli/836
+Earth/Asia/India/Karnataka/Hubli/Kalghatagi/8370
+Earth/Asia/India/Karnataka/Hubli/Kundgol/8304
+Earth/Asia/India/Karnataka/Hubli/Mundargi/8371
+Earth/Asia/India/Karnataka/Hubli/Nargund/8377
+Earth/Asia/India/Karnataka/Hubli/Navalgund/8380
+Earth/Asia/India/Karnataka/Hubli/Ranebennur/8373
+Earth/Asia/India/Karnataka/Hubli/Ron/8381
+Earth/Asia/India/Karnataka/Hubli/Savanur/8378
+Earth/Asia/India/Karnataka/Hubli/Shirahatti/8487
+Earth/Asia/India/Karnataka/Kodagu (Madikera)/Madikeri/8272
+Earth/Asia/India/Karnataka/Kodagu (Madikera)/Somwarpet/8276
+Earth/Asia/India/Karnataka/Kodagu (Madikera)/Virajpet/8274
+Earth/Asia/India/Karnataka/Kolar/Bagepalli/8150
+Earth/Asia/India/Karnataka/Kolar/Bangarpet/8153
+Earth/Asia/India/Karnataka/Kolar/Chikkaballapur/8156
+Earth/Asia/India/Karnataka/Kolar/Chintamani/8154
+Earth/Asia/India/Karnataka/Kolar/Gowribidanur/8155
+Earth/Asia/India/Karnataka/Kolar/Kolar/8152
+Earth/Asia/India/Karnataka/Kolar/Malur/8151
+Earth/Asia/India/Karnataka/Kolar/Mulbagal/8159
+Earth/Asia/India/Karnataka/Kolar/Sidlaghatta/8158
+Earth/Asia/India/Karnataka/Kolar/Srinivasapur/8157
+Earth/Asia/India/Karnataka/Mandya/Krishnarajapet/8230
+Earth/Asia/India/Karnataka/Mandya/Malavalli/8231
+Earth/Asia/India/Karnataka/Mandya/Mandya/8232
+Earth/Asia/India/Karnataka/Mandya/Nagamangala/8234
+Earth/Asia/India/Karnataka/Mandya/Pandavpura/8236
+Earth/Asia/India/Karnataka/Mysore/Chamrajnagar/8226
+Earth/Asia/India/Karnataka/Mysore/Cowdahalli/8225
+Earth/Asia/India/Karnataka/Mysore/Gundlupet/8229
+Earth/Asia/India/Karnataka/Mysore/H.d.kote/8228
+Earth/Asia/India/Karnataka/Mysore/Hunsur/8222
+Earth/Asia/India/Karnataka/Mysore/K.r.nagar/8223
+Earth/Asia/India/Karnataka/Mysore/Kollegal/8224
+Earth/Asia/India/Karnataka/Mysore/Mysore/821
+Earth/Asia/India/Karnataka/Mysore/Nanjangud/8221
+Earth/Asia/India/Karnataka/Mysore/T.narsipur/8227
+Earth/Asia/India/Karnataka/Raichur/Deodurga/8531
+Earth/Asia/India/Karnataka/Raichur/Gangavathi/8533
+Earth/Asia/India/Karnataka/Raichur/Koppal/8539
+Earth/Asia/India/Karnataka/Raichur/Kustagi/8536
+Earth/Asia/India/Karnataka/Raichur/Lingsugur/8537
+Earth/Asia/India/Karnataka/Raichur/Manvi/8538
+Earth/Asia/India/Karnataka/Raichur/Raichur/8532
+Earth/Asia/India/Karnataka/Raichur/Sindhanur/8535
+Earth/Asia/India/Karnataka/Raichur/Yelburga/8534
+Earth/Asia/India/Karnataka/Shimoga/Basavapatna/8180
+Earth/Asia/India/Karnataka/Shimoga/Bhadravati/8282
+Earth/Asia/India/Karnataka/Shimoga/Channagiri/8189
+Earth/Asia/India/Karnataka/Shimoga/Honnali/8188
+Earth/Asia/India/Karnataka/Shimoga/Hosanagara/8185
+Earth/Asia/India/Karnataka/Shimoga/Kargal/8186
+Earth/Asia/India/Karnataka/Shimoga/Sagar/8183
+Earth/Asia/India/Karnataka/Shimoga/Shikaripura/8187
+Earth/Asia/India/Karnataka/Shimoga/Shimoga/8182
+Earth/Asia/India/Karnataka/Shimoga/Sorab/8184
+Earth/Asia/India/Karnataka/Shimoga/Thirthahalli/8181
+Earth/Asia/India/Karnataka/Tumkur/Chikkanayakanahalli/8133
+Earth/Asia/India/Karnataka/Tumkur/Gubbi/8131
+Earth/Asia/India/Karnataka/Tumkur/Koratageri/8138
+Earth/Asia/India/Karnataka/Tumkur/Kunigal/8132
+Earth/Asia/India/Karnataka/Tumkur/Madugiri/8137
+Earth/Asia/India/Karnataka/Tumkur/Pavagada/8136
+Earth/Asia/India/Karnataka/Tumkur/Sira/8135
+Earth/Asia/India/Karnataka/Tumkur/Tiptur/8134
+Earth/Asia/India/Karnataka/Tumkur/Tumkur/816
+Earth/Asia/India/Karnataka/Tumkur/Turuvekere/8139
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Ankola/8388
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Bhatkal/8385
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Haliyal/8284
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Honnavar/8387
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Joida/8383
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Karwar/8382
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Kumta/8386
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Mundagod/8301
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Salkani/8283
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Siddapur/8389
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Sirsi/8384
+Earth/Asia/India/Karnataka/Uttar Kanada (Karwar)/Yellapur/8419
+Earth/Asia/India/Maharashtra/Ahmednagar/Ahmednagar/241
+Earth/Asia/India/Maharashtra/Ahmednagar/Akole/2424
+Earth/Asia/India/Maharashtra/Ahmednagar/Jamkhed/2421
+Earth/Asia/India/Maharashtra/Ahmednagar/Karjat/2489
+Earth/Asia/India/Maharashtra/Ahmednagar/Koparagon/2423
+Earth/Asia/India/Maharashtra/Ahmednagar/Newasa/2427
+Earth/Asia/India/Maharashtra/Ahmednagar/Parner/2488
+Earth/Asia/India/Maharashtra/Ahmednagar/Pathardi/2428
+Earth/Asia/India/Maharashtra/Ahmednagar/Rahuri/2426
+Earth/Asia/India/Maharashtra/Ahmednagar/Sangamner/2425
+Earth/Asia/India/Maharashtra/Ahmednagar/Shevgaon/2429
+Earth/Asia/India/Maharashtra/Ahmednagar/Shri Rampur/2422
+Earth/Asia/India/Maharashtra/Ahmednagar/Shrigonda/2487
+Earth/Asia/India/Maharashtra/Akola/Akola/724
+Earth/Asia/India/Maharashtra/Akola/Akot/7258
+Earth/Asia/India/Maharashtra/Akola/Balapur/7257
+Earth/Asia/India/Maharashtra/Akola/Barshi Takli/7255
+Earth/Asia/India/Maharashtra/Akola/Malgaon/7254
+Earth/Asia/India/Maharashtra/Akola/Mangrulpur/7253
+Earth/Asia/India/Maharashtra/Akola/Murtizapur/7256
+Earth/Asia/India/Maharashtra/Akola/Risod/7251
+Earth/Asia/India/Maharashtra/Akola/Washim/7252
+Earth/Asia/India/Maharashtra/Amravati/Achalpur/7223
+Earth/Asia/India/Maharashtra/Amravati/Amravati/721
+Earth/Asia/India/Maharashtra/Amravati/Chandurbazar/7227
+Earth/Asia/India/Maharashtra/Amravati/Chandurrly/7222
+Earth/Asia/India/Maharashtra/Amravati/Chhikaldara/7220
+Earth/Asia/India/Maharashtra/Amravati/Daryapur/7224
+Earth/Asia/India/Maharashtra/Amravati/Dharani/7226
+Earth/Asia/India/Maharashtra/Amravati/Morshi/7228
+Earth/Asia/India/Maharashtra/Amravati/Nandgaon/7221
+Earth/Asia/India/Maharashtra/Amravati/Tiwasa/7225
+Earth/Asia/India/Maharashtra/Amravati/Warlydwarud/7229
+Earth/Asia/India/Maharashtra/Aurangabad/Aurangabad/2432
+Earth/Asia/India/Maharashtra/Aurangabad/Gangapur/2433
+Earth/Asia/India/Maharashtra/Aurangabad/Golegaon/2439
+Earth/Asia/India/Maharashtra/Aurangabad/Kannad/2435
+Earth/Asia/India/Maharashtra/Aurangabad/Khultabad/2437
+Earth/Asia/India/Maharashtra/Aurangabad/Paithan/2431
+Earth/Asia/India/Maharashtra/Aurangabad/Sillod/2430
+Earth/Asia/India/Maharashtra/Aurangabad/Soyegaon/2438
+Earth/Asia/India/Maharashtra/Aurangabad/Vijapur/2436
+Earth/Asia/India/Maharashtra/Bhandara/Amagaon/7189
+Earth/Asia/India/Maharashtra/Bhandara/Arjuni-Merogaon/7196
+Earth/Asia/India/Maharashtra/Bhandara/Bhandara/7184
+Earth/Asia/India/Maharashtra/Bhandara/Deori/7199
+Earth/Asia/India/Maharashtra/Bhandara/Gondia/7182
+Earth/Asia/India/Maharashtra/Bhandara/Goregaon/7187
+Earth/Asia/India/Maharashtra/Bhandara/Lakhandur/7181
+Earth/Asia/India/Maharashtra/Bhandara/Mohadi/7197
+Earth/Asia/India/Maharashtra/Bhandara/Pauni/7185
+Earth/Asia/India/Maharashtra/Bhandara/Sakoli/7186
+Earth/Asia/India/Maharashtra/Bhandara/Salekasa/7180
+Earth/Asia/India/Maharashtra/Bhandara/Tirora/7198
+Earth/Asia/India/Maharashtra/Bhandara/Tumsar/7183
+Earth/Asia/India/Maharashtra/Bhir/Ambejogai/2446
+Earth/Asia/India/Maharashtra/Bhir/Ashti/2441
+Earth/Asia/India/Maharashtra/Bhir/Bhir/2442
+Earth/Asia/India/Maharashtra/Bhir/Gevrai/2447
+Earth/Asia/India/Maharashtra/Bhir/Kaij/2445
+Earth/Asia/India/Maharashtra/Bhir/Manjalegaon/2443
+Earth/Asia/India/Maharashtra/Bhir/Patoda/2444
+Earth/Asia/India/Maharashtra/Buldhana/Buldhana/7262
+Earth/Asia/India/Maharashtra/Buldhana/Chikhali/7264
+Earth/Asia/India/Maharashtra/Buldhana/Deolgaonraja/7261
+Earth/Asia/India/Maharashtra/Buldhana/Jalgaonjamod/7266
+Earth/Asia/India/Maharashtra/Buldhana/Khamgaon/7263
+Earth/Asia/India/Maharashtra/Buldhana/Lonar/7260
+Earth/Asia/India/Maharashtra/Buldhana/Malkapur/7267
+Earth/Asia/India/Maharashtra/Buldhana/Mekhar/7268
+Earth/Asia/India/Maharashtra/Buldhana/Nandnva/7279
+Earth/Asia/India/Maharashtra/Buldhana/Sindkhedaraja/7269
+Earth/Asia/India/Maharashtra/Chandrapur/Bhadrawati/7175
+Earth/Asia/India/Maharashtra/Chandrapur/Brahmapuri/7177
+Earth/Asia/India/Maharashtra/Chandrapur/Chandrapur/7172
+Earth/Asia/India/Maharashtra/Chandrapur/Chumur/7170
+Earth/Asia/India/Maharashtra/Chandrapur/Gond Pipri/7171
+Earth/Asia/India/Maharashtra/Chandrapur/Mul/7174
+Earth/Asia/India/Maharashtra/Chandrapur/Nagbhir/7179
+Earth/Asia/India/Maharashtra/Chandrapur/Rajura/7173
+Earth/Asia/India/Maharashtra/Chandrapur/Sinderwahi/7178
+Earth/Asia/India/Maharashtra/Chandrapur/Warora/7176
+Earth/Asia/India/Maharashtra/Dhulia/Dhadgaon/2595
+Earth/Asia/India/Maharashtra/Dhulia/Dhule/2562
+Earth/Asia/India/Maharashtra/Dhulia/Kusumba/2560
+Earth/Asia/India/Maharashtra/Dhulia/Nandurbar/2564
+Earth/Asia/India/Maharashtra/Dhulia/Navapur/2569
+Earth/Asia/India/Maharashtra/Dhulia/Pimpalner/2561
+Earth/Asia/India/Maharashtra/Dhulia/Sakri/2568
+Earth/Asia/India/Maharashtra/Dhulia/Shahada/2565
+Earth/Asia/India/Maharashtra/Dhulia/Shirpur/2563
+Earth/Asia/India/Maharashtra/Dhulia/Sindkheda/2566
+Earth/Asia/India/Maharashtra/Dhulia/Taloda/2567
+Earth/Asia/India/Maharashtra/Gadchiroli/Aheri/7133
+Earth/Asia/India/Maharashtra/Gadchiroli/Bhamregadh/7134
+Earth/Asia/India/Maharashtra/Gadchiroli/Chamorshi/7135
+Earth/Asia/India/Maharashtra/Gadchiroli/Desaiganj/7137
+Earth/Asia/India/Maharashtra/Gadchiroli/Dhanora/7138
+Earth/Asia/India/Maharashtra/Gadchiroli/Etapalli/7136
+Earth/Asia/India/Maharashtra/Gadchiroli/Gadchiroli/7132
+Earth/Asia/India/Maharashtra/Gadchiroli/Kurkheda/7139
+Earth/Asia/India/Maharashtra/Gadchiroli/Sironcha/7131
+Earth/Asia/India/Maharashtra/Jalgaon/Amalner/2587
+Earth/Asia/India/Maharashtra/Jalgaon/Bhusawal/2582
+Earth/Asia/India/Maharashtra/Jalgaon/Chalisgaon/2589
+Earth/Asia/India/Maharashtra/Jalgaon/Chopda/2586
+Earth/Asia/India/Maharashtra/Jalgaon/Edalabad/2583
+Earth/Asia/India/Maharashtra/Jalgaon/Erandul/2588
+Earth/Asia/India/Maharashtra/Jalgaon/Jalgaon/257
+Earth/Asia/India/Maharashtra/Jalgaon/Jamner/2580
+Earth/Asia/India/Maharashtra/Jalgaon/Pachora/2596
+Earth/Asia/India/Maharashtra/Jalgaon/Parola/2597
+Earth/Asia/India/Maharashtra/Jalgaon/Raver/2584
+Earth/Asia/India/Maharashtra/Jalgaon/Yawal/2585
+Earth/Asia/India/Maharashtra/Jalna/Ambad/2483
+Earth/Asia/India/Maharashtra/Jalna/Bhokardan/2485
+Earth/Asia/India/Maharashtra/Jalna/Jalna/2482
+Earth/Asia/India/Maharashtra/Jalna/Ner/2481
+Earth/Asia/India/Maharashtra/Jalna/Partur/2484
+Earth/Asia/India/Maharashtra/Kalyan/Bassein/250
+Earth/Asia/India/Maharashtra/Kalyan/Bhiwandi/2522
+Earth/Asia/India/Maharashtra/Kalyan/Dahanu/2528
+Earth/Asia/India/Maharashtra/Kalyan/Jawahar/2520
+Earth/Asia/India/Maharashtra/Kalyan/Kalyan/251
+Earth/Asia/India/Maharashtra/Kalyan/Mokhada/2529
+Earth/Asia/India/Maharashtra/Kalyan/Murbad/2524
+Earth/Asia/India/Maharashtra/Kalyan/Palghar/2525
+Earth/Asia/India/Maharashtra/Kalyan/Shahapur/2527
+Earth/Asia/India/Maharashtra/Kalyan/Talasari/2521
+Earth/Asia/India/Maharashtra/Kalyan/Wada/2526
+Earth/Asia/India/Maharashtra/Kolhapur/Ajara/2323
+Earth/Asia/India/Maharashtra/Kolhapur/Bhudargad (Gargoti)/2599
+Earth/Asia/India/Maharashtra/Kolhapur/Chandgad/2320
+Earth/Asia/India/Maharashtra/Kolhapur/Gadhinglaj/2327
+Earth/Asia/India/Maharashtra/Kolhapur/Gaganbavada/2326
+Earth/Asia/India/Maharashtra/Kolhapur/Hatkangale (Ichalkaranji)/2324
+Earth/Asia/India/Maharashtra/Kolhapur/Kagal (Murgud)/2325
+Earth/Asia/India/Maharashtra/Kolhapur/Kolhapur/231
+Earth/Asia/India/Maharashtra/Kolhapur/Panhala/2328
+Earth/Asia/India/Maharashtra/Kolhapur/Radhanagar/2321
+Earth/Asia/India/Maharashtra/Kolhapur/Shahuwadi (Malakapur)/2329
+Earth/Asia/India/Maharashtra/Kolhapur/Shirol (Jalsingpur)/2322
+Earth/Asia/India/Maharashtra/Sindhudurg/Deogad/2364
+Earth/Asia/India/Maharashtra/Sindhudurg/Kankavali/2367
+Earth/Asia/India/Maharashtra/Sindhudurg/Kudal/2362
+Earth/Asia/India/Maharashtra/Sindhudurg/Malwan/2365
+Earth/Asia/India/Maharashtra/Sindhudurg/Sawantwadi/2363
+Earth/Asia/India/Maharashtra/Sindhudurg/Vengurla/2366
+Earth/Asia/India/Maharashtra/Latur/Ahmedpur/2381
+Earth/Asia/India/Maharashtra/Latur/Ausa/2383
+Earth/Asia/India/Maharashtra/Latur/Latur/2382
+Earth/Asia/India/Maharashtra/Latur/Nilanga/2384
+Earth/Asia/India/Maharashtra/Latur/Udgir/2385
+Earth/Asia/India/Maharashtra/Nagpur/Bhiwapur/7106
+Earth/Asia/India/Maharashtra/Nagpur/Butibori/7103
+Earth/Asia/India/Maharashtra/Nagpur/Hingua/7104
+Earth/Asia/India/Maharashtra/Nagpur/Kalmeshwar/7118
+Earth/Asia/India/Maharashtra/Nagpur/Kamptee/7109
+Earth/Asia/India/Maharashtra/Nagpur/Katol/7112
+Earth/Asia/India/Maharashtra/Nagpur/Kuhi/7100
+Earth/Asia/India/Maharashtra/Nagpur/Mouda/7115
+Earth/Asia/India/Maharashtra/Nagpur/Nagpur/712
+Earth/Asia/India/Maharashtra/Nagpur/Narkhed/7105
+Earth/Asia/India/Maharashtra/Nagpur/Parseoni/7102
+Earth/Asia/India/Maharashtra/Nagpur/Ramtek/7114
+Earth/Asia/India/Maharashtra/Nagpur/Saoner/7113
+Earth/Asia/India/Maharashtra/Nagpur/Umrer/7116
+Earth/Asia/India/Maharashtra/Nanded/Bhokar/2467
+Earth/Asia/India/Maharashtra/Nanded/Billoli/2465
+Earth/Asia/India/Maharashtra/Nanded/Degloor/2463
+Earth/Asia/India/Maharashtra/Nanded/Delhi Tanda/2460
+Earth/Asia/India/Maharashtra/Nanded/Hadgaon/2468
+Earth/Asia/India/Maharashtra/Nanded/Kandhar/2466
+Earth/Asia/India/Maharashtra/Nanded/Kinwat/2469
+Earth/Asia/India/Maharashtra/Nanded/Mukhed/2461
+Earth/Asia/India/Maharashtra/Nanded/Nanded/2462
+Earth/Asia/India/Maharashtra/Nasik/Chanwad/2556
+Earth/Asia/India/Maharashtra/Nasik/Dindori/2557
+Earth/Asia/India/Maharashtra/Nasik/Igatpuri/2553
+Earth/Asia/India/Maharashtra/Nasik/Kalwan/2592
+Earth/Asia/India/Maharashtra/Nasik/Malegaon/2554
+Earth/Asia/India/Maharashtra/Nasik/Manmad/2591
+Earth/Asia/India/Maharashtra/Nasik/Nandgaon/2552
+Earth/Asia/India/Maharashtra/Nasik/Nasikcity/253
+Earth/Asia/India/Maharashtra/Nasik/Niphad/2550
+Earth/Asia/India/Maharashtra/Nasik/Peint/2558
+Earth/Asia/India/Maharashtra/Nasik/Satana/2555
+Earth/Asia/India/Maharashtra/Nasik/Sinnar/2551
+Earth/Asia/India/Maharashtra/Nasik/Surgena/2593
+Earth/Asia/India/Maharashtra/Nasik/Trimbak/2594
+Earth/Asia/India/Maharashtra/Nasik/Umrane/2598
+Earth/Asia/India/Maharashtra/Nasik/Yeola/2559
+Earth/Asia/India/Maharashtra/Osmanabad/Bhoom/2478
+Earth/Asia/India/Maharashtra/Osmanabad/Kallam/2473
+Earth/Asia/India/Maharashtra/Osmanabad/Omerga/2475
+Earth/Asia/India/Maharashtra/Osmanabad/Osmanabad/2472
+Earth/Asia/India/Maharashtra/Osmanabad/Paranda/2477
+Earth/Asia/India/Maharashtra/Osmanabad/Tuljapur/2471
+Earth/Asia/India/Maharashtra/Panji/Canacona (Quepem)/8346
+Earth/Asia/India/Maharashtra/Panji/Margao/8342
+Earth/Asia/India/Maharashtra/Panji/Panji/832
+Earth/Asia/India/Maharashtra/Panji/Ponda/8343
+Earth/Asia/India/Maharashtra/Panji/Sanguem/8345
+Earth/Asia/India/Maharashtra/Parbhani/Basmatnagar/2454
+Earth/Asia/India/Maharashtra/Parbhani/Gangakhed/2453
+Earth/Asia/India/Maharashtra/Parbhani/Hingoli/2456
+Earth/Asia/India/Maharashtra/Parbhani/Jintdor/2457
+Earth/Asia/India/Maharashtra/Parbhani/Kalamnuri/2455
+Earth/Asia/India/Maharashtra/Parbhani/Parbhani/2452
+Earth/Asia/India/Maharashtra/Parbhani/Pathari/2451
+Earth/Asia/India/Maharashtra/Pen/Alibagh/2141
+Earth/Asia/India/Maharashtra/Pen/Karjat/2148
+Earth/Asia/India/Maharashtra/Pen/Khopoli/2192
+Earth/Asia/India/Maharashtra/Pen/Mahad/2145
+Earth/Asia/India/Maharashtra/Pen/Mahasala/2149
+Earth/Asia/India/Maharashtra/Pen/Mangaon/2140
+Earth/Asia/India/Maharashtra/Pen/Murud/2144
+Earth/Asia/India/Maharashtra/Pen/Pali/2142
+Earth/Asia/India/Maharashtra/Pen/Pen/2143
+Earth/Asia/India/Maharashtra/Pen/Poladpur/2191
+Earth/Asia/India/Maharashtra/Pen/Roha/2194
+Earth/Asia/India/Maharashtra/Pen/Shrivardhan/2147
+Earth/Asia/India/Maharashtra/Pune/Baramati/2112
+Earth/Asia/India/Maharashtra/Pune/Bhor/2113
+Earth/Asia/India/Maharashtra/Pune/Chinchwad/212
+Earth/Asia/India/Maharashtra/Pune/Daund/2117
+Earth/Asia/India/Maharashtra/Pune/Indapur/2111
+Earth/Asia/India/Maharashtra/Pune/Junnar/2132
+Earth/Asia/India/Maharashtra/Pune/Kedgaon/2119
+Earth/Asia/India/Maharashtra/Pune/Khadakwasala/230
+Earth/Asia/India/Maharashtra/Pune/Lonavala/2114
+Earth/Asia/India/Maharashtra/Pune/Manchar/2133
+Earth/Asia/India/Maharashtra/Pune/Nahavara/2137
+Earth/Asia/India/Maharashtra/Pune/Pirangut/2139
+Earth/Asia/India/Maharashtra/Pune/Pune/20
+Earth/Asia/India/Maharashtra/Pune/Rajgurunagar/2135
+Earth/Asia/India/Maharashtra/Pune/Saswad/2115
+Earth/Asia/India/Maharashtra/Pune/Shirur/2138
+Earth/Asia/India/Maharashtra/Pune/Urlikanchan/2136
+Earth/Asia/India/Maharashtra/Pune/Velhe/2130
+Earth/Asia/India/Maharashtra/Pune/Walchandnagar/2118
+Earth/Asia/India/Maharashtra/Ratnagiri/Chiplun/2355
+Earth/Asia/India/Maharashtra/Ratnagiri/Dapoli/2358
+Earth/Asia/India/Maharashtra/Ratnagiri/Guhagar/2359
+Earth/Asia/India/Maharashtra/Ratnagiri/Khed/2356
+Earth/Asia/India/Maharashtra/Ratnagiri/Langa/2351
+Earth/Asia/India/Maharashtra/Ratnagiri/Madangad/2350
+Earth/Asia/India/Maharashtra/Ratnagiri/Malgund/2357
+Earth/Asia/India/Maharashtra/Ratnagiri/Rajapur/2353
+Earth/Asia/India/Maharashtra/Ratnagiri/Ratnagiri/2352
+Earth/Asia/India/Maharashtra/Ratnagiri/Sanganeshwar (Deorukh)/2354
+Earth/Asia/India/Maharashtra/Sangli/Atpadi/2343
+Earth/Asia/India/Maharashtra/Sangli/Islampur/2342
+Earth/Asia/India/Maharashtra/Sangli/Jath/2344
+Earth/Asia/India/Maharashtra/Sangli/Kavathemankal/2341
+Earth/Asia/India/Maharashtra/Sangli/Sangli/233
+Earth/Asia/India/Maharashtra/Sangli/Shirala/2345
+Earth/Asia/India/Maharashtra/Sangli/Tasgaon/2346
+Earth/Asia/India/Maharashtra/Sangli/Vita/2347
+Earth/Asia/India/Maharashtra/Satara/Dhiwadi/2165
+Earth/Asia/India/Maharashtra/Satara/Karad/2164
+Earth/Asia/India/Maharashtra/Satara/Koregaon/2163
+Earth/Asia/India/Maharashtra/Satara/Mahabaleswar/2168
+Earth/Asia/India/Maharashtra/Satara/Mahaswad/2373
+Earth/Asia/India/Maharashtra/Satara/Medha/2378
+Earth/Asia/India/Maharashtra/Satara/Patan/2372
+Earth/Asia/India/Maharashtra/Satara/Phaltan/2166
+Earth/Asia/India/Maharashtra/Satara/Pusegaon/2375
+Earth/Asia/India/Maharashtra/Satara/Sakarwadi/2160
+Earth/Asia/India/Maharashtra/Satara/Satara/2162
+Earth/Asia/India/Maharashtra/Satara/Shirwal/2169
+Earth/Asia/India/Maharashtra/Satara/Vaduj/2161
+Earth/Asia/India/Maharashtra/Satara/Wai/2167
+Earth/Asia/India/Maharashtra/Satara/Wathar/2371
+Earth/Asia/India/Maharashtra/Sholapur/Akkalkot/2181
+Earth/Asia/India/Maharashtra/Sholapur/Barsi/2184
+Earth/Asia/India/Maharashtra/Sholapur/Karmala/2182
+Earth/Asia/India/Maharashtra/Sholapur/Madha/2183
+Earth/Asia/India/Maharashtra/Sholapur/Malsuras/2185
+Earth/Asia/India/Maharashtra/Sholapur/Mangalwedha/2188
+Earth/Asia/India/Maharashtra/Sholapur/Mohol/2189
+Earth/Asia/India/Maharashtra/Sholapur/Pandharpur/2186
+Earth/Asia/India/Maharashtra/Sholapur/Sangola/2187
+Earth/Asia/India/Maharashtra/Sholapur/Sholapur/217
+Earth/Asia/India/Maharashtra/Wardha/Arvi/7157
+Earth/Asia/India/Maharashtra/Wardha/Deoli/7158
+Earth/Asia/India/Maharashtra/Wardha/Hinganghat/7153
+Earth/Asia/India/Maharashtra/Wardha/Samudrapur/7151
+Earth/Asia/India/Maharashtra/Wardha/Seloo/7155
+Earth/Asia/India/Maharashtra/Wardha/Talegaokarangal/7156
+Earth/Asia/India/Maharashtra/Wardha/Wardha/7152
+Earth/Asia/India/Maharashtra/Yeotmal/Babhulgaon/7203
+Earth/Asia/India/Maharashtra/Yeotmal/Darwaha/7238
+Earth/Asia/India/Maharashtra/Yeotmal/Digras/7234
+Earth/Asia/India/Maharashtra/Yeotmal/Ghatanji/7230
+Earth/Asia/India/Maharashtra/Yeotmal/Kalamb/7201
+Earth/Asia/India/Maharashtra/Yeotmal/Maregaon/7236
+Earth/Asia/India/Maharashtra/Yeotmal/Marigaon/7237
+Earth/Asia/India/Maharashtra/Yeotmal/Pandharkawada/7235
+Earth/Asia/India/Maharashtra/Yeotmal/Pusad/7233
+Earth/Asia/India/Maharashtra/Yeotmal/Ralegaon/7202
+Earth/Asia/India/Maharashtra/Yeotmal/Umarkhed/7231
+Earth/Asia/India/Maharashtra/Yeotmal/Wani/7239
+Earth/Asia/India/Maharashtra/Yeotmal/Yeotmal/7232
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Barpalli/7813
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Bilaspur/7752
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Chandipara/7818
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Dabhara/7758
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Janjgir/7817
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Kathghora/7815
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Korba/7759
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Kota/7753
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Lormi/7756
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Marwahi/7750
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Mungeli/7755
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Pali/7816
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Pandaria/7754
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Pandishankar/7819
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Pasan/7811
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Pendra/7751
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Shakti/7757
+Earth/Asia/India/Madhya Pradesh/Bilaspur/Uproda/7810
+Earth/Asia/India/Madhya Pradesh/Durg/Balod/7749
+Earth/Asia/India/Madhya Pradesh/Durg/Bemetara/7824
+Earth/Asia/India/Madhya Pradesh/Durg/Berla/7825
+Earth/Asia/India/Madhya Pradesh/Durg/Bodla/7740
+Earth/Asia/India/Madhya Pradesh/Durg/Chhuriakala/7745
+Earth/Asia/India/Madhya Pradesh/Durg/Chuikhadan/7743
+Earth/Asia/India/Madhya Pradesh/Durg/Dallirajhara/7748
+Earth/Asia/India/Madhya Pradesh/Durg/Dhamda/7821
+Earth/Asia/India/Madhya Pradesh/Durg/Dongargarh/7823
+Earth/Asia/India/Madhya Pradesh/Durg/Durg/788
+Earth/Asia/India/Madhya Pradesh/Durg/Kawardha/7741
+Earth/Asia/India/Madhya Pradesh/Durg/Khairagarh/7820
+Earth/Asia/India/Madhya Pradesh/Durg/Manpur/7746
+Earth/Asia/India/Madhya Pradesh/Durg/Mohla/7747
+Earth/Asia/India/Madhya Pradesh/Durg/Patan/7826
+Earth/Asia/India/Madhya Pradesh/Durg/Rajandgaon/7744
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Antagarh/7847
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bacheli/7857
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Baderajpur/7849
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bastanar/7862
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bhairongarh/7789
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bhanupratappur/7850
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bhopalpatnam/7851
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bijapur/7853
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Bokaband/7867
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Chingamut/7863
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Chingmut/7855
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Dantewada/7856
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Durgakondal/7843
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Garpa/7846
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Gogunda/7865
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Ilamidi/7854
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Jagdalpur/7782
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Jarwa/7787
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Kanker/7868
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Keskal/7848
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Kondagaon/7786
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Konta/7866
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Koyelibeda/7840
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Kuakunda/7858
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Lohadigundah/7859
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Luckwada/7788
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Makodi/7785
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Narainpur/7781
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Netanar/7861
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Padamkot/7783
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Pakhanjur/7844
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Parasgaon/7784
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Sarona/7841
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Sukma/7864
+Earth/Asia/India/Madhya Pradesh/Jagdalpur/Toynar/7852
+Earth/Asia/India/Madhya Pradesh/Raigarh/Bagicha/7769
+Earth/Asia/India/Madhya Pradesh/Raigarh/Dharamjaigarh/7766
+Earth/Asia/India/Madhya Pradesh/Raigarh/Gharghoda/7767
+Earth/Asia/India/Madhya Pradesh/Raigarh/Jashpurnagar/7763
+Earth/Asia/India/Madhya Pradesh/Raigarh/Kunkuri/7764
+Earth/Asia/India/Madhya Pradesh/Raigarh/Pathalgaon/7765
+Earth/Asia/India/Madhya Pradesh/Raigarh/Raigarh/7762
+Earth/Asia/India/Madhya Pradesh/Raigarh/Saranggarh/7768
+Earth/Asia/India/Madhya Pradesh/Raigarh/Tapkara/7761
+Earth/Asia/India/Madhya Pradesh/Raipur/Arang/7720
+Earth/Asia/India/Madhya Pradesh/Raipur/Bagbahera/7707
+Earth/Asia/India/Madhya Pradesh/Raipur/Balodabazar/7727
+Earth/Asia/India/Madhya Pradesh/Raipur/Basana/7724
+Earth/Asia/India/Madhya Pradesh/Raipur/Bhatapara/7726
+Earth/Asia/India/Madhya Pradesh/Raipur/Bhilaigarh/7729
+Earth/Asia/India/Madhya Pradesh/Raipur/Deobhog/7704
+Earth/Asia/India/Madhya Pradesh/Raipur/Dhamtari/7722
+Earth/Asia/India/Madhya Pradesh/Raipur/Gariaband/7706
+Earth/Asia/India/Madhya Pradesh/Raipur/Kasdol/7728
+Earth/Asia/India/Madhya Pradesh/Raipur/Kurud/7705
+Earth/Asia/India/Madhya Pradesh/Raipur/Mahasamund/7723
+Earth/Asia/India/Madhya Pradesh/Raipur/Manpur/7703
+Earth/Asia/India/Madhya Pradesh/Raipur/Nagri/7700
+Earth/Asia/India/Madhya Pradesh/Raipur/Neora/7721
+Earth/Asia/India/Madhya Pradesh/Raipur/Pingeshwar/7701
+Earth/Asia/India/Madhya Pradesh/Raipur/Raipur/771
+Earth/Asia/India/Madhya Pradesh/Raipur/Saraipali/7725
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Ambikapur/7774
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Baikunthpur/7836
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Balrampur/7831
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Bharathpur/7835
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Kathdol/7770
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Manendragarh/7771
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Odgi/7773
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Pratappur/7777
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Premnagar/7776
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Rajpur/7832
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Ramchandrapur/7779
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Semaria/7778
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Sitapur/7834
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Surajpur/7775
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Udaipur/7833
+Earth/Asia/India/Madhya Pradesh/Sarguja (Ambikapur)/Wadrainagar/7772
+Earth/Asia/India/Madhya Pradesh/Balaghat/Baihar/7636
+Earth/Asia/India/Madhya Pradesh/Balaghat/Balaghat/7632
+Earth/Asia/India/Madhya Pradesh/Balaghat/Birsa/7637
+Earth/Asia/India/Madhya Pradesh/Balaghat/Damoh/7638
+Earth/Asia/India/Madhya Pradesh/Balaghat/Katangi/7630
+Earth/Asia/India/Madhya Pradesh/Balaghat/Lamta/7634
+Earth/Asia/India/Madhya Pradesh/Balaghat/Lanji/7635
+Earth/Asia/India/Madhya Pradesh/Balaghat/Waraseoni/7633
+Earth/Asia/India/Madhya Pradesh/Betul/Atner/7144
+Earth/Asia/India/Madhya Pradesh/Betul/Betul/7141
+Earth/Asia/India/Madhya Pradesh/Betul/Bhainsdehi/7143
+Earth/Asia/India/Madhya Pradesh/Betul/Bhimpur/7142
+Earth/Asia/India/Madhya Pradesh/Betul/Chicholi/7145
+Earth/Asia/India/Madhya Pradesh/Betul/Ghorandogri/7146
+Earth/Asia/India/Madhya Pradesh/Betul/Multai/7147
+Earth/Asia/India/Madhya Pradesh/Betul/Prabha Pattan/7148
+Earth/Asia/India/Madhya Pradesh/Bhopal/Ashta/7560
+Earth/Asia/India/Madhya Pradesh/Bhopal/Berasia/7565
+Earth/Asia/India/Madhya Pradesh/Bhopal/Bhopal/755
+Earth/Asia/India/Madhya Pradesh/Bhopal/Budhni/7564
+Earth/Asia/India/Madhya Pradesh/Bhopal/Ichhawar/7561
+Earth/Asia/India/Madhya Pradesh/Bhopal/Nasrullaganj/7563
+Earth/Asia/India/Madhya Pradesh/Bhopal/Sehore/7562
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Badamalhera/7689
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Baldeogarh/7684
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Bijawar/7608
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Buxwaha/7609
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Chhatarpur/7682
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Gourihar/7688
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Jatara/7681
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Khajuraho/7686
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Laundi/7687
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Niwari/7680
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Nowgaon/7685
+Earth/Asia/India/Madhya Pradesh/Chhatarpur/Tikamgarh/7683
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Amarwada/7167
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Batkakhapa/7169
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Chaurai/7166
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Chhindwara/7162
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Harrai/7168
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Jamai/7160
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Pandhurna/7164
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Parasia/7161
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Saunsar/7165
+Earth/Asia/India/Madhya Pradesh/Chhindwara/Tamia/7149
+Earth/Asia/India/Madhya Pradesh/Damoh/Damoh/7812
+Earth/Asia/India/Madhya Pradesh/Damoh/Hatta/7604
+Earth/Asia/India/Madhya Pradesh/Damoh/Jabera/7606
+Earth/Asia/India/Madhya Pradesh/Damoh/Patera/7605
+Earth/Asia/India/Madhya Pradesh/Damoh/Patharia/7601
+Earth/Asia/India/Madhya Pradesh/Damoh/Tendukheda/7603
+Earth/Asia/India/Madhya Pradesh/Dewas/Bagli/7271
+Earth/Asia/India/Madhya Pradesh/Dewas/Dewas/7272
+Earth/Asia/India/Madhya Pradesh/Dewas/Kannod/7273
+Earth/Asia/India/Madhya Pradesh/Dewas/Khategaon/7274
+Earth/Asia/India/Madhya Pradesh/Dewas/Sonkatch/7270
+Earth/Asia/India/Madhya Pradesh/Dhar/Badnawar/7295
+Earth/Asia/India/Madhya Pradesh/Dhar/Dhar/7292
+Earth/Asia/India/Madhya Pradesh/Dhar/Dharampuri/7294
+Earth/Asia/India/Madhya Pradesh/Dhar/Kukshi/7297
+Earth/Asia/India/Madhya Pradesh/Dhar/Manawar/7291
+Earth/Asia/India/Madhya Pradesh/Dhar/Sardarpur/7296
+Earth/Asia/India/Madhya Pradesh/Guna/Arone/7545
+Earth/Asia/India/Madhya Pradesh/Guna/Ashoknagar/7543
+Earth/Asia/India/Madhya Pradesh/Guna/Bamori/7540
+Earth/Asia/India/Madhya Pradesh/Guna/Chachaura/7546
+Earth/Asia/India/Madhya Pradesh/Guna/Chanderi/7547
+Earth/Asia/India/Madhya Pradesh/Guna/Guna/7542
+Earth/Asia/India/Madhya Pradesh/Guna/Isagarh/7541
+Earth/Asia/India/Madhya Pradesh/Guna/Mungaoli/7548
+Earth/Asia/India/Madhya Pradesh/Guna/Raghogarh/7544
+Earth/Asia/India/Madhya Pradesh/Gwalior/Bhander/7523
+Earth/Asia/India/Madhya Pradesh/Gwalior/Bhitarwar/7525
+Earth/Asia/India/Madhya Pradesh/Gwalior/Dabra/7524
+Earth/Asia/India/Madhya Pradesh/Gwalior/Datia/7522
+Earth/Asia/India/Madhya Pradesh/Gwalior/Ghatigaon/7526
+Earth/Asia/India/Madhya Pradesh/Gwalior/Gwalior/751
+Earth/Asia/India/Madhya Pradesh/Gwalior/Seondha/7521
+Earth/Asia/India/Madhya Pradesh/Indore/Depalpur/7322
+Earth/Asia/India/Madhya Pradesh/Indore/Indore/731
+Earth/Asia/India/Madhya Pradesh/Indore/Mhow/7324
+Earth/Asia/India/Madhya Pradesh/Indore/Sanwer/7321
+Earth/Asia/India/Madhya Pradesh/Itarsi/Harda/7577
+Earth/Asia/India/Madhya Pradesh/Itarsi/Hoshangabad/7574
+Earth/Asia/India/Madhya Pradesh/Itarsi/Itarsi/7572
+Earth/Asia/India/Madhya Pradesh/Itarsi/Khirkiya/7571
+Earth/Asia/India/Madhya Pradesh/Itarsi/Pachmarhi/7578
+Earth/Asia/India/Madhya Pradesh/Itarsi/Piparia/7576
+Earth/Asia/India/Madhya Pradesh/Itarsi/Seonimalwa/7570
+Earth/Asia/India/Madhya Pradesh/Itarsi/Sohagpur/7575
+Earth/Asia/India/Madhya Pradesh/Itarsi/Timarani/7573
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Jabalpur/761
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Katni/7622
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Kundam/7623
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Patan/7621
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Sihora/7624
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Umariapan/7625
+Earth/Asia/India/Madhya Pradesh/Jabalpur/Vijayraghogarh/7626
+Earth/Asia/India/Madhya Pradesh/Jhabua/Alirajpur/7394
+Earth/Asia/India/Madhya Pradesh/Jhabua/Jhabua/7392
+Earth/Asia/India/Madhya Pradesh/Jhabua/Jobat/7393
+Earth/Asia/India/Madhya Pradesh/Jhabua/Petlawad/7391
+Earth/Asia/India/Madhya Pradesh/Jhabua/Sondhwa/7395
+Earth/Asia/India/Madhya Pradesh/Jhabua/Thandla/7390
+Earth/Asia/India/Madhya Pradesh/Khandwa/Baldi/7326
+Earth/Asia/India/Madhya Pradesh/Khandwa/Burhanpur/7325
+Earth/Asia/India/Madhya Pradesh/Khandwa/Harsud/7327
+Earth/Asia/India/Madhya Pradesh/Khandwa/Khakner/7329
+Earth/Asia/India/Madhya Pradesh/Khandwa/Khalwa/7328
+Earth/Asia/India/Madhya Pradesh/Khandwa/Khandwa/733
+Earth/Asia/India/Madhya Pradesh/Khandwa/Pandhana/7320
+Earth/Asia/India/Madhya Pradesh/Khandwa/Punasa/7323
+Earth/Asia/India/Madhya Pradesh/Khargone/Badwani/7290
+Earth/Asia/India/Madhya Pradesh/Khargone/Barwaha/7280
+Earth/Asia/India/Madhya Pradesh/Khargone/Bhikangaon/7288
+Earth/Asia/India/Madhya Pradesh/Khargone/Gogaon/7287
+Earth/Asia/India/Madhya Pradesh/Khargone/Kasrawad/7285
+Earth/Asia/India/Madhya Pradesh/Khargone/Khargone/7282
+Earth/Asia/India/Madhya Pradesh/Khargone/Khetia/7286
+Earth/Asia/India/Madhya Pradesh/Khargone/Maheshwar/7283
+Earth/Asia/India/Madhya Pradesh/Khargone/Rajpur/7284
+Earth/Asia/India/Madhya Pradesh/Khargone/Sendhwa/7281
+Earth/Asia/India/Madhya Pradesh/Khargone/Zhirnia/7289
+Earth/Asia/India/Madhya Pradesh/Mandla/Bijadandi/7643
+Earth/Asia/India/Madhya Pradesh/Mandla/Dindori/7644
+Earth/Asia/India/Madhya Pradesh/Mandla/Ghughari/7647
+Earth/Asia/India/Madhya Pradesh/Mandla/Kakaiya/7649
+Earth/Asia/India/Madhya Pradesh/Mandla/Karanjia/7645
+Earth/Asia/India/Madhya Pradesh/Mandla/Mandla/7642
+Earth/Asia/India/Madhya Pradesh/Mandla/Mawai/7648
+Earth/Asia/India/Madhya Pradesh/Mandla/Nainpur/7646
+Earth/Asia/India/Madhya Pradesh/Mandla/Niwas/7641
+Earth/Asia/India/Madhya Pradesh/Mandla/Shahpur/7640
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Bhanpura/7427
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Garoth/7425
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Jawad/7420
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Malhargarh/7424
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Manasa/7421
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Mandsaur/7422
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Neemuch/7423
+Earth/Asia/India/Madhya Pradesh/Mandsaur/Sitamau/7426
+Earth/Asia/India/Madhya Pradesh/Morena/Ambah/7538
+Earth/Asia/India/Madhya Pradesh/Morena/Baroda/7531
+Earth/Asia/India/Madhya Pradesh/Morena/Bhind/7534
+Earth/Asia/India/Madhya Pradesh/Morena/Bijaypur/7528
+Earth/Asia/India/Madhya Pradesh/Morena/Gohad/7539
+Earth/Asia/India/Madhya Pradesh/Morena/Jora/7537
+Earth/Asia/India/Madhya Pradesh/Morena/Karhal/7533
+Earth/Asia/India/Madhya Pradesh/Morena/Laher/7529
+Earth/Asia/India/Madhya Pradesh/Morena/Mehgaon/7527
+Earth/Asia/India/Madhya Pradesh/Morena/Morena/7532
+Earth/Asia/India/Madhya Pradesh/Morena/Raghunathpur/7535
+Earth/Asia/India/Madhya Pradesh/Morena/Sabalgarh/7536
+Earth/Asia/India/Madhya Pradesh/Morena/Sheopurkalan/7530
+Earth/Asia/India/Madhya Pradesh/Narsinghpur/Babaichichli/7790
+Earth/Asia/India/Madhya Pradesh/Narsinghpur/Gadarwara/7791
+Earth/Asia/India/Madhya Pradesh/Narsinghpur/Gotegaon/7794
+Earth/Asia/India/Madhya Pradesh/Narsinghpur/Kareli/7793
+Earth/Asia/India/Madhya Pradesh/Narsinghpur/Narsinghpur/7792
+Earth/Asia/India/Madhya Pradesh/Panna/Ajaigarh/7730
+Earth/Asia/India/Madhya Pradesh/Panna/Gunnore/7731
+Earth/Asia/India/Madhya Pradesh/Panna/Panna/7732
+Earth/Asia/India/Madhya Pradesh/Panna/Pawai/7733
+Earth/Asia/India/Madhya Pradesh/Panna/Shahnagar/7734
+Earth/Asia/India/Madhya Pradesh/Raisen/Bareli/7486
+Earth/Asia/India/Madhya Pradesh/Raisen/Begamganj/7487
+Earth/Asia/India/Madhya Pradesh/Raisen/Gairatganj/7481
+Earth/Asia/India/Madhya Pradesh/Raisen/Goharganj/7480
+Earth/Asia/India/Madhya Pradesh/Raisen/Raisen/7482
+Earth/Asia/India/Madhya Pradesh/Raisen/Silwani/7484
+Earth/Asia/India/Madhya Pradesh/Raisen/Udaipura/7485
+Earth/Asia/India/Madhya Pradesh/Rajgarh/Biaora/7374
+Earth/Asia/India/Madhya Pradesh/Rajgarh/Khilchipur/7370
+Earth/Asia/India/Madhya Pradesh/Rajgarh/Narsingharh/7375
+Earth/Asia/India/Madhya Pradesh/Rajgarh/Rajgarh/7372
+Earth/Asia/India/Madhya Pradesh/Rajgarh/Sarangpur/7371
+Earth/Asia/India/Madhya Pradesh/Ratlam/Alot/7410
+Earth/Asia/India/Madhya Pradesh/Ratlam/Jaora/7414
+Earth/Asia/India/Madhya Pradesh/Ratlam/Ratlam/7412
+Earth/Asia/India/Madhya Pradesh/Ratlam/Sailana/7413
+Earth/Asia/India/Madhya Pradesh/Rewa/Hanumana/7664
+Earth/Asia/India/Madhya Pradesh/Rewa/Mauganj/7663
+Earth/Asia/India/Madhya Pradesh/Rewa/Rewa/7662
+Earth/Asia/India/Madhya Pradesh/Rewa/Sirmour/7660
+Earth/Asia/India/Madhya Pradesh/Rewa/Teonthar/7661
+Earth/Asia/India/Madhya Pradesh/Sagar/Banda/7583
+Earth/Asia/India/Madhya Pradesh/Sagar/Bina/7580
+Earth/Asia/India/Madhya Pradesh/Sagar/Deori/7586
+Earth/Asia/India/Madhya Pradesh/Sagar/Khurai/7581
+Earth/Asia/India/Madhya Pradesh/Sagar/Rahatgarh/7584
+Earth/Asia/India/Madhya Pradesh/Sagar/Rehli/7585
+Earth/Asia/India/Madhya Pradesh/Sagar/Sagar/7582
+Earth/Asia/India/Madhya Pradesh/Satna/Amarpatan/7675
+Earth/Asia/India/Madhya Pradesh/Satna/Jaitwara/7671
+Earth/Asia/India/Madhya Pradesh/Satna/Maihar/7674
+Earth/Asia/India/Madhya Pradesh/Satna/Majhagwan/7670
+Earth/Asia/India/Madhya Pradesh/Satna/Nagod/7673
+Earth/Asia/India/Madhya Pradesh/Satna/Satna/7672
+Earth/Asia/India/Madhya Pradesh/Seoni/Chhapara/7691
+Earth/Asia/India/Madhya Pradesh/Seoni/Ghansour/7693
+Earth/Asia/India/Madhya Pradesh/Seoni/Gopalganj/7695
+Earth/Asia/India/Madhya Pradesh/Seoni/Keolari/7694
+Earth/Asia/India/Madhya Pradesh/Seoni/Lakhnadon/7690
+Earth/Asia/India/Madhya Pradesh/Seoni/Seoni/7692
+Earth/Asia/India/Madhya Pradesh/Shahdol/Bandhavgarh/7653
+Earth/Asia/India/Madhya Pradesh/Shahdol/Beohari/7650
+Earth/Asia/India/Madhya Pradesh/Shahdol/Birsinghpur/7655
+Earth/Asia/India/Madhya Pradesh/Shahdol/Jaisinghnagar/7651
+Earth/Asia/India/Madhya Pradesh/Shahdol/Jaithari/7659
+Earth/Asia/India/Madhya Pradesh/Shahdol/Jaitpur/7657
+Earth/Asia/India/Madhya Pradesh/Shahdol/Kannodi/7656
+Earth/Asia/India/Madhya Pradesh/Shahdol/Karpa/7628
+Earth/Asia/India/Madhya Pradesh/Shahdol/Kotma/7658
+Earth/Asia/India/Madhya Pradesh/Shahdol/Manpur/7627
+Earth/Asia/India/Madhya Pradesh/Shahdol/Pushprajgarh/7629
+Earth/Asia/India/Madhya Pradesh/Shahdol/Shahdol/7652
+Earth/Asia/India/Madhya Pradesh/Shajapur/Agar/7362
+Earth/Asia/India/Madhya Pradesh/Shajapur/Berchha/7363
+Earth/Asia/India/Madhya Pradesh/Shajapur/Shajapur/7364
+Earth/Asia/India/Madhya Pradesh/Shajapur/Shujalpur/7360
+Earth/Asia/India/Madhya Pradesh/Shajapur/Susner/7361
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Badarwas/7495
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Karera/7493
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Khaniadhana/7497
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Kolaras/7494
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Narwar/7491
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Pichhore/7496
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Pohari/7490
+Earth/Asia/India/Madhya Pradesh/Shivpuri/Shivpuri/7492
+Earth/Asia/India/Madhya Pradesh/Sidhi/Chitrangi/7806
+Earth/Asia/India/Madhya Pradesh/Sidhi/Churhat/7802
+Earth/Asia/India/Madhya Pradesh/Sidhi/Deosar/7801
+Earth/Asia/India/Madhya Pradesh/Sidhi/Kusmi/7804
+Earth/Asia/India/Madhya Pradesh/Sidhi/Majholi/7803
+Earth/Asia/India/Madhya Pradesh/Sidhi/Sidhi/7822
+Earth/Asia/India/Madhya Pradesh/Sidhi/Singrauli/7805
+Earth/Asia/India/Madhya Pradesh/Ujjain/Badnagar/7367
+Earth/Asia/India/Madhya Pradesh/Ujjain/Ghatia/7368
+Earth/Asia/India/Madhya Pradesh/Ujjain/Khachrod/7366
+Earth/Asia/India/Madhya Pradesh/Ujjain/Mahidpurcity/7365
+Earth/Asia/India/Madhya Pradesh/Ujjain/Tarana/7369
+Earth/Asia/India/Madhya Pradesh/Ujjain/Ujjain/734
+Earth/Asia/India/Madhya Pradesh/Vidisha/Ganjbasoda/7594
+Earth/Asia/India/Madhya Pradesh/Vidisha/Gyraspur/7596
+Earth/Asia/India/Madhya Pradesh/Vidisha/Kurwai/7593
+Earth/Asia/India/Madhya Pradesh/Vidisha/Lateri/7590
+Earth/Asia/India/Madhya Pradesh/Vidisha/Nateran/7595
+Earth/Asia/India/Madhya Pradesh/Vidisha/Sironj/7591
+Earth/Asia/India/Madhya Pradesh/Vidisha/Vidisha/7592
+Earth/Asia/India/Delhi/New Delhi/11
+Earth/Asia/India/Arunachal Pradesh/Seppa/3787
+Earth/Asia/India/Arunachal Pradesh/Tali/3790
+Earth/Asia/India/Arunachal Pradesh/Taliha/3791
+Earth/Asia/India/Arunachal Pradesh/Tawang/3794
+Earth/Asia/India/Arunachal Pradesh/Tezu/3804
+Earth/Asia/India/Arunachal Pradesh/Tuting/3799
+Earth/Asia/India/Arunachal Pradesh/Yangkiyang/3777
+Earth/Asia/India/Arunachal Pradesh/Mechuka/3793
+Earth/Asia/India/Arunachal Pradesh/Along/3783
+Earth/Asia/India/Arunachal Pradesh/Anini/3801
+Earth/Asia/India/Arunachal Pradesh/Bameng/3785
+Earth/Asia/India/Arunachal Pradesh/Basar/3795
+Earth/Asia/India/Arunachal Pradesh/Changlang/3808
+Earth/Asia/India/Arunachal Pradesh/Chowkhem/3806
+Earth/Asia/India/Arunachal Pradesh/Daporizo/3792
+Earth/Asia/India/Arunachal Pradesh/Dirang/3780
+Earth/Asia/India/Arunachal Pradesh/Hayuliang/3805
+Earth/Asia/India/Arunachal Pradesh/Huri/3789
+Earth/Asia/India/Arunachal Pradesh/Itanagar/360
+Earth/Asia/India/Arunachal Pradesh/Jairampur/3800
+Earth/Asia/India/Arunachal Pradesh/Kalaktung (Bomdila)/3782
+Earth/Asia/India/Arunachal Pradesh/Khonsa/3786
+Earth/Asia/India/Arunachal Pradesh/Kolaring/3788
+Earth/Asia/India/Arunachal Pradesh/Mariyang/3798
+Earth/Asia/India/Arunachal Pradesh/Miao/3807
+Earth/Asia/India/Arunachal Pradesh/Nefra/3784
+Earth/Asia/India/Arunachal Pradesh/Pakkekesang/3778
+Earth/Asia/India/Arunachal Pradesh/Pangin/3797
+Earth/Asia/India/Arunachal Pradesh/Passighat/368
+Earth/Asia/India/Arunachal Pradesh/Roing-I/3803
+Earth/Asia/India/Arunachal Pradesh/Roing-II (Arda)/3802
+Earth/Asia/India/Arunachal Pradesh/Roing-III (Mariso)/3779
+Earth/Asia/India/Arunachal Pradesh/Sagalee/3809
+Earth/Asia/India/Meghalaya/Tura/3651
+Earth/Asia/India/Meghalaya/Williamnagar/3658
+Earth/Asia/India/Manipur/Bishenpur/3879
+Earth/Asia/India/Manipur/Chakpikarong/3878
+Earth/Asia/India/Manipur/Chandel/3872
+Earth/Asia/India/Manipur/Churchandpur/3874
+Earth/Asia/India/Manipur/Imphal/385
+Earth/Asia/India/Manipur/Jiribam/3876
+Earth/Asia/India/Manipur/Mao (Korang)/3871
+Earth/Asia/India/Manipur/Sadarhills (Kangpokai)/3880
+Earth/Asia/India/Manipur/Tamenglong/3877
+Earth/Asia/India/Manipur/Thinghat/3873
+Earth/Asia/India/Manipur/Thonbal/3848
+Earth/Asia/India/Manipur/Ukhrul Central/3845
+Earth/Asia/India/Manipur/Ukhrursouth (Kassemkhulen)/3870
+Earth/Asia/India/Meghalaya/Amlaren (Dawki)/3653
+Earth/Asia/India/Meghalaya/Baghmara/3639
+Earth/Asia/India/Meghalaya/Cherrapunjee/3637
+Earth/Asia/India/Meghalaya/Dadengiri (Phulbari)/3650
+Earth/Asia/India/Meghalaya/Jowai/3652
+Earth/Asia/India/Meghalaya/Khliehriat/3655
+Earth/Asia/India/Meghalaya/Mairang/3657
+Earth/Asia/India/Meghalaya/Mawkyrwat/3656
+Earth/Asia/India/Meghalaya/Nongpoh/3638
+Earth/Asia/India/Meghalaya/Nongstoin/3654
+Earth/Asia/India/Meghalaya/Resubelpara (Mendipathar)/3659
+Earth/Asia/India/Meghalaya/Shillong/364
+Earth/Asia/India/Mizoram/Aizawal-I/389
+Earth/Asia/India/Mizoram/Aizwal-II (Serchip)/3838
+Earth/Asia/India/Mizoram/Champa-I/3831
+Earth/Asia/India/Mizoram/Champai-II (Chiapui)/3830
+Earth/Asia/India/Mizoram/Demagiri/3834
+Earth/Asia/India/Mizoram/Kolasib/3837
+Earth/Asia/India/Mizoram/Lungleh/372
+Earth/Asia/India/Mizoram/Saiha-I/3835
+Earth/Asia/India/Mizoram/Saiha-II (Tuipang)/3836
+Earth/Asia/India/Nagaland/Dimapur/3862
+Earth/Asia/India/Nagaland/Jalukie/3839
+Earth/Asia/India/Nagaland/Kiphire/3863
+Earth/Asia/India/Nagaland/Kohima/370
+Earth/Asia/India/Nagaland/Mokokchung/369
+Earth/Asia/India/Nagaland/Mon/3869
+Earth/Asia/India/Nagaland/Phek/3865
+Earth/Asia/India/Nagaland/Tuengsang/3861
+Earth/Asia/India/Nagaland/Wokha/3860
+Earth/Asia/India/Nagaland/Zuenheboto/3867
+Earth/Asia/India/Tripura/Agartala/381
+Earth/Asia/India/Tripura/Ambasa/3826
+Earth/Asia/India/Tripura/Belonia/3823
+Earth/Asia/India/Tripura/Dharam Nagar/3822
+Earth/Asia/India/Tripura/Kailsahar/3824
+Earth/Asia/India/Tripura/Khowai/3825
+Earth/Asia/India/Tripura/R.k.pur/3821
+Earth/Asia/India/Orissa/Balangir/Balangir/6652
+Earth/Asia/India/Orissa/Balangir/Birmaharajpur/6651
+Earth/Asia/India/Orissa/Balangir/Dunguripali/6653
+Earth/Asia/India/Orissa/Balangir/Kantabhanji/6657
+Earth/Asia/India/Orissa/Balangir/Patnagarh/6648
+Earth/Asia/India/Orissa/Balangir/Sonapur/6654
+Earth/Asia/India/Orissa/Balangir/Titlagarh/6655
+Earth/Asia/India/Orissa/Balasore/Balasore/6782
+Earth/Asia/India/Orissa/Balasore/Basta/6781
+Earth/Asia/India/Orissa/Balasore/Bhadrak/6784
+Earth/Asia/India/Orissa/Balasore/Chandbali/6786
+Earth/Asia/India/Orissa/Balasore/Soro/6788
+Earth/Asia/India/Orissa/Baripada/Bangiriposi/6791
+Earth/Asia/India/Orissa/Baripada/Baripada/6792
+Earth/Asia/India/Orissa/Baripada/Betanati/6793
+Earth/Asia/India/Orissa/Baripada/Jashipur/6797
+Earth/Asia/India/Orissa/Baripada/Karanjia/6796
+Earth/Asia/India/Orissa/Baripada/Rairangpur/6794
+Earth/Asia/India/Orissa/Baripada/Udala/6795
+Earth/Asia/India/Orissa/Berhampur/Aska/6822
+Earth/Asia/India/Orissa/Berhampur/Berhampur/680
+Earth/Asia/India/Orissa/Berhampur/Bhanjanagar/6821
+Earth/Asia/India/Orissa/Berhampur/Buguda/6818
+Earth/Asia/India/Orissa/Berhampur/Chhatrapur/6811
+Earth/Asia/India/Orissa/Berhampur/Digapahandi/6814
+Earth/Asia/India/Orissa/Berhampur/Khalikote/6810
+Earth/Asia/India/Orissa/Berhampur/Mohana/6816
+Earth/Asia/India/Orissa/Berhampur/Parlakhemundi/6815
+Earth/Asia/India/Orissa/Berhampur/R.udayigiri/6817
+Earth/Asia/India/Orissa/Berhampur/Surada/6819
+Earth/Asia/India/Orissa/Bhawanipatna/Bhawanipatna/6670
+Earth/Asia/India/Orissa/Bhawanipatna/Dharamgarh/6672
+Earth/Asia/India/Orissa/Bhawanipatna/Jayapatna/6673
+Earth/Asia/India/Orissa/Bhawanipatna/Komana/6679
+Earth/Asia/India/Orissa/Bhawanipatna/M.rampur/6676
+Earth/Asia/India/Orissa/Bhawanipatna/Narlaroad/6677
+Earth/Asia/India/Orissa/Bhawanipatna/Nowparatan/6678
+Earth/Asia/India/Orissa/Bhawanipatna/Rajkhariar/6671
+Earth/Asia/India/Orissa/Bhawanipatna/T.rampur/6675
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Balugaon/6756
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Bhubaneshwar/674
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Daspalla/6757
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Khurda/6755
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Nayagarh/6753
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Nimapara/6758
+Earth/Asia/India/Orissa/Bhubaneswar (Puri)/Puri/6752
+Earth/Asia/India/Orissa/Cuttack/Athgarh/6723
+Earth/Asia/India/Orissa/Cuttack/Cuttack/671
+Earth/Asia/India/Orissa/Cuttack/Dhanmandal/6725
+Earth/Asia/India/Orissa/Cuttack/Jagatsinghpur/6724
+Earth/Asia/India/Orissa/Cuttack/Jajapur Road/6726
+Earth/Asia/India/Orissa/Cuttack/Jajapur Town/6728
+Earth/Asia/India/Orissa/Cuttack/Kendrapara/6727
+Earth/Asia/India/Orissa/Cuttack/Narsinghpur/6721
+Earth/Asia/India/Orissa/Cuttack/Pardip/6722
+Earth/Asia/India/Orissa/Cuttack/Pattamundai/6729
+Earth/Asia/India/Orissa/Dhenkanal/Anandapur/6731
+Earth/Asia/India/Orissa/Dhenkanal/Anugul/6764
+Earth/Asia/India/Orissa/Dhenkanal/Athmallik/6763
+Earth/Asia/India/Orissa/Dhenkanal/Barbil/6767
+Earth/Asia/India/Orissa/Dhenkanal/Chhendipada/6761
+Earth/Asia/India/Orissa/Dhenkanal/Dhenkanal/6762
+Earth/Asia/India/Orissa/Dhenkanal/Ghatgaon/6733
+Earth/Asia/India/Orissa/Dhenkanal/Hindol/6732
+Earth/Asia/India/Orissa/Dhenkanal/Kamakhyanagar/6769
+Earth/Asia/India/Orissa/Dhenkanal/Keonjhar/6766
+Earth/Asia/India/Orissa/Dhenkanal/Palla Hara/6765
+Earth/Asia/India/Orissa/Dhenkanal/Parajang/6768
+Earth/Asia/India/Orissa/Dhenkanal/Talcher/6760
+Earth/Asia/India/Orissa/Dhenkanal/Telkoi/6735
+Earth/Asia/India/Orissa/Koraput/Bisam Cuttack/6863
+Earth/Asia/India/Orissa/Koraput/Boriguma/6860
+Earth/Asia/India/Orissa/Koraput/Gudari/6862
+Earth/Asia/India/Orissa/Koraput/Gunupur/6857
+Earth/Asia/India/Orissa/Koraput/Jeypore/6854
+Earth/Asia/India/Orissa/Koraput/Jharigan/6867
+Earth/Asia/India/Orissa/Koraput/Kalimela/6850
+Earth/Asia/India/Orissa/Koraput/Kashipur/6865
+Earth/Asia/India/Orissa/Koraput/Koraput/6852
+Earth/Asia/India/Orissa/Koraput/Laxmipur/6855
+Earth/Asia/India/Orissa/Koraput/Malkangiri/6861
+Earth/Asia/India/Orissa/Koraput/Mathili/6864
+Earth/Asia/India/Orissa/Koraput/Motu/6859
+Earth/Asia/India/Orissa/Koraput/Nandapur/6868
+Earth/Asia/India/Orissa/Koraput/Nowrangapur/6858
+Earth/Asia/India/Orissa/Koraput/Papadhandi/6869
+Earth/Asia/India/Orissa/Koraput/Rayagada/6856
+Earth/Asia/India/Orissa/Koraput/Sunabeda/6853
+Earth/Asia/India/Orissa/Koraput/Umerkote/6866
+Earth/Asia/India/Orissa/Phulbani/Baliguda/6846
+Earth/Asia/India/Orissa/Phulbani/Boudh/6841
+Earth/Asia/India/Orissa/Phulbani/Daringbadi/6849
+Earth/Asia/India/Orissa/Phulbani/G.udayagiri/6847
+Earth/Asia/India/Orissa/Phulbani/Kantamal/6844
+Earth/Asia/India/Orissa/Phulbani/Kotagarh/6848
+Earth/Asia/India/Orissa/Phulbani/Phiringia/6845
+Earth/Asia/India/Orissa/Phulbani/Phulbani/6842
+Earth/Asia/India/Orissa/Phulbani/Puruna Katak/6843
+Earth/Asia/India/Orissa/Phulbani/Tumudibandha/6840
+Earth/Asia/India/Orissa/Sambalpur/Attabira/6682
+Earth/Asia/India/Orissa/Sambalpur/Bagdihi/6640
+Earth/Asia/India/Orissa/Sambalpur/Bargarh/6646
+Earth/Asia/India/Orissa/Sambalpur/Barkot/6643
+Earth/Asia/India/Orissa/Sambalpur/Deodgarh/6641
+Earth/Asia/India/Orissa/Sambalpur/Jamankira/6649
+Earth/Asia/India/Orissa/Sambalpur/Jharsuguda/6645
+Earth/Asia/India/Orissa/Sambalpur/Jujumura/6681
+Earth/Asia/India/Orissa/Sambalpur/Kuchinda/6642
+Earth/Asia/India/Orissa/Sambalpur/Naktideul/6647
+Earth/Asia/India/Orissa/Sambalpur/Padmapur/6683
+Earth/Asia/India/Orissa/Sambalpur/Paikamal/6684
+Earth/Asia/India/Orissa/Sambalpur/Rairakhol/6644
+Earth/Asia/India/Orissa/Sambalpur/Sambalpur/663
+Earth/Asia/India/Orissa/Sambalpur/Sohela/6685
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Banaigarh/6626
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Hemgiri/6621
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Lahunipara/6625
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Rajgangpur/6624
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Rourkela/661
+Earth/Asia/India/Orissa/Sundargarh (Rourkela)/Sundargarh/6622
+Earth/Asia/India/Punjab/Amritsar/Ajnala/1858
+Earth/Asia/India/Punjab/Amritsar/Amritsar/183
+Earth/Asia/India/Punjab/Amritsar/Goindwal/1859
+Earth/Asia/India/Punjab/Amritsar/Patti/1851
+Earth/Asia/India/Punjab/Amritsar/Rayya/1853
+Earth/Asia/India/Punjab/Amritsar/Taran Taran/1852
+Earth/Asia/India/Punjab/Bhatinda/Bhatinda/164
+Earth/Asia/India/Punjab/Bhatinda/Mansa/1652
+Earth/Asia/India/Punjab/Bhatinda/Phulmandi/1651
+Earth/Asia/India/Punjab/Bhatinda/Raman/1655
+Earth/Asia/India/Punjab/Bhatinda/Sardulgarh/1659
+Earth/Asia/India/Punjab/Chandigarh/Chandigarh/172
+Earth/Asia/India/Punjab/Ferozepur/Abohar/1634
+Earth/Asia/India/Punjab/Ferozepur/Faridakot/1639
+Earth/Asia/India/Punjab/Ferozepur/Fazilka/1638
+Earth/Asia/India/Punjab/Ferozepur/Ferozepur/1632
+Earth/Asia/India/Punjab/Ferozepur/Guruharsahai/1685
+Earth/Asia/India/Punjab/Ferozepur/Kotkapura/1635
+Earth/Asia/India/Punjab/Ferozepur/Malaut/1637
+Earth/Asia/India/Punjab/Ferozepur/Moga/1636
+Earth/Asia/India/Punjab/Ferozepur/Muktasar/1633
+Earth/Asia/India/Punjab/Ferozepur/Zira/1682
+Earth/Asia/India/Punjab/Hosiarpur/Balachaur/1885
+Earth/Asia/India/Punjab/Hosiarpur/Dasua/1883
+Earth/Asia/India/Punjab/Hosiarpur/Garhashanker/1884
+Earth/Asia/India/Punjab/Hosiarpur/Hoshiarpur/1882
+Earth/Asia/India/Punjab/Hosiarpur/Tanda Urmar/1886
+Earth/Asia/India/Punjab/Jalandhar/Jallandhar/181
+Earth/Asia/India/Punjab/Jalandhar/Kapurthala/1822
+Earth/Asia/India/Punjab/Jalandhar/Nakodar/1821
+Earth/Asia/India/Punjab/Jalandhar/Nawanshahar/1823
+Earth/Asia/India/Punjab/Jalandhar/Phagwara/1824
+Earth/Asia/India/Punjab/Jalandhar/Phillaur/1826
+Earth/Asia/India/Punjab/Jalandhar/Sultanpur Lodhi/1828
+Earth/Asia/India/Punjab/Ludhiana/Jagraon/1624
+Earth/Asia/India/Punjab/Ludhiana/Ludhiana/161
+Earth/Asia/India/Punjab/Ludhiana/Samrala/1628
+Earth/Asia/India/Punjab/Pathankot/Batala/1871
+Earth/Asia/India/Punjab/Pathankot/Dinanagar/1875
+Earth/Asia/India/Punjab/Pathankot/Gurdaspur/1874
+Earth/Asia/India/Punjab/Pathankot/Jugial/1870
+Earth/Asia/India/Punjab/Pathankot/Pathankot/186
+Earth/Asia/India/Punjab/Pathankot/Quadian/1872
+Earth/Asia/India/Punjab/Patiala/Nabha/1765
+Earth/Asia/India/Punjab/Patiala/Patiala/175
+Earth/Asia/India/Punjab/Patiala/Rajpura/1762
+Earth/Asia/India/Punjab/Patiala/Samana/1764
+Earth/Asia/India/Punjab/Patiala/Sarhind/1763
+Earth/Asia/India/Punjab/Ropar/Kharar/160
+Earth/Asia/India/Punjab/Ropar/Nangal/1887
+Earth/Asia/India/Punjab/Ropar/Ropar/1881
+Earth/Asia/India/Punjab/Sangrur/Barnala/1679
+Earth/Asia/India/Punjab/Sangrur/Malerkotla/1675
+Earth/Asia/India/Punjab/Sangrur/Sangrur/1672
+Earth/Asia/India/Punjab/Sangrur/Sunam/1676
+Earth/Asia/India/Rajasthan/Ajmer/Ajmer/145
+Earth/Asia/India/Rajasthan/Ajmer/Beawar/1462
+Earth/Asia/India/Rajasthan/Ajmer/Kekri (E)/1467
+Earth/Asia/India/Rajasthan/Ajmer/Kekri (W) (Bhinai)/1466
+Earth/Asia/India/Rajasthan/Ajmer/Kishangarh (N) (Roopangarh)/1497
+Earth/Asia/India/Rajasthan/Ajmer/Kishangarh (S)/1463
+Earth/Asia/India/Rajasthan/Ajmer/Nasirabad/1491
+Earth/Asia/India/Rajasthan/Ajmer/Sarwar/1496
+Earth/Asia/India/Rajasthan/Alwar/Alwar/144
+Earth/Asia/India/Rajasthan/Alwar/Bansur/1461
+Earth/Asia/India/Rajasthan/Alwar/Behror/1494
+Earth/Asia/India/Rajasthan/Alwar/Kishangarhbas (Khairthal)/1460
+Earth/Asia/India/Rajasthan/Alwar/Laxmangarh (Kherli)/1492
+Earth/Asia/India/Rajasthan/Alwar/Mandawar/1495
+Earth/Asia/India/Rajasthan/Alwar/Rajgarh/1464
+Earth/Asia/India/Rajasthan/Alwar/Ramgarh/1468
+Earth/Asia/India/Rajasthan/Alwar/Thanaghazi/1465
+Earth/Asia/India/Rajasthan/Alwar/Tijara (N) (Bhiwadi)/1493
+Earth/Asia/India/Rajasthan/Alwar/Tijara (S)/1469
+Earth/Asia/India/Rajasthan/Banswara/Aspur/2967
+Earth/Asia/India/Rajasthan/Banswara/Bagidora/2968
+Earth/Asia/India/Rajasthan/Banswara/Banswara/2962
+Earth/Asia/India/Rajasthan/Banswara/Dungarpur/2964
+Earth/Asia/India/Rajasthan/Banswara/Gerhi (Partapur)/2963
+Earth/Asia/India/Rajasthan/Banswara/Ghatol/2961
+Earth/Asia/India/Rajasthan/Banswara/Kushalgarh/2965
+Earth/Asia/India/Rajasthan/Banswara/Sagwara/2966
+Earth/Asia/India/Rajasthan/Barmer/Barmer(C)/2982
+Earth/Asia/India/Rajasthan/Barmer/Barmer (E) (Gudda)/2983
+Earth/Asia/India/Rajasthan/Barmer/Barmer (N) (Kanot)/2902
+Earth/Asia/India/Rajasthan/Barmer/Barmer (S) Sindari/2984
+Earth/Asia/India/Rajasthan/Barmer/Barmer (Sw) (Dhorimanna)/2986
+Earth/Asia/India/Rajasthan/Barmer/Barmer (W) (Ramsar)/2985
+Earth/Asia/India/Rajasthan/Barmer/Chohtan (N)/2989
+Earth/Asia/India/Rajasthan/Barmer/Chohtan (S) (Gangasar)/2903
+Earth/Asia/India/Rajasthan/Barmer/Pachpadra (E) (Korna)/2980
+Earth/Asia/India/Rajasthan/Barmer/Pachpadra (W) (Balotra)/2988
+Earth/Asia/India/Rajasthan/Barmer/Sheo (E)/2987
+Earth/Asia/India/Rajasthan/Barmer/Sheo (W) (Harsani)/2981
+Earth/Asia/India/Rajasthan/Barmer/Siwana (E) (Samdari)/2900
+Earth/Asia/India/Rajasthan/Barmer/Siwana (W)/2901
+Earth/Asia/India/Rajasthan/Bharatpur/Bari/5647
+Earth/Asia/India/Rajasthan/Bharatpur/Baseri/5646
+Earth/Asia/India/Rajasthan/Bharatpur/Bayana/5648
+Earth/Asia/India/Rajasthan/Bharatpur/Bharatpur/5644
+Earth/Asia/India/Rajasthan/Bharatpur/Deeg/5641
+Earth/Asia/India/Rajasthan/Bharatpur/Dholpur/5642
+Earth/Asia/India/Rajasthan/Bharatpur/Kaman/5640
+Earth/Asia/India/Rajasthan/Bharatpur/Nadbai/5643
+Earth/Asia/India/Rajasthan/Bharatpur/Rupbas/5645
+Earth/Asia/India/Rajasthan/Bhilwara/Asind/1480
+Earth/Asia/India/Rajasthan/Bhilwara/Banera/1487
+Earth/Asia/India/Rajasthan/Bhilwara/Bhilwara/1482
+Earth/Asia/India/Rajasthan/Bhilwara/Hurda (Gulabpura)/1483
+Earth/Asia/India/Rajasthan/Bhilwara/Jahazpur/1485
+Earth/Asia/India/Rajasthan/Bhilwara/Kotri/1488
+Earth/Asia/India/Rajasthan/Bhilwara/Mandal/1486
+Earth/Asia/India/Rajasthan/Bhilwara/Mandalgarh/1489
+Earth/Asia/India/Rajasthan/Bhilwara/Raipur/1481
+Earth/Asia/India/Rajasthan/Bhilwara/Shahapura/1484
+Earth/Asia/India/Rajasthan/Bikaner/Bikaner(C) (Jaimalsar)/1521
+Earth/Asia/India/Rajasthan/Bikaner/Bikaner (E) (Jamsar)/1522
+Earth/Asia/India/Rajasthan/Bikaner/Bikaner (N) (Chhatargarh)/1520
+Earth/Asia/India/Rajasthan/Bikaner/Bikaner (S)/151
+Earth/Asia/India/Rajasthan/Bikaner/Bikaner (W) (Poogal)/1523
+Earth/Asia/India/Rajasthan/Bikaner/Kolayat-I (Goddo)/1533
+Earth/Asia/India/Rajasthan/Bikaner/Kolayat-Ii/1534
+Earth/Asia/India/Rajasthan/Bikaner/Kolayat-III (Bajju)/1535
+Earth/Asia/India/Rajasthan/Bikaner/Kolayat-Iv (Daitra)/1536
+Earth/Asia/India/Rajasthan/Bikaner/Lunkaransar-I (Kanholi)/1529
+Earth/Asia/India/Rajasthan/Bikaner/Lunkaransar-III (Rajasarb)/1527
+Earth/Asia/India/Rajasthan/Bikaner/Lunkaransar-II (Mahajan)/1526
+Earth/Asia/India/Rajasthan/Bikaner/Lunkaransar-Iv/1528
+Earth/Asia/India/Rajasthan/Bikaner/Nokha (E)/1531
+Earth/Asia/India/Rajasthan/Bikaner/Nokha (W) (Nathusar)/1532
+Earth/Asia/India/Rajasthan/Bundi/Bundi/747
+Earth/Asia/India/Rajasthan/Bundi/Hindoli/7436
+Earth/Asia/India/Rajasthan/Bundi/Keshoraipatan (Patan)/7438
+Earth/Asia/India/Rajasthan/Bundi/Nainwa/7437
+Earth/Asia/India/Rajasthan/Chittorgarh/Barisadri/1473
+Earth/Asia/India/Rajasthan/Chittorgarh/Begun(N)/1474
+Earth/Asia/India/Rajasthan/Chittorgarh/Begun(S) (Rawatbhata)/1475
+Earth/Asia/India/Rajasthan/Chittorgarh/Chittorgarh/1472
+Earth/Asia/India/Rajasthan/Chittorgarh/Dungla/1470
+Earth/Asia/India/Rajasthan/Chittorgarh/Kapasan/1476
+Earth/Asia/India/Rajasthan/Chittorgarh/Nimbahera/1477
+Earth/Asia/India/Rajasthan/Chittorgarh/Pratapgarh (N)/1478
+Earth/Asia/India/Rajasthan/Chittorgarh/Pratapgarh (S) (Arnod)/1479
+Earth/Asia/India/Rajasthan/Chittorgarh/Rashmi/1471
+Earth/Asia/India/Rajasthan/Churu/Churu/1562
+Earth/Asia/India/Rajasthan/Churu/Rajgarh/1559
+Earth/Asia/India/Rajasthan/Churu/Ratangarh/1567
+Earth/Asia/India/Rajasthan/Churu/Sardarshahar (S)/1564
+Earth/Asia/India/Rajasthan/Churu/Sardarshahar (N)- Jaitsisar/1563
+Earth/Asia/India/Rajasthan/Churu/Sridungargarh (N)- Dungargh/1565
+Earth/Asia/India/Rajasthan/Churu/Sridungargarh (S) (Sudsar)/1566
+Earth/Asia/India/Rajasthan/Churu/Sujangarh(C) (Bidasar)/1560
+Earth/Asia/India/Rajasthan/Churu/Sujangarh (E)/1568
+Earth/Asia/India/Rajasthan/Churu/Sujangarh (W) (Lalgarh)/1569
+Earth/Asia/India/Rajasthan/Churu/Taranagar/1561
+Earth/Asia/India/Rajasthan/Jaipur/Amber (Chomu)/1423
+Earth/Asia/India/Rajasthan/Jaipur/Bassi/1429
+Earth/Asia/India/Rajasthan/Jaipur/Baswa (Bandikui)/1420
+Earth/Asia/India/Rajasthan/Jaipur/Dausa/1427
+Earth/Asia/India/Rajasthan/Jaipur/Dudu/1428
+Earth/Asia/India/Rajasthan/Jaipur/Jaipur/141
+Earth/Asia/India/Rajasthan/Jaipur/Jamwa-Ramgarh (Achrol)/1426
+Earth/Asia/India/Rajasthan/Jaipur/Kotputli/1421
+Earth/Asia/India/Rajasthan/Jaipur/Lalsot/1431
+Earth/Asia/India/Rajasthan/Jaipur/Phagi/1430
+Earth/Asia/India/Rajasthan/Jaipur/Phulera (E) (Renwal)/1424
+Earth/Asia/India/Rajasthan/Jaipur/Phulera (W) (Sambhar)/1425
+Earth/Asia/India/Rajasthan/Jaipur/Viratnagar (Shahpura)/1422
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-1 (Ramgarh)/2991
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-10 (Khuri)/3014
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-11 (Jaisalmer)/2992
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-12 (Devikot)/2993
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-13 (Myajlar)/3015
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-14 (Jheenjaniyali)/3016
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-2 (Sadhna)/3018
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-3 (Nehdai)/2999
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-4 (Shahgarh)/3010
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-5 (Khuiyals)/2998
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-6 (Pasewar)/3011
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-7 (Mohargarh)/2997
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-8 (Mehsana)/3012
+Earth/Asia/India/Rajasthan/Jaisalmer/Jaisalmer-9 (Dhanaua)/3013
+Earth/Asia/India/Rajasthan/Jaisalmer/Pokran-1 (Nachna)/2995
+Earth/Asia/India/Rajasthan/Jaisalmer/Pokran-2 (Madasar)/3017
+Earth/Asia/India/Rajasthan/Jaisalmer/Pokran-3 (Loharki)/2996
+Earth/Asia/India/Rajasthan/Jaisalmer/Pokran-4 (Pokran)/2994
+Earth/Asia/India/Rajasthan/Jaisalmer/Pokran-5 (Phalsoond)/3019
+Earth/Asia/India/Rajasthan/Jhalawar/Aklera/7431
+Earth/Asia/India/Rajasthan/Jhalawar/Gangdhar/7435
+Earth/Asia/India/Rajasthan/Jhalawar/Jhalawar/7432
+Earth/Asia/India/Rajasthan/Jhalawar/Khanpur/7430
+Earth/Asia/India/Rajasthan/Jhalawar/Pachpahar (Bhawanimandi)/7433
+Earth/Asia/India/Rajasthan/Jhalawar/Pirawa (Raipur)/7434
+Earth/Asia/India/Rajasthan/Jhunjhunu/Chirawa/1596
+Earth/Asia/India/Rajasthan/Jhunjhunu/Jhunjhunu (N) (Bissau)/1595
+Earth/Asia/India/Rajasthan/Jhunjhunu/Jhunjhunu (S)/1592
+Earth/Asia/India/Rajasthan/Jhunjhunu/Khetri/1593
+Earth/Asia/India/Rajasthan/Jhunjhunu/Udaipurwati/1594
+Earth/Asia/India/Rajasthan/Jodhpur/Bilara (N) (Bhopalgarh)/2920
+Earth/Asia/India/Rajasthan/Jodhpur/Bilara (S) (Piparcity)/2930
+Earth/Asia/India/Rajasthan/Jodhpur/Jodhpur (E)/291
+Earth/Asia/India/Rajasthan/Jodhpur/Jodhpur (W) (Jhanwar)/2931
+Earth/Asia/India/Rajasthan/Jodhpur/Osian (E) (Dhanwara)/2927
+Earth/Asia/India/Rajasthan/Jodhpur/Osian (N)/2922
+Earth/Asia/India/Rajasthan/Jodhpur/Osian (S) (Mathania)/2926
+Earth/Asia/India/Rajasthan/Jodhpur/Phalodi (E) (Lohawat)/2923
+Earth/Asia/India/Rajasthan/Jodhpur/Phalodi (N) (Bap)/2921
+Earth/Asia/India/Rajasthan/Jodhpur/Phalodi (S)/2925
+Earth/Asia/India/Rajasthan/Jodhpur/Phalodi (W) (Baroo)/2924
+Earth/Asia/India/Rajasthan/Jodhpur/Shergarh (N) (Balesar)/2929
+Earth/Asia/India/Rajasthan/Jodhpur/Shergarh (N) (Deechu)/2928
+Earth/Asia/India/Rajasthan/Kota/Atru/7451
+Earth/Asia/India/Rajasthan/Kota/Baran/7453
+Earth/Asia/India/Rajasthan/Kota/Chhabra/7452
+Earth/Asia/India/Rajasthan/Kota/Chhipaborad/7454
+Earth/Asia/India/Rajasthan/Kota/Digod (Sultanpur)/7455
+Earth/Asia/India/Rajasthan/Kota/Kishanganj (Bhanwargarh)/7456
+Earth/Asia/India/Rajasthan/Kota/Ladpura (Kota)/744
+Earth/Asia/India/Rajasthan/Kota/Mangrol/7457
+Earth/Asia/India/Rajasthan/Kota/Pipalda (Sumerganj Mandi)/7458
+Earth/Asia/India/Rajasthan/Kota/Ramganj Mandi/7459
+Earth/Asia/India/Rajasthan/Kota/Sahabad/7460
+Earth/Asia/India/Rajasthan/Kota/Sangod/7450
+Earth/Asia/India/Rajasthan/Nagaur/Deedwana/1580
+Earth/Asia/India/Rajasthan/Nagaur/Degana/1587
+Earth/Asia/India/Rajasthan/Nagaur/Jayal/1583
+Earth/Asia/India/Rajasthan/Nagaur/Ladnun/1581
+Earth/Asia/India/Rajasthan/Nagaur/Merta (E) (Merta-City)/1590
+Earth/Asia/India/Rajasthan/Nagaur/Merta (W) (Gotan)/1591
+Earth/Asia/India/Rajasthan/Nagaur/Nagaur (E) (Mundwa Marwar)/1584
+Earth/Asia/India/Rajasthan/Nagaur/Nagaur (N)/1582
+Earth/Asia/India/Rajasthan/Nagaur/Nagaur (W) (Khinwsar)/1585
+Earth/Asia/India/Rajasthan/Nagaur/Nawa (Kuchamancity)/1586
+Earth/Asia/India/Rajasthan/Nagaur/Parbatsar (N) (Makrana)/1588
+Earth/Asia/India/Rajasthan/Nagaur/Parbatsar (S)/1589
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Bali (N) (Sumerpur)/2933
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Bali (S)/2938
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Desuri (Rani)/2934
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Jaitaran/2939
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Marwar-Jn/2935
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Pali (N) (Rohat)/2936
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Pali (S)/2932
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Raipur/2937
+Earth/Asia/India/Rajasthan/Pali (Marwar)/Sojat (Sojat-City)/2960
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Bamanwas/7467
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Bonli/7466
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Gangapur/7463
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Hindaun/7469
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Karauli/7464
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Khandar/7468
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Mahuwa/7461
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Sapotra/7465
+Earth/Asia/India/Rajasthan/Sawaimadhopur/Sawaimadhopur/7462
+Earth/Asia/India/Rajasthan/Sikar/Dantaramgarh (E) (Shyamji)/1576
+Earth/Asia/India/Rajasthan/Sikar/Dantaramgarh (W)/1577
+Earth/Asia/India/Rajasthan/Sikar/Fatehpur/1571
+Earth/Asia/India/Rajasthan/Sikar/Laxmangarh (E)/1573
+Earth/Asia/India/Rajasthan/Sikar/Laxmangarh (W) (Nechwa)/1570
+Earth/Asia/India/Rajasthan/Sikar/Neem Ka Thana/1574
+Earth/Asia/India/Rajasthan/Sikar/Sikar/1572
+Earth/Asia/India/Rajasthan/Sikar/Srimadhopur/1575
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Abu Road/2974
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Ahore/2978
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Bhinmal (N)/2969
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Bhinmal (S) (Jasawantpura)/2990
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Jalore/2973
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Jalore (W) (Sayla)/2977
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Pindwara/2971
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Reodar/2975
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Sanchore (E)/2979
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Sanchore (W) (Hadecha)/2970
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Sheoganj (Posaliyan)/2976
+Earth/Asia/India/Rajasthan/Sirohi (Abu Road)/Sirohi/2972
+Earth/Asia/India/Rajasthan/Sriganganagar/Anupgarh (E)/1498
+Earth/Asia/India/Rajasthan/Sriganganagar/Anupgarh (W) (Gharsana)/1506
+Earth/Asia/India/Rajasthan/Sriganganagar/Bhadra/1504
+Earth/Asia/India/Rajasthan/Sriganganagar/Hanumangarh/1552
+Earth/Asia/India/Rajasthan/Sriganganagar/Nohar(C) (Rawatsar)/1537
+Earth/Asia/India/Rajasthan/Sriganganagar/Nohar (E)/1555
+Earth/Asia/India/Rajasthan/Sriganganagar/Nohar (W) (Jedasar)/1502
+Earth/Asia/India/Rajasthan/Sriganganagar/Padampur/1505
+Earth/Asia/India/Rajasthan/Sriganganagar/Raisinghnagar/1507
+Earth/Asia/India/Rajasthan/Sriganganagar/Sadulshahar/1503
+Earth/Asia/India/Rajasthan/Sriganganagar/Sangaria/1499
+Earth/Asia/India/Rajasthan/Sriganganagar/Sriganganagar/154
+Earth/Asia/India/Rajasthan/Sriganganagar/Srikaranpur/1501
+Earth/Asia/India/Rajasthan/Sriganganagar/Suratgarh (N) (Goluwala)/1508
+Earth/Asia/India/Rajasthan/Sriganganagar/Suratgarh (S)/1509
+Earth/Asia/India/Rajasthan/Sriganganagar/Tibbi/1539
+Earth/Asia/India/Rajasthan/Tonk/Deoli/1434
+Earth/Asia/India/Rajasthan/Tonk/Malpura/1437
+Earth/Asia/India/Rajasthan/Tonk/Newai/1438
+Earth/Asia/India/Rajasthan/Tonk/Todaraisingh/1433
+Earth/Asia/India/Rajasthan/Tonk/Tonk (N) (Piploo)/1435
+Earth/Asia/India/Rajasthan/Tonk/Tonk (S)/1432
+Earth/Asia/India/Rajasthan/Tonk/Uniayara/1436
+Earth/Asia/India/Rajasthan/Udaipur/Amet/2908
+Earth/Asia/India/Rajasthan/Udaipur/Bhim (N)/2951
+Earth/Asia/India/Rajasthan/Udaipur/Bhim (S) (Dawer)/2909
+Earth/Asia/India/Rajasthan/Udaipur/Deogarh/2904
+Earth/Asia/India/Rajasthan/Udaipur/Dhariawad/2950
+Earth/Asia/India/Rajasthan/Udaipur/Girwa (Udaipur)/294
+Earth/Asia/India/Rajasthan/Udaipur/Gogunda/2956
+Earth/Asia/India/Rajasthan/Udaipur/Jhadol/2959
+Earth/Asia/India/Rajasthan/Udaipur/Kherwara/2907
+Earth/Asia/India/Rajasthan/Udaipur/Kotra/2958
+Earth/Asia/India/Rajasthan/Udaipur/Kumbalgarh (Charbhujaji)/2954
+Earth/Asia/India/Rajasthan/Udaipur/Malvi (Fatehnagar)/2955
+Earth/Asia/India/Rajasthan/Udaipur/Nathdwara/2953
+Earth/Asia/India/Rajasthan/Udaipur/Rajsamand (Kankorli)/2952
+Earth/Asia/India/Rajasthan/Udaipur/Salumber/2906
+Earth/Asia/India/Rajasthan/Udaipur/Sarada (Chawand)/2905
+Earth/Asia/India/Rajasthan/Udaipur/Vallabhnagar/2957
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Chengalpattu/4114
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Kancheepuram/4112
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Madurantagam/4115
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Ponneri/4119
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Sriperumpudur/4111
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Tiruttani/4118
+Earth/Asia/India/Tamil Nadu/Chengalpattu (Kancheepuram)/Tiruvellore/4116
+Earth/Asia/India/Tamil Nadu/Chennai/Chennai/44
+Earth/Asia/India/Tamil Nadu/Coimbatore/Anamalai/4253
+Earth/Asia/India/Tamil Nadu/Coimbatore/Avanashi/4296
+Earth/Asia/India/Tamil Nadu/Coimbatore/Coimbatore/422
+Earth/Asia/India/Tamil Nadu/Coimbatore/Mettupalayam/4254
+Earth/Asia/India/Tamil Nadu/Coimbatore/Palladum/4255
+Earth/Asia/India/Tamil Nadu/Coimbatore/Pollachi/4259
+Earth/Asia/India/Tamil Nadu/Coimbatore/Tirupur/421
+Earth/Asia/India/Tamil Nadu/Coimbatore/Udumalpet/4252
+Earth/Asia/India/Tamil Nadu/Cuddalore/Arakandanallur/4153
+Earth/Asia/India/Tamil Nadu/Cuddalore/Chidambaram/4144
+Earth/Asia/India/Tamil Nadu/Cuddalore/Cuddalore/4142
+Earth/Asia/India/Tamil Nadu/Cuddalore/Gingee/4145
+Earth/Asia/India/Tamil Nadu/Cuddalore/Kallkurichi/4151
+Earth/Asia/India/Tamil Nadu/Cuddalore/Tindivanam/4147
+Earth/Asia/India/Tamil Nadu/Cuddalore/Ulundurpet/4149
+Earth/Asia/India/Tamil Nadu/Cuddalore/Villupuram/4146
+Earth/Asia/India/Tamil Nadu/Cuddalore/Virudhachalam/4143
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Denkanikoitah/4347
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Dharmapuri/4342
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Harur/4346
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Hosur/4344
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Krishnagiri/4343
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Palacode/4348
+Earth/Asia/India/Tamil Nadu/Dharmapuri/Uthangarai/4341
+Earth/Asia/India/Tamil Nadu/Erode/Bhavani/4256
+Earth/Asia/India/Tamil Nadu/Erode/Dharampuram/4258
+Earth/Asia/India/Tamil Nadu/Erode/Erode/424
+Earth/Asia/India/Tamil Nadu/Erode/Gobichettipalayam/4285
+Earth/Asia/India/Tamil Nadu/Erode/Kangayam/4257
+Earth/Asia/India/Tamil Nadu/Erode/Kodumudi/4204
+Earth/Asia/India/Tamil Nadu/Erode/Mulanur/4202
+Earth/Asia/India/Tamil Nadu/Erode/Perundurai/4294
+Earth/Asia/India/Tamil Nadu/Erode/Sathiyamangalam/4295
+Earth/Asia/India/Tamil Nadu/Karaikudi/Devakottai/4561
+Earth/Asia/India/Tamil Nadu/Karaikudi/Karaikudi/4565
+Earth/Asia/India/Tamil Nadu/Karaikudi/Manamadurai/4574
+Earth/Asia/India/Tamil Nadu/Karaikudi/Mudukulathur/4576
+Earth/Asia/India/Tamil Nadu/Karaikudi/Paramakudi/4564
+Earth/Asia/India/Tamil Nadu/Karaikudi/Ramanathpuram/4567
+Earth/Asia/India/Tamil Nadu/Karaikudi/Rameshwaram/4573
+Earth/Asia/India/Tamil Nadu/Karaikudi/Sivaganga/4575
+Earth/Asia/India/Tamil Nadu/Karaikudi/Tirupathur/4577
+Earth/Asia/India/Tamil Nadu/Madurai/Batlagundu/4543
+Earth/Asia/India/Tamil Nadu/Madurai/Cumbum/4554
+Earth/Asia/India/Tamil Nadu/Madurai/Dindigul/451
+Earth/Asia/India/Tamil Nadu/Madurai/Kodaikanal/4542
+Earth/Asia/India/Tamil Nadu/Madurai/Madurai/452
+Earth/Asia/India/Tamil Nadu/Madurai/Natham/4544
+Earth/Asia/India/Tamil Nadu/Madurai/Oddanchatram/4553
+Earth/Asia/India/Tamil Nadu/Madurai/Palani/4545
+Earth/Asia/India/Tamil Nadu/Madurai/Theni/4546
+Earth/Asia/India/Tamil Nadu/Madurai/Thirumanglam/4549
+Earth/Asia/India/Tamil Nadu/Madurai/Usiliampatti/4552
+Earth/Asia/India/Tamil Nadu/Madurai/Vedasandur/4551
+Earth/Asia/India/Tamil Nadu/Nagarcoil/Kuzhithurai/4651
+Earth/Asia/India/Tamil Nadu/Nagarcoil/Nagercoil/4652
+Earth/Asia/India/Tamil Nadu/Ooty/Gudalur/4262
+Earth/Asia/India/Tamil Nadu/Ooty/Kotagiri/4266
+Earth/Asia/India/Tamil Nadu/Ooty/Ootacamund/423
+Earth/Asia/India/Tamil Nadu/Pondichery/Pondicherry/413
+Earth/Asia/India/Tamil Nadu/Salem/Attur/4282
+Earth/Asia/India/Tamil Nadu/Salem/Metturdam/4298
+Earth/Asia/India/Tamil Nadu/Salem/Namakkal/4286
+Earth/Asia/India/Tamil Nadu/Salem/Omalur/4290
+Earth/Asia/India/Tamil Nadu/Salem/Rasipuram/4287
+Earth/Asia/India/Tamil Nadu/Salem/Salem/427
+Earth/Asia/India/Tamil Nadu/Salem/Sankagiri/4283
+Earth/Asia/India/Tamil Nadu/Salem/Tiruchengode/4288
+Earth/Asia/India/Tamil Nadu/Salem/Valapady/4292
+Earth/Asia/India/Tamil Nadu/Salem/Velur/4268
+Earth/Asia/India/Tamil Nadu/Salem/Yercaud/4281
+Earth/Asia/India/Tamil Nadu/Thanjavur/Karaikal/4368
+Earth/Asia/India/Tamil Nadu/Thanjavur/Kumbakonam/435
+Earth/Asia/India/Tamil Nadu/Thanjavur/Mannargudi/4367
+Earth/Asia/India/Tamil Nadu/Thanjavur/Mayiladuthurai/4364
+Earth/Asia/India/Tamil Nadu/Thanjavur/Nagapattinam/4365
+Earth/Asia/India/Tamil Nadu/Thanjavur/Orathanad/4372
+Earth/Asia/India/Tamil Nadu/Thanjavur/Papanasam/4374
+Earth/Asia/India/Tamil Nadu/Thanjavur/Pattukottai/4373
+Earth/Asia/India/Tamil Nadu/Thanjavur/Thanjavur/4362
+Earth/Asia/India/Tamil Nadu/Thanjavur/Thiruraipoondi/4369
+Earth/Asia/India/Tamil Nadu/Thanjavur/Tiruvarur/4366
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Ambasamudram/4634
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Nanguneri/4635
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Sankaran Koil/4636
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Tenkasi/4633
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Tirunelvelli/462
+Earth/Asia/India/Tamil Nadu/Tirunelvelli/Valliyoor/4637
+Earth/Asia/India/Tamil Nadu/Trichy/Arantangi/4371
+Earth/Asia/India/Tamil Nadu/Trichy/Aravakurichi/4320
+Earth/Asia/India/Tamil Nadu/Trichy/Ariyalur/4329
+Earth/Asia/India/Tamil Nadu/Trichy/Jayamkondan/4331
+Earth/Asia/India/Tamil Nadu/Trichy/Karur/4324
+Earth/Asia/India/Tamil Nadu/Trichy/Keeranur/4339
+Earth/Asia/India/Tamil Nadu/Trichy/Kulithalai/4323
+Earth/Asia/India/Tamil Nadu/Trichy/Manaparai/4332
+Earth/Asia/India/Tamil Nadu/Trichy/Musiri/4326
+Earth/Asia/India/Tamil Nadu/Trichy/Perambalur/4328
+Earth/Asia/India/Tamil Nadu/Trichy/Ponnamaravathi/4333
+Earth/Asia/India/Tamil Nadu/Trichy/Pudukkottai/4322
+Earth/Asia/India/Tamil Nadu/Trichy/Thuraiyure/4327
+Earth/Asia/India/Tamil Nadu/Trichy/Trichy/431
+Earth/Asia/India/Tamil Nadu/Tuticorin/Kovilpatti/4632
+Earth/Asia/India/Tamil Nadu/Tuticorin/Srivaikundam/4630
+Earth/Asia/India/Tamil Nadu/Tuticorin/Tiruchendur/4639
+Earth/Asia/India/Tamil Nadu/Tuticorin/Tuticorin/461
+Earth/Asia/India/Tamil Nadu/Tuticorin/Vilathikulam/4638
+Earth/Asia/India/Tamil Nadu/Vellore/Arkonam/4177
+Earth/Asia/India/Tamil Nadu/Vellore/Arni/4173
+Earth/Asia/India/Tamil Nadu/Vellore/Chengam/4188
+Earth/Asia/India/Tamil Nadu/Vellore/Gudiyatham/4171
+Earth/Asia/India/Tamil Nadu/Vellore/Polur/4181
+Earth/Asia/India/Tamil Nadu/Vellore/Ranipet/4172
+Earth/Asia/India/Tamil Nadu/Vellore/Tirupattur/4179
+Earth/Asia/India/Tamil Nadu/Vellore/Tiruvannamalai/4175
+Earth/Asia/India/Tamil Nadu/Vellore/Tiruvettipuram/4182
+Earth/Asia/India/Tamil Nadu/Vellore/Vaniyambadi/4174
+Earth/Asia/India/Tamil Nadu/Vellore/Vellore/416
+Earth/Asia/India/Tamil Nadu/Vellore/Wandiwash/4183
+Earth/Asia/India/Tamil Nadu/Virudhunagar/Aruppukottai/4566
+Earth/Asia/India/Tamil Nadu/Virudhunagar/Rajapalayam/4563
+Earth/Asia/India/Tamil Nadu/Virudhunagar/Virudhunagar/4562
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Allahabad/532
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Bharwari/5331
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Karchhana (Shankergarh)/5333
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Meja (Sirsa)/5334
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Phoolpur/5332
+Earth/Asia/India/Uttar Pradesh East/Allahabad/Soraon/5335
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Azamgarh/5462
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Ghosi/5461
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Lalganj/5463
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Maunathbhanjan/5464
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Phulpur-I (Phulpur)/5460
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Phulpur-II (Atrawlia)/5465
+Earth/Asia/India/Uttar Pradesh East/Azamgarh/Sagri/5466
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Bahraich-I (Bahrailh)/5252
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Bahraich-II (Bhinga)/5250
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Kaisarganh-II (Mahasi)/5255
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Kaisarganj-I (Kaiserganj)/5251
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Nanparah-II (Mihinpurwa)/5254
+Earth/Asia/India/Uttar Pradesh East/Bahraich/Nanpara-I (Nanpara)/5253
+Earth/Asia/India/Uttar Pradesh East/Ballia/Ballia-I (Ballia)/5498
+Earth/Asia/India/Uttar Pradesh East/Ballia/Ballia-II (Raniganj)/5496
+Earth/Asia/India/Uttar Pradesh East/Ballia/Bansdeeh/5494
+Earth/Asia/India/Uttar Pradesh East/Ballia/Rasara/5491
+Earth/Asia/India/Uttar Pradesh East/Banda/Baberu/5190
+Earth/Asia/India/Uttar Pradesh East/Banda/Banda/5192
+Earth/Asia/India/Uttar Pradesh East/Banda/Karvi -I (Karvi)/5198
+Earth/Asia/India/Uttar Pradesh East/Banda/Karvi-II (Manikpur)/5194
+Earth/Asia/India/Uttar Pradesh East/Banda/Mau (Rajapur)/5195
+Earth/Asia/India/Uttar Pradesh East/Banda/Naraini (Attarra)/5191
+Earth/Asia/India/Uttar Pradesh East/Barabanki/Barabanki/5248
+Earth/Asia/India/Uttar Pradesh East/Barabanki/Fatehpur/5240
+Earth/Asia/India/Uttar Pradesh East/Barabanki/Haidergarh/5244
+Earth/Asia/India/Uttar Pradesh East/Barabanki/Ramsanehi Ghat/5241
+Earth/Asia/India/Uttar Pradesh East/Basti/Bansi/5545
+Earth/Asia/India/Uttar Pradesh East/Basti/Basti/5542
+Earth/Asia/India/Uttar Pradesh East/Basti/Domariyaganj/5541
+Earth/Asia/India/Uttar Pradesh East/Basti/Harraiya/5546
+Earth/Asia/India/Uttar Pradesh East/Basti/Khalilabad -I/5547
+Earth/Asia/India/Uttar Pradesh East/Basti/Khalilabad-II (Mehdawal)/5548
+Earth/Asia/India/Uttar Pradesh East/Basti/Naugarh-I (Tetribazar)/5544
+Earth/Asia/India/Uttar Pradesh East/Basti/Naugarh-II (Barhani)/5543
+Earth/Asia/India/Uttar Pradesh East/Deoria/Captanganj (Khadda)/5563
+Earth/Asia/India/Uttar Pradesh East/Deoria/Captanganj-I (Captanganj)/5567
+Earth/Asia/India/Uttar Pradesh East/Deoria/Deoria/5568
+Earth/Asia/India/Uttar Pradesh East/Deoria/Padrauna/5564
+Earth/Asia/India/Uttar Pradesh East/Deoria/Salempur-I (Salempur)/5566
+Earth/Asia/India/Uttar Pradesh East/Deoria/Salempur-II (Barhaj)/5561
+Earth/Asia/India/Uttar Pradesh East/Etawah/Auraiya/5683
+Earth/Asia/India/Uttar Pradesh East/Etawah/Bharthana/5680
+Earth/Asia/India/Uttar Pradesh East/Etawah/Bidhuna/5681
+Earth/Asia/India/Uttar Pradesh East/Etawah/Etawah/5688
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Akbarpur-I (Akbarpur)/5271
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Akbarpur-II (Jalalpur)/5275
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Bikapur/5270
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Faizabad/5278
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Tanda-II (Baskhari)/5274
+Earth/Asia/India/Uttar Pradesh East/Faizabad/Tandai-I (Tanda)/5273
+Earth/Asia/India/Uttar Pradesh East/Farrukhabad/Chhibramau/5691
+Earth/Asia/India/Uttar Pradesh East/Farrukhabad/Farrukhabad (Fategarh)/5692
+Earth/Asia/India/Uttar Pradesh East/Farrukhabad/Kaimganj/5690
+Earth/Asia/India/Uttar Pradesh East/Farrukhabad/Kannauj/5694
+Earth/Asia/India/Uttar Pradesh East/Fatehpur/Bindki/5181
+Earth/Asia/India/Uttar Pradesh East/Fatehpur/Fateh-Pur-I (Fatehpur)/5180
+Earth/Asia/India/Uttar Pradesh East/Fatehpur/Fatehpur-II (Gazipur)/5183
+Earth/Asia/India/Uttar Pradesh East/Fatehpur/Khaga/5182
+Earth/Asia/India/Uttar Pradesh East/Ghazipur/Ghazipur/548
+Earth/Asia/India/Uttar Pradesh East/Ghazipur/Mohamdabad/5493
+Earth/Asia/India/Uttar Pradesh East/Ghazipur/Saidpur/5495
+Earth/Asia/India/Uttar Pradesh East/Ghazipur/Zamania/5497
+Earth/Asia/India/Uttar Pradesh East/Gonda/Balarampur-I (Balrampur)/5263
+Earth/Asia/India/Uttar Pradesh East/Gonda/Balarampur-II (Tulsipur)/5264
+Earth/Asia/India/Uttar Pradesh East/Gonda/Gonda/5262
+Earth/Asia/India/Uttar Pradesh East/Gonda/Tarabganj-I (Terabganj)/5260
+Earth/Asia/India/Uttar Pradesh East/Gonda/Tarabganj-II (Colonelganj)/5261
+Earth/Asia/India/Uttar Pradesh East/Gonda/Utraula/5265
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Bansgaon -I (Bansgaon)/5525
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Bansgaon-II (Barhal Ganj)/5521
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Gorakhpur/551
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Maharajganj/5523
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Pharenda-I (Compierganj)/5522
+Earth/Asia/India/Uttar Pradesh East/Gorakhpur/Pharenda-II (Anand Nagar)/5524
+Earth/Asia/India/Uttar Pradesh East/Hamirpur/Charkhari/5283
+Earth/Asia/India/Uttar Pradesh East/Hamirpur/Hamirpur/5282
+Earth/Asia/India/Uttar Pradesh East/Hamirpur/Mahoba/5281
+Earth/Asia/India/Uttar Pradesh East/Hamirpur/Maudaha/5284
+Earth/Asia/India/Uttar Pradesh East/Hamirpur/Rath/5280
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Bilgam-I (Madhoganj)/5851
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Bilgram-II (Sandi)/5855
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Hardoi-I (Hardoi)/5852
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Hardoi-II (Baghavli)/5850
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Sandila/5854
+Earth/Asia/India/Uttar Pradesh East/Hardoi/Shahabad/5853
+Earth/Asia/India/Uttar Pradesh East/Jaunpur/Jaunpur/5452
+Earth/Asia/India/Uttar Pradesh East/Jaunpur/Kerakat/5450
+Earth/Asia/India/Uttar Pradesh East/Jaunpur/Machlishahar/5454
+Earth/Asia/India/Uttar Pradesh East/Jaunpur/Mariyahu/5451
+Earth/Asia/India/Uttar Pradesh East/Jaunpur/Shahganj/5453
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Chirgaon (Moth)/5170
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Garauth/5171
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Jhansi/5174
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Lalitpur-I (Lalitpur)/5176
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Lalitpur-II (Talbehat)/5175
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Mauranipur/5178
+Earth/Asia/India/Uttar Pradesh East/Jhansi/Mehraun/5172
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Akbarpur/5111
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Bhognipur (Pakhrayan)/5113
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Bilhaur/5112
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Derapur (Jhinjak)/5114
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Ghatampur/5115
+Earth/Asia/India/Uttar Pradesh East/Kanpur/Kanpur/512
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Kheri-I (Kheri)/5872
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Kheri-II (Bhira)/5870
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Mohamdi-I (Mohamdi)/5876
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Mohamdi-II (Maigalganj)/5875
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Nighasan-I (Palliakalan)/5871
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Nighasan-II (Tikonia)/5873
+Earth/Asia/India/Uttar Pradesh East/Lakhimpur Kheri/Nighasan-III (Dhaurahra)/5874
+Earth/Asia/India/Uttar Pradesh East/Lucknow/Lucknow/522
+Earth/Asia/India/Uttar Pradesh East/Lucknow/Malihabad/5212
+Earth/Asia/India/Uttar Pradesh East/Mainpuri/Bhogaon/5673
+Earth/Asia/India/Uttar Pradesh East/Mainpuri/Jasrana/5671
+Earth/Asia/India/Uttar Pradesh East/Mainpuri/Karhal/5677
+Earth/Asia/India/Uttar Pradesh East/Mainpuri/Mainpuri/5672
+Earth/Asia/India/Uttar Pradesh East/Mainpuri/Shikohabad/5676
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Chunur/5443
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Dudhi-I (Dudhi)/5447
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Dudhi-II (Pipri)/5446
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Mirzapur-I (Mirzapur)/5442
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Mirzapur-II (Hallia)/5440
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Robertsganj -II (Obra)/5445
+Earth/Asia/India/Uttar Pradesh East/Mirzapur/Robertsganj-I/5444
+Earth/Asia/India/Uttar Pradesh East/Orai/Jalaun/5168
+Earth/Asia/India/Uttar Pradesh East/Orai/Kalpi/5164
+Earth/Asia/India/Uttar Pradesh East/Orai/Konch/5165
+Earth/Asia/India/Uttar Pradesh East/Orai/Orai/5162
+Earth/Asia/India/Uttar Pradesh East/Pratapgarh/Kunda/5341
+Earth/Asia/India/Uttar Pradesh East/Pratapgarh/Patti/5343
+Earth/Asia/India/Uttar Pradesh East/Pratapgarh/Pratapgarh/5342
+Earth/Asia/India/Uttar Pradesh East/Raibareilly/Dalmau-I (Dalmau)/5317
+Earth/Asia/India/Uttar Pradesh East/Raibareilly/Dalmau-II (Lalganj)/5315
+Earth/Asia/India/Uttar Pradesh East/Raibareilly/Raibareli/535
+Earth/Asia/India/Uttar Pradesh East/Raibareilly/Salon -I (Salon)/5311
+Earth/Asia/India/Uttar Pradesh East/Raibareilly/Salon-II (Jais)/5313
+Earth/Asia/India/Uttar Pradesh East/Sahjahanpur/Jalalabad/5843
+Earth/Asia/India/Uttar Pradesh East/Sahjahanpur/Powayan/5844
+Earth/Asia/India/Uttar Pradesh East/Sahjahanpur/Shahjahanpur/5842
+Earth/Asia/India/Uttar Pradesh East/Sahjahanpur/Tilhar/5841
+Earth/Asia/India/Uttar Pradesh East/Sitapur/Biswan/5863
+Earth/Asia/India/Uttar Pradesh East/Sitapur/Misrikh-I (Misrikh)/5865
+Earth/Asia/India/Uttar Pradesh East/Sitapur/Misrikh-II (Aurangabad)/5861
+Earth/Asia/India/Uttar Pradesh East/Sitapur/Sidhauli (Mahmodabad)/5864
+Earth/Asia/India/Uttar Pradesh East/Sitapur/Sitapur/5862
+Earth/Asia/India/Uttar Pradesh East/Sultanpur/Amethi/5368
+Earth/Asia/India/Uttar Pradesh East/Sultanpur/Kadipur/5364
+Earth/Asia/India/Uttar Pradesh East/Sultanpur/Musafirkhana/5361
+Earth/Asia/India/Uttar Pradesh East/Sultanpur/Sultanpur/5362
+Earth/Asia/India/Uttar Pradesh East/Unnao/Hasanganj/5143
+Earth/Asia/India/Uttar Pradesh East/Unnao/Purwa (Bighapur)/5142
+Earth/Asia/India/Uttar Pradesh East/Unnao/Safipur/5144
+Earth/Asia/India/Uttar Pradesh East/Unnao/Unnao/515
+Earth/Asia/India/Uttar Pradesh East/Varansi/Bhadohi/5414
+Earth/Asia/India/Uttar Pradesh East/Varansi/Chakia/5413
+Earth/Asia/India/Uttar Pradesh East/Varansi/Chandauli (Mugalsarai)/5412
+Earth/Asia/India/Uttar Pradesh East/Varansi/Varansi/542
+Earth/Asia/India/Uttar Pradesh East/Agra/Achhnera/5613
+Earth/Asia/India/Uttar Pradesh East/Agra/Agra/562
+Earth/Asia/India/Uttar Pradesh East/Agra/Ferozabad/5612
+Earth/Asia/India/Uttar Pradesh East/Agra/Jarar/5614
+Earth/Asia/India/Uttar Pradesh East/Aligarh/Aligarh/571
+Earth/Asia/India/Uttar Pradesh East/Aligarh/Atrauli/5723
+Earth/Asia/India/Uttar Pradesh East/Aligarh/Hathras/5722
+Earth/Asia/India/Uttar Pradesh East/Aligarh/Khair/5724
+Earth/Asia/India/Uttar Pradesh East/Aligarh/Sikandra Rao/5721
+Earth/Asia/India/Uttar Pradesh East/Badaun/Badaun/5832
+Earth/Asia/India/Uttar Pradesh East/Badaun/Bisauli/5834
+Earth/Asia/India/Uttar Pradesh East/Badaun/Dataganj/5831
+Earth/Asia/India/Uttar Pradesh East/Badaun/Gunnaur/5836
+Earth/Asia/India/Uttar Pradesh West/Badaun/Sahaswan/5833
+Earth/Asia/India/Uttar Pradesh East/Bareilly/Aonla -I/5823
+Earth/Asia/India/Uttar Pradesh East/Bareilly/Aonla-II (Ramnagar)/5824
+Earth/Asia/India/Uttar Pradesh East/Bareilly/Baheri/5822
+Earth/Asia/India/Uttar Pradesh West/Bareilly/Bareilly/581
+Earth/Asia/India/Uttar Pradesh West/Bareilly/Nawabganj/5825
+Earth/Asia/India/Uttar Pradesh West/Bareilly/Pitamberpur/5821
+Earth/Asia/India/Uttar Pradesh East/Bijnore/Bijnore-I/1342
+Earth/Asia/India/Uttar Pradesh East/Bijnore/Bijnore-II (Chandpur)/1345
+Earth/Asia/India/Uttar Pradesh East/Bijnore/Dhampur/1344
+Earth/Asia/India/Uttar Pradesh East/Bijnore/Nagina/1343
+Earth/Asia/India/Uttar Pradesh West/Bijnore/Najibabad/1341
+Earth/Asia/India/Uttar Pradesh West/Etah/Aliganj (Ganjdundwara)/5740
+Earth/Asia/India/Uttar Pradesh East/Etah/Etah/5742
+Earth/Asia/India/Uttar Pradesh East/Etah/Jalesar/5745
+Earth/Asia/India/Uttar Pradesh East/Etah/Kasganj/5744
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Bulandshahar/5732
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Debai/5734
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Garhmukteshwar/5731
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Ghaziabad+dadri/120
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Hapur/122
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Khurja/5738
+Earth/Asia/India/Uttar Pradesh East/Ghaziabad/Modinagar/1232
+Earth/Asia/India/Uttar Pradesh West/Ghaziabad/Pahasu/5733
+Earth/Asia/India/Uttar Pradesh West/Ghaziabad/Sikandrabad/5735
+Earth/Asia/India/Uttar Pradesh West/Ghaziabad/Siyana/5736
+Earth/Asia/India/Uttar Pradesh East/Mathura/Chhata (Kosikalan)/5662
+Earth/Asia/India/Uttar Pradesh East/Mathura/Math (Vrindavan)/5664
+Earth/Asia/India/Uttar Pradesh East/Mathura/Mathura/565
+Earth/Asia/India/Uttar Pradesh West/Mathura/Sadabad/5661
+Earth/Asia/India/Uttar Pradesh East/Meerut/Baghpat-II (Baraut)/1234
+Earth/Asia/India/Uttar Pradesh East/Meerut/Mawana/1233
+Earth/Asia/India/Uttar Pradesh East/Meerut/Meerut/121
+Earth/Asia/India/Uttar Pradesh West/Meerut/Sardhana/1237
+Earth/Asia/India/Uttar Pradesh East/Moradabad/Amroha/5922
+Earth/Asia/India/Uttar Pradesh East/Moradabad/Bilari/5921
+Earth/Asia/India/Uttar Pradesh East/Moradabad/Hasanpur/5924
+Earth/Asia/India/Uttar Pradesh East/Moradabad/Moradabad/591
+Earth/Asia/India/Uttar Pradesh West/Moradabad/Sambhal/5923
+Earth/Asia/India/Uttar Pradesh East/Muzaffar Nagar/Budhana/1392
+Earth/Asia/India/Uttar Pradesh East/Muzaffar Nagar/Jansath (Khatauli)/1396
+Earth/Asia/India/Uttar Pradesh East/Muzaffar Nagar/Kairana (Shamli)/1398
+Earth/Asia/India/Uttar Pradesh East/Muzaffar Nagar/Muzaffar Nagar/131
+Earth/Asia/India/Uttar Pradesh East/Pilibhit/Bisalpur/5881
+Earth/Asia/India/Uttar Pradesh West/Pilibhit/Pilibhit/5882
+Earth/Asia/India/Uttar Pradesh West/Pilibhit/Puranpur/5880
+Earth/Asia/India/Uttar Pradesh West/Rampur/Rampur/595
+Earth/Asia/India/Uttar Pradesh West/Rampur/Shahabad/5960
+Earth/Asia/India/Uttar Pradesh East/Saharanpur/Deoband/1336
+Earth/Asia/India/Uttar Pradesh West/Saharanpur/Nakur (Gangoh)/1331
+Earth/Asia/India/Uttar Pradesh West/Saharanpur/Saharanpur/132
+Earth/Asia/India/Uttarakhand/Almora/Almora/5962
+Earth/Asia/India/Uttarakhand/Almora/Bageshwar/5963
+Earth/Asia/India/Uttarakhand/Almora/Champawat/5965
+Earth/Asia/India/Uttarakhand/Almora/Dharchula/5967
+Earth/Asia/India/Uttarakhand/Almora/Munsiari/5961
+Earth/Asia/India/Uttarakhand/Almora/Pithoragarh/5964
+Earth/Asia/India/Uttarakhand/Almora/Ranikhet/5966
+Earth/Asia/India/Uttarakhand/Dehradun/Chakrata (Dakpather)/1360
+Earth/Asia/India/Uttarakhand/Dehradun/Dehradun/135
+Earth/Asia/India/Uttarakhand/Kotdwara/Chamoli/1372
+Earth/Asia/India/Uttarakhand/Kotdwara/Joshimath-I/1389
+Earth/Asia/India/Uttarakhand/Kotdwara/Joshimath-II (Badrinath)/1381
+Earth/Asia/India/Uttarakhand/Kotdwara/Karan Prayag/1363
+Earth/Asia/India/Uttarakhand/Kotdwara/Lansdown-I/1386
+Earth/Asia/India/Uttarakhand/Kotdwara/Lansdown-II (Kotdwara)/1382
+Earth/Asia/India/Uttarakhand/Kotdwara/Lansdown-III (Syunsi)/1348
+Earth/Asia/India/Uttarakhand/Kotdwara/Pauri-I/1368
+Earth/Asia/India/Uttarakhand/Kotdwara/Pauri-II (Bubakhal)/1346
+Earth/Asia/India/Uttarakhand/Kotdwara/Ukhimath (Guptkashi)/1364
+Earth/Asia/India/Uttarakhand/Nainital/Haldwani-I/5946
+Earth/Asia/India/Uttarakhand/Nainital/Haldwani-II (Chorgalian)/5945
+Earth/Asia/India/Uttarakhand/Nainital/Kashipur/5947
+Earth/Asia/India/Uttarakhand/Nainital/Khatima/5943
+Earth/Asia/India/Uttarakhand/Nainital/Khatima-II (Sitarganj)/5948
+Earth/Asia/India/Uttarakhand/Nainital/Kichha-I (Rudrapur)/5944
+Earth/Asia/India/Uttarakhand/Nainital/Kichha-II (Bazpur)/5949
+Earth/Asia/India/Uttarakhand/Nainital/Nainital/5942
+Earth/Asia/India/Uttarakhand/Saharanpur/Roorkee-I/1332
+Earth/Asia/India/Uttarakhand/Saharanpur/Roorkee-II (Hardwar)/1334
+Earth/Asia/India/Uttarakhand/Uttarkashi/Bhatwari-I (Uttarkashi)/1374
+Earth/Asia/India/Uttarakhand/Uttarkashi/Bhatwari-I (Gangotri)/1377
+Earth/Asia/India/Uttarakhand/Uttarkashi/Deoprayag-I/1378
+Earth/Asia/India/Uttarakhand/Uttarkashi/Deoprayag-II (Jakholi)/1370
+Earth/Asia/India/Uttarakhand/Uttarkashi/Dunda/1371
+Earth/Asia/India/Uttarakhand/Uttarkashi/Partapnagar/1379
+Earth/Asia/India/Uttarakhand/Uttarkashi/Purola/1373
+Earth/Asia/India/Uttarakhand/Uttarkashi/Rajgarhi/1375
+Earth/Asia/India/Uttarakhand/Uttarkashi/Tehri/1376
+Earth/Asia/India/West Bengal/Asansol/Asansol/341
+Earth/Asia/India/West Bengal/Asansol/Burdwan/342
+Earth/Asia/India/West Bengal/Asansol/Durgapur/343
+Earth/Asia/India/West Bengal/Asansol/Guskara/3452
+Earth/Asia/India/West Bengal/Asansol/Kalna/3454
+Earth/Asia/India/West Bengal/Asansol/Katwa/3453
+Earth/Asia/India/West Bengal/Asansol/Seharabazar/3451
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Balurghat/3522
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Dalkhola/3525
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Gangarampur/3521
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Harirampur/3524
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Islampur (Nd)/3526
+Earth/Asia/India/West Bengal/Balurghat (Raiganj)/Raiganj/3523
+Earth/Asia/India/West Bengal/Bankura/Bankura/3242
+Earth/Asia/India/West Bengal/Bankura/Bishnupur/3244
+Earth/Asia/India/West Bengal/Bankura/Gangajalghati/3241
+Earth/Asia/India/West Bengal/Bankura/Khatra/3243
+Earth/Asia/India/West Bengal/Berhampur/Berhampur/3482
+Earth/Asia/India/West Bengal/Berhampur/Dhuliyan/3485
+Earth/Asia/India/West Bengal/Berhampur/Islampur (M)/3481
+Earth/Asia/India/West Bengal/Berhampur/Kandi/3484
+Earth/Asia/India/West Bengal/Berhampur/Murshidabad (Jiaganj)/3483
+Earth/Asia/India/West Bengal/Kolkata/Arambag/3211
+Earth/Asia/India/West Bengal/Kolkata/Basirhat/3217
+Earth/Asia/India/West Bengal/Kolkata/Bongoan/3215
+Earth/Asia/India/West Bengal/Kolkata/Kolkata/33
+Earth/Asia/India/West Bengal/Kolkata/Canning/3218
+Earth/Asia/India/West Bengal/Kolkata/Champadanga/3212
+Earth/Asia/India/West Bengal/Kolkata/Dhaniakhali/3213
+Earth/Asia/India/West Bengal/Kolkata/Diamond Harbour/3174
+Earth/Asia/India/West Bengal/Kolkata/Habra/3216
+Earth/Asia/India/West Bengal/Kolkata/Jagatballavpur/3214
+Earth/Asia/India/West Bengal/Kolkata/Kakdwip/3210
+Earth/Asia/India/West Bengal/Coochbehar/Coochbehar/3582
+Earth/Asia/India/West Bengal/Coochbehar/Dinhata/3581
+Earth/Asia/India/West Bengal/Coochbehar/Mathabhanga/3583
+Earth/Asia/India/West Bengal/Coochbehar/Mekhliganj/3584
+Earth/Asia/India/West Bengal/Darjeeling (Siliguri)/Darjeeling/354
+Earth/Asia/India/West Bengal/Darjeeling (Siliguri)/Kalimpong/3552
+Earth/Asia/India/West Bengal/Darjeeling (Siliguri)/Siliguri/353
+Earth/Asia/India/West Bengal/Gangtok/Gangtok/3592
+Earth/Asia/India/West Bengal/Gangtok/Gauzing (Nayabazar)/3595
+Earth/Asia/India/West Bengal/Jalpaiguri/Alipurduar/3564
+Earth/Asia/India/West Bengal/Jalpaiguri/Birpara/3563
+Earth/Asia/India/West Bengal/Jalpaiguri/Jalpaiguri/3561
+Earth/Asia/India/West Bengal/Jalpaiguri/Kalchini/3566
+Earth/Asia/India/West Bengal/Jalpaiguri/Mal Bazar/3562
+Earth/Asia/India/West Bengal/Jalpaiguri/Nagarakata/3565
+Earth/Asia/India/West Bengal/Krishnanagar/Bethuadahari/3474
+Earth/Asia/India/West Bengal/Krishnanagar/Karimpur/3471
+Earth/Asia/India/West Bengal/Krishnanagar/Krishna Nagar/3472
+Earth/Asia/India/West Bengal/Krishnanagar/Ranaghat/3473
+Earth/Asia/India/West Bengal/Malda/Bubulchandi/3511
+Earth/Asia/India/West Bengal/Malda/Harishchandrapur/3513
+Earth/Asia/India/West Bengal/Malda/Malda/3512
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Amlagora/3227
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Contai/3220
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Dantan/3229
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Ghatal/3225
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Haldia/3224
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Jhargram/3221
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Kharagpur/3222
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Nayagarh (Kultikri)/3223
+Earth/Asia/India/West Bengal/Midnapur (Kharagpur)/Tamluk/3228
+Earth/Asia/India/West Bengal/Purulia/Adra/3251
+Earth/Asia/India/West Bengal/Purulia/Jhalda/3254
+Earth/Asia/India/West Bengal/Purulia/Manbazar/3253
+Earth/Asia/India/West Bengal/Purulia/Purulia/3252
+Earth/Asia/India/West Bengal/Suri/Bolpur/3463
+Earth/Asia/India/West Bengal/Suri/Nalhati/3465
+Earth/Asia/India/West Bengal/Suri/Rampur Hat/3461
+Earth/Asia/India/West Bengal/Suri/Suri/3462

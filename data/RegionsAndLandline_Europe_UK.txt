@@ -1,0 +1,759 @@
+Earth/Europe/United Kingdom/Aberdeen/1224
+Earth/Europe/United Kingdom/Aberfeldy/1887
+Earth/Europe/United Kingdom/Abergavenny/1873
+Earth/Europe/United Kingdom/Aberystwyth/1970
+Earth/Europe/United Kingdom/Abingdon/1235
+Earth/Europe/United Kingdom/Abington/1864
+Earth/Europe/United Kingdom/Aboyne/13392
+Earth/Europe/United Kingdom/Aboyne/13393
+Earth/Europe/United Kingdom/Aboyne/13395
+Earth/Europe/United Kingdom/Aboyne/13398
+Earth/Europe/United Kingdom/Aldershot/1252
+Earth/Europe/United Kingdom/Alford(Lincs)/15074
+Earth/Europe/United Kingdom/Alford(Lincs)/15078
+Earth/Europe/United Kingdom/Alford(Lincs)/15079
+Earth/Europe/United Kingdom/Alford/19752
+Earth/Europe/United Kingdom/Alford/19754
+Earth/Europe/United Kingdom/Alford/19755
+Earth/Europe/United Kingdom/Alford/19759
+Earth/Europe/United Kingdom/Alloa/1259
+Earth/Europe/United Kingdom/Alnwick/1665
+Earth/Europe/United Kingdom/Alton/1420
+Earth/Europe/United Kingdom/Amesbury/1980
+Earth/Europe/United Kingdom/Ammanford/1269
+Earth/Europe/United Kingdom/Andover/1264
+Earth/Europe/United Kingdom/Antrim/2894
+Earth/Europe/United Kingdom/Appleby/17683
+Earth/Europe/United Kingdom/Arbroath/1241
+Earth/Europe/United Kingdom/Ardgay/1863
+Earth/Europe/United Kingdom/Ardrossan/1294
+Earth/Europe/United Kingdom/Armagh/2837
+Earth/Europe/United Kingdom/Arrochar/1301
+Earth/Europe/United Kingdom/Ashbourne/1335
+Earth/Europe/United Kingdom/Ashburton/1364
+Earth/Europe/United Kingdom/Ashford(Kent)/1233
+Earth/Europe/United Kingdom/Axminster/1297
+Earth/Europe/United Kingdom/Aylesbury/1296
+Earth/Europe/United Kingdom/Ayr/1292
+Earth/Europe/United Kingdom/Ayton/18905
+Earth/Europe/United Kingdom/Ayton/18906
+Earth/Europe/United Kingdom/Ayton/18907
+Earth/Europe/United Kingdom/Ayton/18909
+Earth/Europe/United Kingdom/Bala/1678
+Earth/Europe/United Kingdom/Ballachulish/1855
+Earth/Europe/United Kingdom/Ballater/13394
+Earth/Europe/United Kingdom/Ballater/13396
+Earth/Europe/United Kingdom/Ballater/13397
+Earth/Europe/United Kingdom/Ballater/13399
+Earth/Europe/United Kingdom/Ballindalloch/1807
+Earth/Europe/United Kingdom/Ballycastle/2820
+Earth/Europe/United Kingdom/Ballyclare/2893
+Earth/Europe/United Kingdom/Ballygawley/2885
+Earth/Europe/United Kingdom/Ballymena/2825
+Earth/Europe/United Kingdom/Ballymoney/2827
+Earth/Europe/United Kingdom/Bamburgh/1668
+Earth/Europe/United Kingdom/Bamburgh/1668
+Earth/Europe/United Kingdom/Banbridge/2840
+Earth/Europe/United Kingdom/Banbury/1295
+Earth/Europe/United Kingdom/Banchory/1330
+Earth/Europe/United Kingdom/Banff/1261
+Earth/Europe/United Kingdom/Bangor(Co. Down)/2891
+Earth/Europe/United Kingdom/Bangor(Gwynedd)/1248
+Earth/Europe/United Kingdom/Barmouth/1341
+Earth/Europe/United Kingdom/Barnard Castle/1833
+Earth/Europe/United Kingdom/Barnsley/1226
+Earth/Europe/United Kingdom/Barnstaple/1271
+Earth/Europe/United Kingdom/Barrow-in-Furness/12292
+Earth/Europe/United Kingdom/Barrow-in-Furness/12294
+Earth/Europe/United Kingdom/Barrow-in-Furness/12295
+Earth/Europe/United Kingdom/Barrow-in-Furness/12296
+Earth/Europe/United Kingdom/Barrow-in-Furness/12298
+Earth/Europe/United Kingdom/Barry/1446
+Earth/Europe/United Kingdom/Basildon/1268
+Earth/Europe/United Kingdom/Basingstoke/1256
+Earth/Europe/United Kingdom/Bath/1225
+Earth/Europe/United Kingdom/Bathgate/1506
+Earth/Europe/United Kingdom/Bedale/1677
+Earth/Europe/United Kingdom/Bedford/1234
+Earth/Europe/United Kingdom/Belfast/2890
+Earth/Europe/United Kingdom/Belfast/2895
+Earth/Europe/United Kingdom/Belfast/2896
+Earth/Europe/United Kingdom/Bellingham/14342
+Earth/Europe/United Kingdom/Bellingham/14344
+Earth/Europe/United Kingdom/Bellingham/14349
+Earth/Europe/United Kingdom/Berwick-uponTweed/1289
+Earth/Europe/United Kingdom/Betws-y-Coed/1690
+Earth/Europe/United Kingdom/Bewdley/1299
+Earth/Europe/United Kingdom/Bicester/1869
+Earth/Europe/United Kingdom/Bideford/1237
+Earth/Europe/United Kingdom/Biggar/1899
+Earth/Europe/United Kingdom/Birmingham/121
+Earth/Europe/United Kingdom/Bishop Auckland/13883
+Earth/Europe/United Kingdom/Bishop Auckland/13884
+Earth/Europe/United Kingdom/Bishop Auckland/13886
+Earth/Europe/United Kingdom/Bishop Auckland/13887
+Earth/Europe/United Kingdom/Bishop Auckland/13888
+Earth/Europe/United Kingdom/Bishop Auckland/13889
+Earth/Europe/United Kingdom/Bishops Castle/1588
+Earth/Europe/United Kingdom/Bishops Stortford/1279
+Earth/Europe/United Kingdom/Bishops Waltham/1489
+Earth/Europe/United Kingdom/Blackburn/1254
+Earth/Europe/United Kingdom/Blackpool/1253
+Earth/Europe/United Kingdom/Blairgowrie/1250
+Earth/Europe/United Kingdom/Blandford/1258
+Earth/Europe/United Kingdom/Bodmin/1208
+Earth/Europe/United Kingdom/Bolton/1204
+Earth/Europe/United Kingdom/Boroughbridge/14233
+Earth/Europe/United Kingdom/Boroughbridge/14234
+Earth/Europe/United Kingdom/Boroughbridge/14239
+Earth/Europe/United Kingdom/Boston/1205
+Earth/Europe/United Kingdom/Bourne/1778
+Earth/Europe/United Kingdom/Bournemouth/1202
+Earth/Europe/United Kingdom/Bracknell/1344
+Earth/Europe/United Kingdom/Bradford/1274
+Earth/Europe/United Kingdom/Braintree/1376
+Earth/Europe/United Kingdom/Brampton/1697
+Earth/Europe/United Kingdom/Brechin/1356
+Earth/Europe/United Kingdom/Brecon/1874
+Earth/Europe/United Kingdom/Brentwood/1277
+Earth/Europe/United Kingdom/Bridgend/1656
+Earth/Europe/United Kingdom/Bridgnorth/1746
+Earth/Europe/United Kingdom/Bridgwater/1278
+Earth/Europe/United Kingdom/Bridlington/1262
+Earth/Europe/United Kingdom/Bridport/1308
+Earth/Europe/United Kingdom/Brigg/1652
+Earth/Europe/United Kingdom/Brighton/1273
+Earth/Europe/United Kingdom/Bristol/117
+Earth/Europe/United Kingdom/Bromyard/1886
+Earth/Europe/United Kingdom/Brooke/1508
+Earth/Europe/United Kingdom/Buckingham/1280
+Earth/Europe/United Kingdom/Bude/1288
+Earth/Europe/United Kingdom/Budleigh Salterton/1395
+Earth/Europe/United Kingdom/Builth Wells/1982
+Earth/Europe/United Kingdom/Bungay/1986
+Earth/Europe/United Kingdom/Burnley/1282
+Earth/Europe/United Kingdom/Burton-on-Trent/1283
+Earth/Europe/United Kingdom/Bury St Edmunds/1284
+Earth/Europe/United Kingdom/Buxton/1298
+Earth/Europe/United Kingdom/Caernarfon/1286
+Earth/Europe/United Kingdom/Callander/1877
+Earth/Europe/United Kingdom/Camberley/1276
+Earth/Europe/United Kingdom/Cambridge/1223
+Earth/Europe/United Kingdom/Camelford/1840
+Earth/Europe/United Kingdom/Campbeltown/1586
+Earth/Europe/United Kingdom/Cannock/1543
+Earth/Europe/United Kingdom/Canterbury/1227
+Earth/Europe/United Kingdom/Cardiff/29
+Earth/Europe/United Kingdom/Cardigan/1239
+Earth/Europe/United Kingdom/Carlisle/1228
+Earth/Europe/United Kingdom/Carmarthen/1267
+Earth/Europe/United Kingdom/Carradale/1583
+Earth/Europe/United Kingdom/Carrickmore/2880
+Earth/Europe/United Kingdom/Castle Douglas/1556
+Earth/Europe/United Kingdom/Castlebay/1871
+Earth/Europe/United Kingdom/Caterham/1883
+Earth/Europe/United Kingdom/Cemmaes Road/1650
+Earth/Europe/United Kingdom/Cerne Abbas/1300
+Earth/Europe/United Kingdom/Chard/1460
+Earth/Europe/United Kingdom/Chatteris/1354
+Earth/Europe/United Kingdom/Chelmsford/1245
+Earth/Europe/United Kingdom/Cheltenham/1242
+Earth/Europe/United Kingdom/Chepstow/1291
+Earth/Europe/United Kingdom/Chester/1244
+Earth/Europe/United Kingdom/Chesterfield/1246
+Earth/Europe/United Kingdom/Chichester/1243
+Earth/Europe/United Kingdom/Chippenham/1249
+Earth/Europe/United Kingdom/Chipping Norton/1608
+Earth/Europe/United Kingdom/Chipping Sodbury/1454
+Earth/Europe/United Kingdom/Church Stretton/1694
+Earth/Europe/United Kingdom/Cirencester/1285
+Earth/Europe/United Kingdom/Clacton-on-Sea/1255
+Earth/Europe/United Kingdom/Clevedon/1275
+Earth/Europe/United Kingdom/Clitheroe/1200
+Earth/Europe/United Kingdom/Clopton/1832
+Earth/Europe/United Kingdom/Clynderwen/14372
+Earth/Europe/United Kingdom/Clynderwen/14373
+Earth/Europe/United Kingdom/Clynderwen/14374
+Earth/Europe/United Kingdom/Clynderwen/14375
+Earth/Europe/United Kingdom/Coalville/1530
+Earth/Europe/United Kingdom/Coatbridge/1236
+Earth/Europe/United Kingdom/Colchester/1206
+Earth/Europe/United Kingdom/Coldstream/18902
+Earth/Europe/United Kingdom/Coldstream/18903
+Earth/Europe/United Kingdom/Coldstream/18904
+Earth/Europe/United Kingdom/Coldstream/18908
+Earth/Europe/United Kingdom/Coleraine/2870
+Earth/Europe/United Kingdom/Coleshill/1675
+Earth/Europe/United Kingdom/Colonsay/1951
+Earth/Europe/United Kingdom/Colwyn Bay/1492
+Earth/Europe/United Kingdom/Congleton/1260
+Earth/Europe/United Kingdom/Consett/1207
+Earth/Europe/United Kingdom/Cookstown/2886
+Earth/Europe/United Kingdom/Coppull/1257
+Earth/Europe/United Kingdom/Corwen/1490
+Earth/Europe/United Kingdom/Coupar Angus/1828
+Earth/Europe/United Kingdom/Coventry/24
+Earth/Europe/United Kingdom/Craigellachie/1340
+Earth/Europe/United Kingdom/Cranbrook/1580
+Earth/Europe/United Kingdom/Crawley/1293
+Earth/Europe/United Kingdom/Crediton/1363
+Earth/Europe/United Kingdom/Crewe/1270
+Earth/Europe/United Kingdom/Crieff/1764
+Earth/Europe/United Kingdom/Cromer/1263
+Earth/Europe/United Kingdom/Cumnock/1290
+Earth/Europe/United Kingdom/Dalmally/1838
+Earth/Europe/United Kingdom/Darlington/1325
+Earth/Europe/United Kingdom/Dartford/1322
+Earth/Europe/United Kingdom/Daventry/1327
+Earth/Europe/United Kingdom/Derby/1332
+Earth/Europe/United Kingdom/Dereham/1362
+Earth/Europe/United Kingdom/Devizes/1380
+Earth/Europe/United Kingdom/Dingwall/1349
+Earth/Europe/United Kingdom/Diss/1379
+Earth/Europe/United Kingdom/Doncaster/1302
+Earth/Europe/United Kingdom/Dorchester/1305
+Earth/Europe/United Kingdom/Dorking/1306
+Earth/Europe/United Kingdom/Dover/1304
+Earth/Europe/United Kingdom/Downham Market/1366
+Earth/Europe/United Kingdom/Downpatrick/2844
+Earth/Europe/United Kingdom/Driffield/1377
+Earth/Europe/United Kingdom/Dudley/1384
+Earth/Europe/United Kingdom/Dulverton/1398
+Earth/Europe/United Kingdom/Dumbarton/1389
+Earth/Europe/United Kingdom/Dumfries/1387
+Earth/Europe/United Kingdom/Dunbar/1368
+Earth/Europe/United Kingdom/Dundee/1382
+Earth/Europe/United Kingdom/Dunfermline/1383
+Earth/Europe/United Kingdom/Dungannon/2887
+Earth/Europe/United Kingdom/Dunkeld/1350
+Earth/Europe/United Kingdom/Dunoon/1369
+Earth/Europe/United Kingdom/Duns/1361
+Earth/Europe/United Kingdom/Durham/1913
+Earth/Europe/United Kingdom/Durham/1919
+Earth/Europe/United Kingdom/Dursley/1453
+Earth/Europe/United Kingdom/Easingwold/1347
+Earth/Europe/United Kingdom/East Grinstead/1342
+Earth/Europe/United Kingdom/East Kilbride/1355
+Earth/Europe/United Kingdom/Eastbourne/1323
+Earth/Europe/United Kingdom/Ebbsfleet/1987
+Earth/Europe/United Kingdom/Edinburgh/131
+Earth/Europe/United Kingdom/Elgin/1343
+Earth/Europe/United Kingdom/Ellon/1358
+Earth/Europe/United Kingdom/Ely/1353
+Earth/Europe/United Kingdom/Enniskillen/2866
+Earth/Europe/United Kingdom/Esher/1372
+Earth/Europe/United Kingdom/Evesham/1386
+Earth/Europe/United Kingdom/Exeter/1392
+Earth/Europe/United Kingdom/Fair Isle/159576
+Earth/Europe/United Kingdom/Fakenham/1328
+Earth/Europe/United Kingdom/Falkirk/1324
+Earth/Europe/United Kingdom/Falmouth/1326
+Earth/Europe/United Kingdom/Fareham/1329
+Earth/Europe/United Kingdom/Faringdon/1367
+Earth/Europe/United Kingdom/Felixstowe/1394
+Earth/Europe/United Kingdom/Fishguard/1348
+Earth/Europe/United Kingdom/Fivemiletown/2889
+Earth/Europe/United Kingdom/Folkestone/1303
+Earth/Europe/United Kingdom/Forfar/1307
+Earth/Europe/United Kingdom/Forres/1309
+Earth/Europe/United Kingdom/Fort Augustus/1320
+Earth/Europe/United Kingdom/Fort William/1397
+Earth/Europe/United Kingdom/Fortrose/1381
+Earth/Europe/United Kingdom/Fraserburgh/1346
+Earth/Europe/United Kingdom/Frome/1373
+Earth/Europe/United Kingdom/Gainsborough/1427
+Earth/Europe/United Kingdom/Gairloch/1445
+Earth/Europe/United Kingdom/Galashiels/1896
+Earth/Europe/United Kingdom/Garstang/1995
+Earth/Europe/United Kingdom/Girvan/1465
+Earth/Europe/United Kingdom/Glasgow/141
+Earth/Europe/United Kingdom/Glastonbury/1458
+Earth/Europe/United Kingdom/Glenborrodale/1972
+Earth/Europe/United Kingdom/Glenurquhart/1456
+Earth/Europe/United Kingdom/Glossop/1457
+Earth/Europe/United Kingdom/Gloucester/1452
+Earth/Europe/United Kingdom/Golspie/1408
+Earth/Europe/United Kingdom/Goole/1405
+Earth/Europe/United Kingdom/Gosforth/19467
+Earth/Europe/United Kingdom/Grange-over-Sands/15395
+Earth/Europe/United Kingdom/Grantham/1476
+Earth/Europe/United Kingdom/Grantown-onSpey/1479
+Earth/Europe/United Kingdom/Gravesend/1474
+Earth/Europe/United Kingdom/Grays Thurrock/1375
+Earth/Europe/United Kingdom/Great Bernera/18514
+Earth/Europe/United Kingdom/Great Bernera/18516
+Earth/Europe/United Kingdom/Great Bernera/18519
+Earth/Europe/United Kingdom/Great Dunmow/1371
+Earth/Europe/United Kingdom/Great Yarmouth/1493
+Earth/Europe/United Kingdom/Greenock/1475
+Earth/Europe/United Kingdom/Gretna/1461
+Earth/Europe/United Kingdom/Grimsby/1472
+Earth/Europe/United Kingdom/Guernsey/1481
+Earth/Europe/United Kingdom/Guildford/1483
+Earth/Europe/United Kingdom/Guisborough/1287
+Earth/Europe/United Kingdom/Guiseley/1943
+Earth/Europe/United Kingdom/Halifax/1422
+Earth/Europe/United Kingdom/Haltwhistle/14343
+Earth/Europe/United Kingdom/Haltwhistle/14345
+Earth/Europe/United Kingdom/Harris/1859
+Earth/Europe/United Kingdom/Harrogate/14232
+Earth/Europe/United Kingdom/Harrogate/14235
+Earth/Europe/United Kingdom/Harrogate/14236
+Earth/Europe/United Kingdom/Harrogate/14237
+Earth/Europe/United Kingdom/Harrogate/14238
+Earth/Europe/United Kingdom/Harthill/1501
+Earth/Europe/United Kingdom/Hartlepool/1429
+Earth/Europe/United Kingdom/Haslemere/1428
+Earth/Europe/United Kingdom/Hastings/1424
+Earth/Europe/United Kingdom/Hathersage/1433
+Earth/Europe/United Kingdom/Haverfordwest/14376
+Earth/Europe/United Kingdom/Haverfordwest/14377
+Earth/Europe/United Kingdom/Haverfordwest/14378
+Earth/Europe/United Kingdom/Haverfordwest/14379
+Earth/Europe/United Kingdom/Haverhill/1440
+Earth/Europe/United Kingdom/Hawick/1450
+Earth/Europe/United Kingdom/Hawkshead/15394
+Earth/Europe/United Kingdom/Hay-on-Wye/1497
+Earth/Europe/United Kingdom/Haywards Heath/1444
+Earth/Europe/United Kingdom/Heathfield/1435
+Earth/Europe/United Kingdom/Helensburgh/1436
+Earth/Europe/United Kingdom/Helmsdale/1431
+Earth/Europe/United Kingdom/Helmsley/1439
+Earth/Europe/United Kingdom/Hemel Hempstead/1442
+Earth/Europe/United Kingdom/Henley-on-Thames/1491
+Earth/Europe/United Kingdom/Hereford/1432
+Earth/Europe/United Kingdom/Hexham/14346
+Earth/Europe/United Kingdom/Hexham/14347
+Earth/Europe/United Kingdom/Hexham/14348
+Earth/Europe/United Kingdom/High Wycombe/1494
+Earth/Europe/United Kingdom/Hinckley/1455
+Earth/Europe/United Kingdom/Hitchin/1462
+Earth/Europe/United Kingdom/Holbeach/1406
+Earth/Europe/United Kingdom/Holmes Chapel/1477
+Earth/Europe/United Kingdom/Holsworthy/1409
+Earth/Europe/United Kingdom/Holyhead/1407
+Earth/Europe/United Kingdom/Honington/1400
+Earth/Europe/United Kingdom/Honiton/1404
+Earth/Europe/United Kingdom/Hornby/15242
+Earth/Europe/United Kingdom/Hornsea/19642
+Earth/Europe/United Kingdom/Hornsea/19645
+Earth/Europe/United Kingdom/Hornsea/19648
+Earth/Europe/United Kingdom/Hornsea/19649
+Earth/Europe/United Kingdom/Horsham/1403
+Earth/Europe/United Kingdom/Huddersfield/1484
+Earth/Europe/United Kingdom/Hull/1482
+Earth/Europe/United Kingdom/Hungerford/1488
+Earth/Europe/United Kingdom/Hunstanton/1485
+Earth/Europe/United Kingdom/Huntingdon/1480
+Earth/Europe/United Kingdom/Huntly/1466
+Earth/Europe/United Kingdom/Insch/1464
+Earth/Europe/United Kingdom/Inveraray/1499
+Earth/Europe/United Kingdom/Inverness/1463
+Earth/Europe/United Kingdom/Inverurie/1467
+Earth/Europe/United Kingdom/Ipstones/1538
+Earth/Europe/United Kingdom/Ipswich/1473
+Earth/Europe/United Kingdom/Isle of Arran/1770
+Earth/Europe/United Kingdom/Isle of Benbecula/1870
+Earth/Europe/United Kingdom/Isle of Man/1624
+Earth/Europe/United Kingdom/Isle of Mull-Craignure/1680
+Earth/Europe/United Kingdom/Isle of Mull-Fionnphort/1681
+Earth/Europe/United Kingdom/Isle of Mull-Tobermory/1688
+Earth/Europe/United Kingdom/Isle of Skye-Broadford/1471
+Earth/Europe/United Kingdom/Isle of Skye-Edinbane/1470
+Earth/Europe/United Kingdom/Isle of Skye-Portree/1478
+Earth/Europe/United Kingdom/Isle of Wight/1983
+Earth/Europe/United Kingdom/Isles of Scilly/1720
+Earth/Europe/United Kingdom/Jersey/1534
+Earth/Europe/United Kingdom/Johnstone/1505
+Earth/Europe/United Kingdom/Keighley/1535
+Earth/Europe/United Kingdom/Keith/1542
+Earth/Europe/United Kingdom/Kelso/1573
+Earth/Europe/United Kingdom/Kendal/1539
+Earth/Europe/United Kingdom/Kesh/2868
+Earth/Europe/United Kingdom/Keswick/17687
+Earth/Europe/United Kingdom/Kettering/1536
+Earth/Europe/United Kingdom/Kidderminster/1562
+Earth/Europe/United Kingdom/Kilchrenan/1866
+Earth/Europe/United Kingdom/Killearn/1360
+Earth/Europe/United Kingdom/Killin/1567
+Earth/Europe/United Kingdom/Killingholme/1469
+Earth/Europe/United Kingdom/Kilmarnock/1563
+Earth/Europe/United Kingdom/Kilmelford/1852
+Earth/Europe/United Kingdom/Kilrea/2829
+Earth/Europe/United Kingdom/Kings Lynn/1553
+Earth/Europe/United Kingdom/Kingsbridge/1548
+Earth/Europe/United Kingdom/Kington/1544
+Earth/Europe/United Kingdom/Kingussie/1540
+Earth/Europe/United Kingdom/Kinloch Rannoch/1882
+Earth/Europe/United Kingdom/Kinross/1577
+Earth/Europe/United Kingdom/Kinrossie/1821
+Earth/Europe/United Kingdom/Kircubbin/2842
+Earth/Europe/United Kingdom/Kirkcaldy/1592
+Earth/Europe/United Kingdom/Kirkcudbright/1557
+Earth/Europe/United Kingdom/Kirkwhelpington/1830
+Earth/Europe/United Kingdom/Kirriemuir/1575
+Earth/Europe/United Kingdom/Knighton/1547
+Earth/Europe/United Kingdom/Knutsford/1565
+Earth/Europe/United Kingdom/Kyle/1599
+Earth/Europe/United Kingdom/Ladybank/1337
+Earth/Europe/United Kingdom/Laggan/1528
+Earth/Europe/United Kingdom/Lairg/1549
+Earth/Europe/United Kingdom/Lampeter/1570
+Earth/Europe/United Kingdom/Lanark/1555
+Earth/Europe/United Kingdom/Lancaster/1524
+Earth/Europe/United Kingdom/Langholm/13873
+Earth/Europe/United Kingdom/Lapworth/1564
+Earth/Europe/United Kingdom/Larne/2828
+Earth/Europe/United Kingdom/Lauder/1578
+Earth/Europe/United Kingdom/Launceston/1566
+Earth/Europe/United Kingdom/Laurencekirk/1561
+Earth/Europe/United Kingdom/Lea Valley/1992
+Earth/Europe/United Kingdom/Ledbury/1531
+Earth/Europe/United Kingdom/Leeds/113
+Earth/Europe/United Kingdom/Leicester/116
+Earth/Europe/United Kingdom/Leighton Buzzard/1525
+Earth/Europe/United Kingdom/Leominster/1568
+Earth/Europe/United Kingdom/Lerwick Foula/159575
+Earth/Europe/United Kingdom/Leyburn/1969
+Earth/Europe/United Kingdom/Limavady/2877
+Earth/Europe/United Kingdom/Lincoln/1522
+Earth/Europe/United Kingdom/Lisburn/2892
+Earth/Europe/United Kingdom/Liskeard/1579
+Earth/Europe/United Kingdom/Lisnaskea/2867
+Earth/Europe/United Kingdom/Liverpool/151
+Earth/Europe/United Kingdom/Llanarth/1545
+Earth/Europe/United Kingdom/Llandeilo/1558
+Earth/Europe/United Kingdom/Llandovery/1550
+Earth/Europe/United Kingdom/Llandrindod,Wells/1597
+Earth/Europe/United Kingdom/Llandysul/1559
+Earth/Europe/United Kingdom/Llanelli/1554
+Earth/Europe/United Kingdom/Llanidloes/16862
+Earth/Europe/United Kingdom/Llanidloes/16863
+Earth/Europe/United Kingdom/Llanidloes/16864
+Earth/Europe/United Kingdom/Llanidloes/16867
+Earth/Europe/United Kingdom/Llanon/1974
+Earth/Europe/United Kingdom/Llanwrtyd Wells/1591
+Earth/Europe/United Kingdom/Lochboisdale/1878
+Earth/Europe/United Kingdom/Lochcarron/1520
+Earth/Europe/United Kingdom/Lochgilphead/1546
+Earth/Europe/United Kingdom/Lochinver/1571
+Earth/Europe/United Kingdom/Lochmaddy/1876
+Earth/Europe/United Kingdom/Lockerbie/1576
+Earth/Europe/United Kingdom/London/20
+Earth/Europe/United Kingdom/Londonderry/2871
+Earth/Europe/United Kingdom/Londonderry/2872
+Earth/Europe/United Kingdom/Looe/1503
+Earth/Europe/United Kingdom/Loughborough/1509
+Earth/Europe/United Kingdom/Louth/15073
+Earth/Europe/United Kingdom/Louth/15076
+Earth/Europe/United Kingdom/Louth/15077
+Earth/Europe/United Kingdom/Lowestoft/1502
+Earth/Europe/United Kingdom/Ludlow/1584
+Earth/Europe/United Kingdom/Luton/1582
+Earth/Europe/United Kingdom/Lybster/1593
+Earth/Europe/United Kingdom/Lydney/1594
+Earth/Europe/United Kingdom/Lymington/1590
+Earth/Europe/United Kingdom/Lynton/1598
+Earth/Europe/United Kingdom/Macclesfield/1625
+Earth/Europe/United Kingdom/Machynlleth/1654
+Earth/Europe/United Kingdom/Madingley/1954
+Earth/Europe/United Kingdom/Magherafelt/2879
+Earth/Europe/United Kingdom/Maidenhead/1628
+Earth/Europe/United Kingdom/Maidstone/1622
+Earth/Europe/United Kingdom/Maldon/1621
+Earth/Europe/United Kingdom/Mallaig/1687
+Earth/Europe/United Kingdom/Malmesbury/1666
+Earth/Europe/United Kingdom/Malton/1653
+Earth/Europe/United Kingdom/Malvern/1684
+Earth/Europe/United Kingdom/Manchester/161
+Earth/Europe/United Kingdom/Mansfield/1623
+Earth/Europe/United Kingdom/Market Drayton/1630
+Earth/Europe/United Kingdom/Market Harborough/1858
+Earth/Europe/United Kingdom/Market Rasen/1673
+Earth/Europe/United Kingdom/Market Weighton/14306
+Earth/Europe/United Kingdom/Market Weighton/14307
+Earth/Europe/United Kingdom/Market Weighton/14308
+Earth/Europe/United Kingdom/Market Weighton/14309
+Earth/Europe/United Kingdom/Marlborough/1672
+Earth/Europe/United Kingdom/Marlborough/1672
+Earth/Europe/United Kingdom/Martin/1526
+Earth/Europe/United Kingdom/Martinstown/2821
+Earth/Europe/United Kingdom/Matlock/1629
+Earth/Europe/United Kingdom/Maud/1771
+Earth/Europe/United Kingdom/Maybole/1655
+Earth/Europe/United Kingdom/Medway/1634
+Earth/Europe/United Kingdom/Melton Mowbray/1664
+Earth/Europe/United Kingdom/Meriden/1676
+Earth/Europe/United Kingdom/Merthyr Tydfil/1685
+Earth/Europe/United Kingdom/Mid Yell/1957
+Earth/Europe/United Kingdom/Middlesbrough/1642
+Earth/Europe/United Kingdom/Milford Haven/1646
+Earth/Europe/United Kingdom/Millom/12293
+Earth/Europe/United Kingdom/Millom/12297
+Earth/Europe/United Kingdom/Millom/12299
+Earth/Europe/United Kingdom/Milton Keynes/1908
+Earth/Europe/United Kingdom/Minehead/1643
+Earth/Europe/United Kingdom/Moffat/1683
+Earth/Europe/United Kingdom/Mold/1352
+Earth/Europe/United Kingdom/Monmouth/1600
+Earth/Europe/United Kingdom/Montrose/1674
+Earth/Europe/United Kingdom/Moretonhampstead/1647
+Earth/Europe/United Kingdom/Morpeth/1670
+Earth/Europe/United Kingdom/Morpeth/1670
+Earth/Europe/United Kingdom/Moscow/1560
+Earth/Europe/United Kingdom/Motherwell/1698
+Earth/Europe/United Kingdom/Nairn/1667
+Earth/Europe/United Kingdom/Nairn/1667
+Earth/Europe/United Kingdom/Narberth/1834
+Earth/Europe/United Kingdom/Neath/1639
+Earth/Europe/United Kingdom/New Galloway/1644
+Earth/Europe/United Kingdom/New Luce/1581
+Earth/Europe/United Kingdom/New Mills/1663
+Earth/Europe/United Kingdom/Newark/1636
+Earth/Europe/United Kingdom/Newbury/1635
+Earth/Europe/United Kingdom/Newcastle(Co. Down)/2843
+Earth/Europe/United Kingdom/Newmarket/1638
+Earth/Europe/United Kingdom/Newport/1633
+Earth/Europe/United Kingdom/Newquay/1637
+Earth/Europe/United Kingdom/Newquay/1841
+Earth/Europe/United Kingdom/Newry/2830
+Earth/Europe/United Kingdom/Newton Abbot/1626
+Earth/Europe/United Kingdom/Newton Stewart/1671
+Earth/Europe/United Kingdom/Newton Stewart/1671
+Earth/Europe/United Kingdom/Newtown/16865
+Earth/Europe/United Kingdom/Newtown/16866
+Earth/Europe/United Kingdom/Newtown/16868
+Earth/Europe/United Kingdom/Newtown/16869
+Earth/Europe/United Kingdom/Newtownstewart/2881
+Earth/Europe/United Kingdom/North Berwick/1620
+Earth/Europe/United Kingdom/North Cave/14302
+Earth/Europe/United Kingdom/North Cave/14303
+Earth/Europe/United Kingdom/North Cave/14304
+Earth/Europe/United Kingdom/North Cave/14305
+Earth/Europe/United Kingdom/North Walsham/1692
+Earth/Europe/United Kingdom/Northallerton/1609
+Earth/Europe/United Kingdom/Northampton/1604
+Earth/Europe/United Kingdom/Northwich/1606
+Earth/Europe/United Kingdom/Norwich/1603
+Earth/Europe/United Kingdom/Nottingham/115
+Earth/Europe/United Kingdom/Oakham/1572
+Earth/Europe/United Kingdom/Oban/1631
+Earth/Europe/United Kingdom/Okehampton/1837
+Earth/Europe/United Kingdom/Oldmeldrum/1651
+Earth/Europe/United Kingdom/Omagh/2882
+Earth/Europe/United Kingdom/Orkney/1856
+Earth/Europe/United Kingdom/Orpington/1689
+Earth/Europe/United Kingdom/Oswestry/1691
+Earth/Europe/United Kingdom/Oxford/1865
+Earth/Europe/United Kingdom/Pakenham/1359
+Earth/Europe/United Kingdom/Patrington/19643
+Earth/Europe/United Kingdom/Patrington/19644
+Earth/Europe/United Kingdom/Patrington/19646
+Earth/Europe/United Kingdom/Patrington/19647
+Earth/Europe/United Kingdom/Peat Inn/1333
+Earth/Europe/United Kingdom/Peebles/1721
+Earth/Europe/United Kingdom/Pencombe/1885
+Earth/Europe/United Kingdom/Penicuik/1968
+Earth/Europe/United Kingdom/Penrith/1768
+Earth/Europe/United Kingdom/Penzance/1736
+Earth/Europe/United Kingdom/Perth/1738
+Earth/Europe/United Kingdom/Peterborough/1733
+Earth/Europe/United Kingdom/Peterhead/1779
+Earth/Europe/United Kingdom/Petersfield/1730
+Earth/Europe/United Kingdom/Pickering/1751
+Earth/Europe/United Kingdom/Pitlochry/1796
+Earth/Europe/United Kingdom/Plymouth/1752
+Earth/Europe/United Kingdom/Pocklington/1759
+Earth/Europe/United Kingdom/Pontefract/1977
+Earth/Europe/United Kingdom/Pontypool/1495
+Earth/Europe/United Kingdom/Pontypridd/1443
+Earth/Europe/United Kingdom/Pooley Bridge/17684
+Earth/Europe/United Kingdom/Port Ellen/1496
+Earth/Europe/United Kingdom/Portadown/2838
+Earth/Europe/United Kingdom/Porthmadog/1766
+Earth/Europe/United Kingdom/Portsmouth/239
+Earth/Europe/United Kingdom/Preston/1772
+Earth/Europe/United Kingdom/Prudhoe/1661
+Earth/Europe/United Kingdom/Pulborough/1798
+Earth/Europe/United Kingdom/Pwllheli/1758
+Earth/Europe/United Kingdom/Raughton Head/16974
+Earth/Europe/United Kingdom/Reading/118
+Earth/Europe/United Kingdom/Redditch/1527
+Earth/Europe/United Kingdom/Redhill/1737
+Earth/Europe/United Kingdom/Redruth/1209
+Earth/Europe/United Kingdom/Retford/1777
+Earth/Europe/United Kingdom/Rhyl/1745
+Earth/Europe/United Kingdom/Richmond/1748
+Earth/Europe/United Kingdom/Ringwood/1425
+Earth/Europe/United Kingdom/Ripley/1773
+Earth/Europe/United Kingdom/Ripon/1765
+Earth/Europe/United Kingdom/Rochdale/1706
+Earth/Europe/United Kingdom/Rockbourne/1725
+Earth/Europe/United Kingdom/Romford/1708
+Earth/Europe/United Kingdom/Romsey/1794
+Earth/Europe/United Kingdom/Ross-on-Wye/1989
+Earth/Europe/United Kingdom/Rostrevor/2841
+Earth/Europe/United Kingdom/Rothbury/1669
+Earth/Europe/United Kingdom/Rothbury/1669
+Earth/Europe/United Kingdom/Rotherham/1709
+Earth/Europe/United Kingdom/Rothesay/1700
+Earth/Europe/United Kingdom/Royston/1763
+Earth/Europe/United Kingdom/Rugby/1788
+Earth/Europe/United Kingdom/Rugeley/1889
+Earth/Europe/United Kingdom/Runcorn/1928
+Earth/Europe/United Kingdom/Ruthin/1824
+Earth/Europe/United Kingdom/Rye/1797
+Earth/Europe/United Kingdom/Saffron Walden/1799
+Earth/Europe/United Kingdom/Saintfield/2897
+Earth/Europe/United Kingdom/Salisbury/1722
+Earth/Europe/United Kingdom/Sanday/1857
+Earth/Europe/United Kingdom/Sandwick/1950
+Earth/Europe/United Kingdom/Sandy/1767
+Earth/Europe/United Kingdom/Sanquhar/1659
+Earth/Europe/United Kingdom/Saxmundham/1728
+Earth/Europe/United Kingdom/Scarborough/1723
+Earth/Europe/United Kingdom/Scarinish/1879
+Earth/Europe/United Kingdom/Scourie/1971
+Earth/Europe/United Kingdom/Scunthorpe/1724
+Earth/Europe/United Kingdom/Sedbergh/15396
+Earth/Europe/United Kingdom/Sedgefield/1740
+Earth/Europe/United Kingdom/Selby/1757
+Earth/Europe/United Kingdom/Selkirk/1750
+Earth/Europe/United Kingdom/Settle/1729
+Earth/Europe/United Kingdom/Sevenoaks/1732
+Earth/Europe/United Kingdom/Shaftesbury/1747
+Earth/Europe/United Kingdom/Shap/1931
+Earth/Europe/United Kingdom/Sheffield/114
+Earth/Europe/United Kingdom/Shepton Mallet/1749
+Earth/Europe/United Kingdom/Shetland/1806
+Earth/Europe/United Kingdom/Shrewsbury/1743
+Earth/Europe/United Kingdom/Sittingbourne/1795
+Earth/Europe/United Kingdom/Skegness/1754
+Earth/Europe/United Kingdom/Skelmersdale/1695
+Earth/Europe/United Kingdom/Skipton/1756
+Earth/Europe/United Kingdom/Sleaford/1529
+Earth/Europe/United Kingdom/Slough/1753
+Earth/Europe/United Kingdom/South Molton/1769
+Earth/Europe/United Kingdom/Southampton/238
+Earth/Europe/United Kingdom/Southend-on-Sea/1702
+Earth/Europe/United Kingdom/Southport/1704
+Earth/Europe/United Kingdom/Spalding/1775
+Earth/Europe/United Kingdom/Spilsby/15072
+Earth/Europe/United Kingdom/Spilsby/15075
+Earth/Europe/United Kingdom/Spilsby/1790
+Earth/Europe/United Kingdom/St Albans/1727
+Earth/Europe/United Kingdom/St Andrews/1334
+Earth/Europe/United Kingdom/St Austell/1726
+Earth/Europe/United Kingdom/St Boswells/1835
+Earth/Europe/United Kingdom/St Clears/1994
+Earth/Europe/United Kingdom/St Helens/1744
+Earth/Europe/United Kingdom/Stafford/1785
+Earth/Europe/United Kingdom/Staines/1784
+Earth/Europe/United Kingdom/Stamford/1780
+Earth/Europe/United Kingdom/Stanhope/13882
+Earth/Europe/United Kingdom/Stanhope/13885
+Earth/Europe/United Kingdom/Stevenage/1438
+Earth/Europe/United Kingdom/Stirling/1786
+Earth/Europe/United Kingdom/Stoke-on-Trent/1782
+Earth/Europe/United Kingdom/Stonehaven/1569
+Earth/Europe/United Kingdom/Stornoway/18512
+Earth/Europe/United Kingdom/Stornoway/18513
+Earth/Europe/United Kingdom/Stornoway/18515
+Earth/Europe/United Kingdom/Stornoway/18517
+Earth/Europe/United Kingdom/Stornoway/18518
+Earth/Europe/United Kingdom/Stow-on-theWold/1451
+Earth/Europe/United Kingdom/Stowmarket/1449
+Earth/Europe/United Kingdom/Stranraer/1776
+Earth/Europe/United Kingdom/Stratford-uponAvon/1789
+Earth/Europe/United Kingdom/Strathaven/1357
+Earth/Europe/United Kingdom/Strathdon/19753
+Earth/Europe/United Kingdom/Strathdon/19756
+Earth/Europe/United Kingdom/Strathdon/19757
+Earth/Europe/United Kingdom/Strathdon/19758
+Earth/Europe/United Kingdom/Strathpeffer/1997
+Earth/Europe/United Kingdom/Strathy/1641
+Earth/Europe/United Kingdom/Strontian/1967
+Earth/Europe/United Kingdom/Sudbury/1787
+Earth/Europe/United Kingdom/Sunderland/1915
+Earth/Europe/United Kingdom/Sunderland/1917
+Earth/Europe/United Kingdom/Swaffham/1760
+Earth/Europe/United Kingdom/Swansea/1792
+Earth/Europe/United Kingdom/Swindon/1793
+Earth/Europe/United Kingdom/Tain/1862
+Earth/Europe/United Kingdom/Tamworth/1827
+Earth/Europe/United Kingdom/Tarbert/1880
+Earth/Europe/United Kingdom/Tarporley/1829
+Earth/Europe/United Kingdom/Taunton/1823
+Earth/Europe/United Kingdom/Tavistock/1822
+Earth/Europe/United Kingdom/Telford/1952
+Earth/Europe/United Kingdom/Temple Cloud/1761
+Earth/Europe/United Kingdom/Thame/1844
+Earth/Europe/United Kingdom/Thanet/1843
+Earth/Europe/United Kingdom/Thetford/1842
+Earth/Europe/United Kingdom/Thirsk/1845
+Earth/Europe/United Kingdom/Thornhill/1848
+Earth/Europe/United Kingdom/Thurso/18472
+Earth/Europe/United Kingdom/Thurso/18473
+Earth/Europe/United Kingdom/Thurso/18474
+Earth/Europe/United Kingdom/Thurso/18475
+Earth/Europe/United Kingdom/Thurso/18478
+Earth/Europe/United Kingdom/Tiverton/1884
+Earth/Europe/United Kingdom/Tomatin/1808
+Earth/Europe/United Kingdom/Tomdoun/1809
+Earth/Europe/United Kingdom/Tongue/18476
+Earth/Europe/United Kingdom/Tongue/18477
+Earth/Europe/United Kingdom/Tongue/18479
+Earth/Europe/United Kingdom/Torquay/1803
+Earth/Europe/United Kingdom/Torrington/1805
+Earth/Europe/United Kingdom/Tranent/1875
+Earth/Europe/United Kingdom/Truro/1872
+Earth/Europe/United Kingdom/Tunbridge Wells/1892
+Earth/Europe/United Kingdom/Turriff/1888
+Earth/Europe/United Kingdom/Tyneside/1912
+Earth/Europe/United Kingdom/Tyneside/1914
+Earth/Europe/United Kingdom/Tyneside/1916
+Earth/Europe/United Kingdom/Tyneside/1918
+Earth/Europe/United Kingdom/Uckfield/1825
+Earth/Europe/United Kingdom/Ullapool/1854
+Earth/Europe/United Kingdom/Uxbridge/1895
+Earth/Europe/United Kingdom/Wakefield/1924
+Earth/Europe/United Kingdom/Walsall/1922
+Earth/Europe/United Kingdom/Warboys/1487
+Earth/Europe/United Kingdom/Ware/1920
+Earth/Europe/United Kingdom/Wareham/1929
+Earth/Europe/United Kingdom/Warminster/1985
+Earth/Europe/United Kingdom/Warrington/1925
+Earth/Europe/United Kingdom/Warwick/1926
+Earth/Europe/United Kingdom/Watchet/1984
+Earth/Europe/United Kingdom/Watford/1923
+Earth/Europe/United Kingdom/Wellingborough/1933
+Earth/Europe/United Kingdom/Welshpool/1938
+Earth/Europe/United Kingdom/Welwyn Garden City/1707
+Earth/Europe/United Kingdom/Wem/1939
+Earth/Europe/United Kingdom/West Heslerton/1944
+Earth/Europe/United Kingdom/Westerham/1959
+Earth/Europe/United Kingdom/Weston-superMare/1934
+Earth/Europe/United Kingdom/Wetherby/1937
+Earth/Europe/United Kingdom/Weybridge/1932
+Earth/Europe/United Kingdom/Whatton/1949
+Earth/Europe/United Kingdom/Whitby/1947
+Earth/Europe/United Kingdom/Whitchurch/1948
+Earth/Europe/United Kingdom/Whitehaven/1946
+Earth/Europe/United Kingdom/Wick/1955
+Earth/Europe/United Kingdom/Wigan/1942
+Earth/Europe/United Kingdom/Wigton/16973
+Earth/Europe/United Kingdom/Wigtown/1988
+Earth/Europe/United Kingdom/Wincanton/1963
+Earth/Europe/United Kingdom/Winchester/1962
+Earth/Europe/United Kingdom/Wisbech/1945
+Earth/Europe/United Kingdom/Witney/1993
+Earth/Europe/United Kingdom/Wolverhampton/1902
+Earth/Europe/United Kingdom/Worcester/1905
+Earth/Europe/United Kingdom/Workington/1900
+Earth/Europe/United Kingdom/Worksop/1909
+Earth/Europe/United Kingdom/Wormbridge/1981
+Earth/Europe/United Kingdom/Worthing/1903
+Earth/Europe/United Kingdom/Wrexham/1978
+Earth/Europe/United Kingdom/Wymondham/1953
+Earth/Europe/United Kingdom/Yeovil/1935
+Earth/Europe/United Kingdom/York/1904

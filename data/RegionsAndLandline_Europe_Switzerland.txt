@@ -1,0 +1,15 @@
+Earth/Europe/Switzerland/Lausanne,Montreux,Vevey/21
+Earth/Europe/Switzerland/Geneva, Gryon (Yverdon-les-Bains), Fribourg/22
+Earth/Europe/Switzerland/Crans-sur-Sierre, Zermatt/27
+Earth/Europe/Switzerland/Berne/31
+Earth/Europe/Switzerland/Biel (Bienne), La Chaux-de-Fonds, Neuchatel/32
+Earth/Europe/Switzerland/Gstaad, Interlaken, Lenk im Simmental, Obewil im Simmental, Wengen/33
+Earth/Europe/Switzerland/Andermatt, Lucerne, Zug/41
+Earth/Europe/Switzerland/Zurich/43
+Earth/Europe/Switzerland/Schaffhausen, Winterthur/52
+Earth/Europe/Switzerland/Baden/56
+Earth/Europe/Switzerland/Basel/61
+Earth/Europe/Switzerland/Ammerswil (Aarau)/62
+Earth/Europe/Switzerland/St. Gallen/71
+Earth/Europe/Switzerland/Arosa, Davos, Klosters, St. Moritz/81
+Earth/Europe/Switzerland/Bellinzona, Chiasso, Locarno, Lugano/91

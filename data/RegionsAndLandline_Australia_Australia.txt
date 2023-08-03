@@ -1,0 +1,123 @@
+Earth/Australia/Australia/New South Wales/Adelong,Griffith,Hay,Narrandera,Temora,Wagga Wagga,West Wyalong/259
+Earth/Australia/Australia/New South Wales/Adelong,Griffith,Hay,Narrandera,Temora,Wagga Wagga,West Wyalong/269
+Earth/Australia/Australia/New South Wales/Albury,Corryong/250
+Earth/Australia/Australia/New South Wales/Albury,Corryong/260
+Earth/Australia/Australia/New South Wales/Armidale,Barraba,Gunnedah,Inverell,Moree,Narrabri,Glen Innes,Tamworth/257
+Earth/Australia/Australia/New South Wales/Armidale,Barraba,Gunnedah,Inverell,Moree,Narrabri,Glen Innes,Tamworth/267
+Earth/Australia/Australia/New South Wales/Bathurst,Cowra,Lithgow,Mudgee,Orange,Rylstone,Young/253
+Earth/Australia/Australia/New South Wales/Bathurst,Cowra,Lithgow,Mudgee,Orange,Rylstone,Young/263
+Earth/Australia/Australia/New South Wales/Bega,Cooma/264
+Earth/Australia/Australia/New South Wales/Bourke,Condoblin,Coonamble,Dubbo,Forbes,Moree,Nyngan,Parkes,Wellington/258
+Earth/Australia/Australia/New South Wales/Bourke,Condoblin,Coonamble,Dubbo,Forbes,Moree,Nyngan,Parkes,Wellington/268
+Earth/Australia/Australia/New South Wales/Bowral,Crookwell,Goulburn,Marulan/238
+Earth/Australia/Australia/New South Wales/Bowral,Crookwell,Goulburn,Marulan/248
+Earth/Australia/Australia/New South Wales/Campbelltown/246
+Earth/Australia/Australia/New South Wales/Canberra/251
+Earth/Australia/Australia/New South Wales/Canberra/252
+Earth/Australia/Australia/New South Wales/Canberra/261
+Earth/Australia/Australia/New South Wales/Canberra/262
+Earth/Australia/Australia/New South Wales/Casino,Coffs Harbour,Graton,Kyogle,Lismore,Murwillumbah/256
+Earth/Australia/Australia/New South Wales/Casino,Coffs Harbour,Graton,Kyogle,Lismore,Murwillumbah/266
+Earth/Australia/Australia/New South Wales/Gosford/233
+Earth/Australia/Australia/New South Wales/Gosford/243
+Earth/Australia/Australia/New South Wales/Kempsey,Lord Howe Island,Muswellbrook,Singleton,Taree,Wauchope/255
+Earth/Australia/Australia/New South Wales/Kempsey,Lord Howe Island,Muswellbrook,Singleton,Taree,Wauchope/265
+Earth/Australia/Australia/New South Wales/Moruya,Nowra/244
+Earth/Australia/Australia/New South Wales/Newcastle/240
+Earth/Australia/Australia/New South Wales/Newcastle/241
+Earth/Australia/Australia/New South Wales/Newcastle/249
+Earth/Australia/Australia/New South Wales/Penrith/247
+Earth/Australia/Australia/Western Australia/Albany,Katanning,Kondinin,Narrogin,Wagin/868
+Earth/Australia/Australia/Western Australia/Albany,Katanning,Kondinin,Narrogin,Wagin/898
+Earth/Australia/Australia/Northern Territory/Alice Springs,Darwin/879
+Earth/Australia/Australia/Northern Territory/Alice Springs,Darwin/889
+Earth/Australia/Australia/South Australia/Berri,Gawler,Kangaroo Island,Malalla,Murray Bridge,Nurioopta,Tailem Bend,Victor Harbour,Waikerie/875
+Earth/Australia/Australia/South Australia/Berri,Gawler,Kangaroo Island,Malalla,Murray Bridge,Nurioopta,Tailem Bend,Victor Harbour,Waikerie/885
+Earth/Australia/Australia/South Australia/Bordertown,Mount Gambier,Naracoorte/877
+Earth/Australia/Australia/South Australia/Bordertown,Mount Gambier,Naracoorte/887
+Earth/Australia/Australia/Western Australia/Bridgetown,Bunbury,Busselton,Pinjarra/867
+Earth/Australia/Australia/Western Australia/Bridgetown,Bunbury,Busselton,Pinjarra/897
+Earth/Australia/Australia/New South Wales/Broken Hill/880
+Earth/Australia/Australia/Western Australia/Bruce Rock,Great Victoria,Kalgoorlie,Merredin/860
+Earth/Australia/Australia/Western Australia/Bruce Rock,Great Victoria,Kalgoorlie,Merredin/890
+Earth/Australia/Australia/Western Australia/Bullsbrook East,Northam,Pinjarra/895
+Earth/Australia/Australia/Western Australia/Carnamah,Carnarvon,Geraldton,Meekatharra,Morawa,Mullewa,Wongan Hills/899
+Earth/Australia/Australia/South Australia/Ceduna,Port Augusta,Port Pirie,Port Lincoln,Gladstone,Peterborough,Cook,Woomera/876
+Earth/Australia/Australia/South Australia/Ceduna,Port Augusta,Port Pirie,Port Lincoln,Gladstone,Peterborough,Cook,Woomera/886
+Earth/Australia/Australia/Western Australia/Christmas Island,Cocos (Keeling) Islands,Derby,Great Sandy,Port Hedland/851
+Earth/Australia/Australia/Western Australia/Christmas Island,Cocos (Keeling) Islands,Derby,Great Sandy,Port Hedland/891
+Earth/Australia/Australia/South Australia/Clare,Kadina,Port Lincoln,Burra,Balaklava,Maitland,Gawler,Yorketown/878
+Earth/Australia/Australia/South Australia/Clare,Kadina,Port Lincoln,Burra,Balaklava,Maitland,Gawler,Yorketown/888
+Earth/Australia/Australia/Western Australia/Moora,Northam,Wongan Hills,Wyalkatchem,York/866
+Earth/Australia/Australia/Western Australia/Moora,Northam,Wongan Hills,Wyalkatchem,York/896
+Earth/Australia/Australia/Western Australia/Perth/852
+Earth/Australia/Australia/Western Australia/Perth/853
+Earth/Australia/Australia/Western Australia/Perth/854
+Earth/Australia/Australia/Western Australia/Perth/861
+Earth/Australia/Australia/Western Australia/Perth/862
+Earth/Australia/Australia/Western Australia/Perth/863
+Earth/Australia/Australia/Western Australia/Perth/864
+Earth/Australia/Australia/Western Australia/Perth/865
+Earth/Australia/Australia/Western Australia/Perth/892
+Earth/Australia/Australia/Western Australia/Perth/893
+Earth/Australia/Australia/Western Australia/Perth/894
+Earth/Australia/Australia/Queensland/Beaudesert,Southport,Tweed Heads/755
+Earth/Australia/Australia/Queensland/Beaudesert,Southport,Tweed Heads/756
+Earth/Australia/Australia/Queensland/Beaudesert,Southport,Tweed Heads/757
+Earth/Australia/Australia/Queensland/Biloela,Emerald,Gladstone,Mackay,Rockhampton/748
+Earth/Australia/Australia/Queensland/Biloela,Emerald,Gladstone,Mackay,Rockhampton/749
+Earth/Australia/Australia/Queensland/Brisbane  Bribie Island,Esk/72
+Earth/Australia/Australia/Queensland/Brisbane  Bribie Island,Esk/73
+Earth/Australia/Australia/Queensland/Bundaberg,Gayndah,Kingaroy,Maryborough,Murgon/741
+Earth/Australia/Australia/Queensland/Bundaberg,Gayndah,Kingaroy,Maryborough,Murgon/743
+Earth/Australia/Australia/Queensland/Caboolture,Esk,Gatton,Gympie,Nambour/752
+Earth/Australia/Australia/Queensland/Caboolture,Esk,Gatton,Gympie,Nambour/753
+Earth/Australia/Australia/Queensland/Caboolture,Esk,Gatton,Gympie,Nambour/754
+Earth/Australia/Australia/Queensland/Cairns/740
+Earth/Australia/Australia/Queensland/Cairns/742
+Earth/Australia/Australia/Queensland/Charleville,Dalby,Dirranbandi,Goondiwindi,Inglewood,Longreach,Miles,Roma,Stanthorpe,Toowoomba,Warwick/745
+Earth/Australia/Australia/Queensland/Charleville,Dalby,Dirranbandi,Goondiwindi,Inglewood,Longreach,Miles,Roma,Stanthorpe,Toowoomba,Warwick/746
+Earth/Australia/Australia/Queensland/Charleville,Dalby,Dirranbandi,Goondiwindi,Inglewood,Longreach,Miles,Roma,Stanthorpe,Toowoomba,Warwick/776
+Earth/Australia/Australia/Queensland/Cloncurry,Hughenden,Townsville/744
+Earth/Australia/Australia/Queensland/Cloncurry,Hughenden,Townsville/747
+Earth/Australia/Australia/New South Wales/Sydney/27
+Earth/Australia/Australia/New South Wales/Sydney/28
+Earth/Australia/Australia/New South Wales/Sydney/29
+Earth/Australia/Australia/New South Wales/Windsor/245
+Earth/Australia/Australia/New South Wales/Wollongong/242
+Earth/Australia/Australia/South Australia/Adelaide/870
+Earth/Australia/Australia/South Australia/Adelaide/871
+Earth/Australia/Australia/South Australia/Adelaide/872
+Earth/Australia/Australia/South Australia/Adelaide/873
+Earth/Australia/Australia/South Australia/Adelaide/874
+Earth/Australia/Australia/South Australia/Adelaide/881
+Earth/Australia/Australia/South Australia/Adelaide/882
+Earth/Australia/Australia/South Australia/Adelaide/883
+Earth/Australia/Australia/South Australia/Adelaide/884
+Earth/Australia/Australia/Victoriat/Alexandra,Myrtleford,Seymour,Wangaratta,Deniliquin,Numurkah,Shepparton/347
+Earth/Australia/Australia/Victoriat/Alexandra,Myrtleford,Seymour,Wangaratta,Deniliquin,Numurkah,Shepparton/357
+Earth/Australia/Australia/Victoria/Ararat,Ballarat,Horsham,Kyneton,Nhill/343
+Earth/Australia/Australia/Victoria/Ararat,Ballarat,Horsham,Kyneton,Nhill/353
+Earth/Australia/Australia/Victoria/Bairnsdale,Morwell,Sale/341
+Earth/Australia/Australia/Victoria/Bairnsdale,Morwell,Sale/351
+Earth/Australia/Australia/Victoria/Balranald,Hopetoun,Mildura,Ouyen,Swan Hill/340
+Earth/Australia/Australia/Victoria/Balranald,Hopetoun,Mildura,Ouyen,Swan Hill/350
+Earth/Australia/Australia/Victoria/Bendigo,Charlton,Echuca,Kerang,Kyneton,Maryborough/344
+Earth/Australia/Australia/Victoria/Bendigo,Charlton,Echuca,Kerang,Kyneton,Maryborough/354
+Earth/Australia/Australia/Tasmania/Burnie,Devonport,King Island,Queenstown,Smithton/364
+Earth/Australia/Australia/Tasmania/Burnie,Devonport,King Island,Queenstown,Smithton/365
+Earth/Australia/Australia/Victoria/Camperdown,Casterton,Edenhope,Hamilton,Portland,Warrnambool/345
+Earth/Australia/Australia/Victoria/Camperdown,Casterton,Edenhope,Hamilton,Portland,Warrnambool/355
+Earth/Australia/Australia/Tasmania/Deloraine,Flinders Island,Launceston, Scottsdale, St Marys/363
+Earth/Australia/Australia/Tasmania/Deloraine,Flinders Island,Launceston, Scottsdale, St Marys/367
+Earth/Australia/Australia//South East/Deniliquin,Numurkah,Shepparton/358
+Earth/Australia/Australia/Victoria/Foster,Korumburra,Warragul/356
+Earth/Australia/Australia/Victoria/Geelong,Colac/342
+Earth/Australia/Australia/Victoria/Geelong,Colac/352
+Earth/Australia/Australia/Tasmania/Hobart,Geeveston,Oatlands,Ouse/361
+Earth/Australia/Australia/Tasmania/Hobart,Geeveston,Oatlands,Ouse/362
+Earth/Australia/Australia/Victoria/Melbourne/37
+Earth/Australia/Australia/Victoria/Melbourne/38
+Earth/Australia/Australia/Victoria/Melbourne/39
+Earth/Australia/Australia//South East/Mornington,Warragul/349
+Earth/Australia/Australia//South East/Mornington,Warragul/359

@@ -1,0 +1,29 @@
+Earth/Europe/Bulgaria/Blagoevgrad/73
+Earth/Europe/Bulgaria/Bourgas/56
+Earth/Europe/Bulgaria/Dobritch/58
+Earth/Europe/Bulgaria/Gabrovo/66
+Earth/Europe/Bulgaria/Gotse Delchev/751
+Earth/Europe/Bulgaria/Haskovo/38
+Earth/Europe/Bulgaria/Kardjali/361
+Earth/Europe/Bulgaria/Kazanluk/431
+Earth/Europe/Bulgaria/Kjustendil/78
+Earth/Europe/Bulgaria/Lovetch/68
+Earth/Europe/Bulgaria/Montana/96
+Earth/Europe/Bulgaria/Pazardjik/34
+Earth/Europe/Bulgaria/Pernik/76
+Earth/Europe/Bulgaria/Pleven//64
+Earth/Europe/Bulgaria/Plovdiv/32
+Earth/Europe/Bulgaria/Razgrad/84
+Earth/Europe/Bulgaria/Rousse/82
+Earth/Europe/Bulgaria/Shoumen/5
+Earth/Europe/Bulgaria/Silistra/86
+Earth/Europe/Bulgaria/Sliven/44
+Earth/Europe/Bulgaria/Smolyan//301
+Earth/Europe/Bulgaria/Sofia/2
+Earth/Europe/Bulgaria/Stara Zagora/42
+Earth/Europe/Bulgaria/Targovishte/601
+Earth/Europe/Bulgaria/Varna/52
+Earth/Europe/Bulgaria/Veliko Tarnovo/62
+Earth/Europe/Bulgaria/Vidin/94
+Earth/Europe/Bulgaria/Vratsa/92
+Earth/Europe/Bulgaria/Yambol/46

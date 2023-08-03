@@ -1,0 +1,25 @@
+Earth/Europe/Slovakia/Liptovský Mikulas/44
+Earth/Europe/Slovakia/Zvolen/45
+Earth/Europe/Slovakia/Prievidza/46
+Earth/Europe/Slovakia/Lucenec/47
+Earth/Europe/Slovakia/Banska Bystrica/48
+Earth/Europe/Slovakia/Presov/51
+Earth/Europe/Slovakia/Poprad/52
+Earth/Europe/Slovakia/Dunajska Streda/31
+Earth/Europe/Slovakia/Spisska Nova Ves/53
+Earth/Europe/Slovakia/Trencín/32
+Earth/Europe/Slovakia/Bardejov/54
+Earth/Europe/Slovakia/Trnava/33
+Earth/Europe/Slovakia/Kosice/55
+Earth/Europe/Slovakia/Senica/34
+Earth/Europe/Slovakia/Michalovce/56
+Earth/Europe/Slovakia/Nové Zamky/35
+Earth/Europe/Slovakia/Humenné/57
+Earth/Europe/Slovakia/Levice/36
+Earth/Europe/Slovakia/Ro?nava/58
+Earth/Europe/Slovakia/Nitra/37
+Earth/Europe/Slovakia/Topol'cany/38
+Earth/Europe/Slovakia/Bratislava/2
+Earth/Europe/Slovakia/Zilina/41
+Earth/Europe/Slovakia/Povazska Bystrica/42
+Earth/Europe/Slovakia/Martin/43

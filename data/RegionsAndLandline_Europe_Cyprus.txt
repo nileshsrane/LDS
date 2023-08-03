@@ -1,0 +1,5 @@
+/Europe/Cyprus/Famagusta/23
+/Europe/Cyprus/Larnaca/24
+/Europe/Cyprus/Limassol/25
+/Europe/Cyprus/Nicosia/22
+/Europe/Cyprus/Paphos/26

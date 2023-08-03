@@ -1,0 +1,13 @@
+Earth/Europe/Finland/Joensuu, Lieksa/13
+Earth/Europe/Finland/Aanekoski, Jamsa, Joutsa, Jyvaskyla, Keuruu, Saarijarvi/14
+Earth/Europe/Finland/Mikkeli, Pieksamaki, Savonlinna/15
+Earth/Europe/Finland/Kemi, Kemijarvi, Muonio, Rovaniemi, Tornio/16
+Earth/Europe/Finland/Kuopio, Suonenjoki, Varkaus/17
+Earth/Europe/Finland/Mariehamn/18
+Earth/Europe/Finland/Borga, Ekenas, Hango, Lohja, Porvoo/19
+Earth/Europe/Finland/Bjorneborg, Kankaanpaa, Kemio, Kimito, Koski Tl, Loimaa, Pori, Rauma, Turku/2
+Earth/Europe/Finland/Forssa, Hameenlinna, Heinola, Koski Hl, Lahti, Orivesi, Padasjoki, Parkano, Rouvesi, Tammerfors, Tampere, Tavastehus, Valkeakoski, Vammala/3
+Earth/Europe/Finland/Imatra, Kotka, Kouvola, Lappeenranta/5
+Earth/Europe/Finland/Alajarvi, Alavus, Jakobstad, Karleby, Kauhajoki, Kokkola, Seinajoki, Vaasa, Vasa/6
+Earth/Europe/Finland/Haapajarvi, Haukipudas, Kajaani, Kempele, Kuusamo, Oulu, Raahe, Uleaborg, Ylivieska/8
+Earth/Europe/Finland/Espoo-Esbo, Helsingfors, Helsinki, Vanda, Vantaa/9

@@ -1,0 +1,30 @@
+** <province>/<district>/<area>/<area code>
+Earth/Asia/Sri Lanka/Eastern/Ampara/Ampara/63
+Earth/Asia/Sri Lanka/North-Central/Anuradhapura/Anuradhapura/25
+Earth/Asia/Sri Lanka/Western/Colombo/Avissawella/36
+Earth/Asia/Sri Lanka/Uva/Badulla/Badulla/55
+Earth/Asia/Sri Lanka/Uva/Badulla/Bandarawela/57
+Earth/Asia/Sri Lanka/Eastern/Batticaloa/Batticaloa/65
+Earth/Asia/Sri Lanka/North Western/Puttalam/Chilaw/32
+Earth/Asia/Sri Lanka/Western/Colombo/Colombo/11
+Earth/Asia/Sri Lanka/Southern/Galle/Galle/91
+Earth/Asia/Sri Lanka/Western/Gampaha/Gampaha/33
+Earth/Asia/Sri Lanka/Southern/Hambantota/Hambantota/47
+Earth/Asia/Sri Lanka/Central/Nuwara-Eliya/Hatton/51
+Earth/Asia/Sri Lanka/Northern/Jaffna/Jaffna/21
+Earth/Asia/Sri Lanka/Eastern/Ampara/Kalmunai/67
+Earth/Asia/Sri Lanka/Western/Kalutara/Kalutara/34
+Earth/Asia/Sri Lanka/Central/Kandy/Kandy/81
+Earth/Asia/Sri Lanka/Sabaragamuwa/Kegalle/Kegalle/35
+Earth/Asia/Sri Lanka/North Western/Kurunegala/Kurunegala/37
+Earth/Asia/Sri Lanka/Northern/Mannar/Mannar/23
+Earth/Asia/Sri Lanka/Central/Matale/Matale/66
+Earth/Asia/Sri Lanka/Southern/Matara/Matara/41
+Earth/Asia/Sri Lanka/Central/Kandy/Nawalapitiya/54
+Earth/Asia/Sri Lanka/Western/Gampaha/Negombo/31
+Earth/Asia/Sri Lanka/Central/Nuwara-Eliya/Nuwara-Eliya/52
+Earth/Asia/Sri Lanka/Western/Kalutara/Panadura/38
+Earth/Asia/Sri Lanka/North-Central/Polonnaruwa/Polonnaruwa/27
+Earth/Asia/Sri Lanka/Sabaragamuwa/Ratnapura/Ratnapura/45
+Earth/Asia/Sri Lanka/Eastern/Trincomalee/Trincomalee/26
+Earth/Asia/Sri Lanka/Northern/Vavuniya/Vavuniya/24

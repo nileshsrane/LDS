@@ -1,0 +1,244 @@
+Earth/Africa/Algeria/213
+Earth/Africa/Angola/244
+Earth/Africa/Ascension/247
+Earth/Africa/Benin/229
+Earth/Africa/Botswana/267
+Earth/Africa/Burkina Faso/226
+Earth/Africa/Burundi/257
+Earth/Africa/Cameroon/237
+Earth/Africa/Cape Verde/238
+Earth/Africa/Central African Republic/236
+Earth/Africa/Chad/235
+Earth/Africa/Comoros/269
+Earth/Africa/Democratic Republic of the Congo/243
+Earth/Africa/Djibouti/253
+Earth/Africa/Equatorial Guinea/240
+Earth/Africa/Eritrea/291
+Earth/Africa/Ethiopia/251
+Earth/Africa/Gabon/241
+Earth/Africa/Ghana/233
+Earth/Africa/Guinea Bissau/245
+Earth/Africa/Guinea/224
+Earth/Africa/Ivory Coast/225
+Earth/Africa/Kenya/254
+Earth/Africa/Lesotho/266
+Earth/Africa/Liberia/231
+Earth/Africa/Libya/218
+Earth/Africa/Madagascar/261
+Earth/Africa/Malawi/265
+Earth/Africa/Mali/223
+Earth/Africa/Mauritania/222
+Earth/Africa/Mauritius/230
+Earth/Africa/Morocco/212
+Earth/Africa/Mozambique/258
+Earth/Africa/Namibia/264
+Earth/Africa/Niger/227
+Earth/Africa/Nigeria/234
+Earth/Africa/Republic of the Congo/242
+Earth/Africa/Rwanda/250
+Earth/Africa/Saint Helena/290
+Earth/Africa/Sao Tome and Principe/239
+Earth/Africa/Senegal/221
+Earth/Africa/Seychelles/248
+Earth/Africa/Sierra Leone/232
+Earth/Africa/Somalia/252
+Earth/Africa/South Africa/27
+Earth/Africa/Sudan/211
+Earth/Africa/Sudan/249
+Earth/Africa/Swaziland/268
+Earth/Africa/Tanzania/255
+Earth/Africa/The Gambia/220
+Earth/Africa/Togo/228
+Earth/Africa/Tristan da Cunha/2908
+Earth/Africa/Tunisia/216
+Earth/Africa/Uganda/256
+Earth/Africa/Zambia/260
+Earth/Africa/Zimbabwe/263
+**Earth/Arctic Ocean/Svalbard/4779
+Earth/Asia/Afghanistan/93
+Earth/Asia/Armenia/374
+Earth/Asia/Azerbaijan/994
+Earth/Asia/Bahrain/973
+Earth/Asia/Bangladesh/880
+Earth/Asia/Bhutan/975
+Earth/Asia/British Indian Ocean Territory/246
+Earth/Asia/Brunei/673
+Earth/Asia/Cambodia/855
+Earth/Asia/China/86
+**Earth/Asia/Cyprus/357
+Earth/Asia/East Timor/670
+Earth/Asia/Egypt/20
+Earth/Asia/Faroe Islands/298
+Earth/Asia/Georgia/995
+Earth/Asia/Hong Kong/852
+Earth/Asia/India/91
+Earth/Asia/Indonesia/62
+Earth/Asia/Iran/98
+Earth/Asia/Iraq/964
+Earth/Asia/Israel/972
+Earth/Asia/Japan/81
+Earth/Asia/Jordan/962
+Earth/Asia/Kuwait/965
+Earth/Asia/Kyrgyzstan/996
+Earth/Asia/Laos/856
+Earth/Asia/Lebanon/961
+Earth/Asia/Macau/853
+Earth/Asia/Malaysia/60
+Earth/Asia/Maldives/960
+Earth/Asia/Mongolia/976
+Earth/Asia/Myanmar/95
+Earth/Asia/Nepal/977
+Earth/Asia/North Korea/850
+Earth/Asia/Oman/968
+Earth/Asia/Pakistan/92
+Earth/Asia/Palestine/970
+Earth/Asia/Philippines/63
+Earth/Asia/Qatar/974
+Earth/Asia/Reunion/262
+**Earth/Asia/Russia/7
+Earth/Asia/Saudi Arabia/966
+Earth/Asia/Singapore/65
+Earth/Asia/South Korea/82
+Earth/Asia/Sri Lanka/94
+Earth/Asia/Syria/963
+Earth/Asia/Taiwan/886
+Earth/Asia/Tajikistan/992
+Earth/Asia/Thailand/66
+Earth/Asia/Turkey/90
+Earth/Asia/Turkmenistan/993
+Earth/Asia/United Arab Emirates/971
+Earth/Asia/Uzbekistan/998
+Earth/Asia/Vietnam/84
+Earth/Asia/Yemen/967
+Earth/Australia/Australia/61
+Earth/Australia/New Zealand/64
+**Earth/Europe/Abkhazia/7840
+Earth/Europe/Abkhazia/99544
+**Earth/Europe/Aland Islands/35818
+Earth/Europe/Albania/355
+Earth/Europe/Andorra/376
+Earth/Europe/Austria/43
+Earth/Europe/Belarus/375
+Earth/Europe/Belgium/32
+**Earth/Europe/Bosnia and Herzegovina/387
+Earth/Europe/Bulgaria/359
+Earth/Europe/Croatia/385
+Earth/Europe/Czech Republic/420
+Earth/Europe/Denmark/45
+Earth/Europe/Estonia/372
+Earth/Europe/Finland/358
+Earth/Europe/France/33
+Earth/Europe/Germany/49
+Earth/Europe/Gibraltar/350
+Earth/Europe/Greece/30
+Earth/Europe/Hungary/36
+Earth/Europe/Iceland/354
+Earth/Europe/Italy/39
+**Earth/Europe/Kazakhstan/76
+**Earth/Europe/Kazakhstan/77
+Earth/Europe/Latvia/371
+Earth/Europe/Liechtenstein/423
+Earth/Europe/Lithuania/370
+Earth/Europe/Luxembourg/352
+Earth/Europe/Macedonia/389
+Earth/Europe/Malta/356
+Earth/Europe/Moldova/373
+Earth/Europe/Monaco/377
+Earth/Europe/Montenegro/382
+Earth/Europe/Netherlands/31
+Earth/Europe/Norway/47
+Earth/Europe/Poland/48
+Earth/Europe/Portugal/351
+Earth/Europe/Ireland/353
+Earth/Europe/Romania/40
+Earth/Europe/San Marino/378
+Earth/Europe/Serbia/381
+Earth/Europe/Slovakia/421
+Earth/Europe/Slovenia/386
+Earth/Europe/South Ossetia/99534
+Earth/Europe/Spain/34
+Earth/Europe/Sweden/46
+Earth/Europe/Switzerland/41
+Earth/Europe/Ukraine/380
+Earth/Europe/United Kingdom/44
+**Earth/Europe/Vatican City/3906698
+Earth/Melanesia/Fiji/679
+Earth/Melanesia/New Caledonia/687
+Earth/Melanesia/Papua New Guinea/675
+Earth/Melanesia/Solomon Islands/677
+Earth/Melanesia/Vanuatu/678
+Earth/Micronesia/Federated States of Micronesia/691
+**Earth/Micronesia/Guam/1671
+Earth/Micronesia/Kiribati/686
+Earth/Micronesia/Marshall Islands/692
+Earth/Micronesia/Nauru/674
+**Earth/Micronesia/Northern Mariana Islands/1670
+Earth/Micronesia/Palau/680
+Earth/North America/Anguilla/1264
+Earth/North America/Antigua and Barbuda/1268
+Earth/North America/Aruba/297
+Earth/North America/Bahamas/1242
+Earth/North America/Barbados/1246
+Earth/North America/Belize/501
+Earth/North America/Bermuda/1441
+Earth/North America/British Virgin Islands/1284
+Earth/North America/Cayman Islands/1345
+Earth/North America/Costa Rica/506
+Earth/North America/Cuba/53
+Earth/North America/Dominica/1767
+Earth/North America/Dominican Republic/1809
+Earth/North America/Dominican Republic/1829
+Earth/North America/Dominican Republic/1849
+Earth/North America/El Salvador/503
+Earth/North America/Greenland/299
+Earth/North America/Grenada/1473
+Earth/North America/Guatemala/502
+Earth/North America/Haiti/509
+Earth/North America/Honduras/504
+Earth/North America/Jamaica/1876
+Earth/North America/Martinique/596
+Earth/North America/Mexico/52
+Earth/North America/Montserrat/1664
+Earth/North America/Nicaragua/505
+Earth/North America/Panama/507
+Earth/North America/Puerto Rico/1787
+Earth/North America/Puerto Rico/1939
+Earth/North America/Saint Kitts and Nevis/1869
+Earth/North America/Saint Lucia/1758
+Earth/North America/Saint Martin/590
+Earth/North America/Saint Pierre and Miquelon/508
+Earth/North America/Saint Vincent and the Grenadines/1784
+Earth/North America/Trinidad and Tobago/1868
+Earth/North America/Turks and Caicos Islands/1649
+Earth/North America/US Virgin Islands/1340
+Earth/North America/United States/1
+Earth/North Pacific Ocean/Wake Island USA/1808
+Earth/Polynesia/American Samoa/1684
+Earth/Polynesia/Cook Islands/682
+Earth/Polynesia/Easter Island/56
+Earth/Polynesia/French Polynesia/689
+Earth/Polynesia/Niue/683
+Earth/Polynesia/Samoa/685
+Earth/Polynesia/Tokelau/690
+Earth/Polynesia/Tonga/676
+Earth/Polynesia/Tuvalu/688
+Earth/Polynesia/Wallis and Futuna/681
+Earth/South America/Argentina/54
+Earth/South America/Bolivia/591
+Earth/South America/Bonaire/5997
+Earth/South America/Brazil/55
+Earth/South America/Colombia/57
+Earth/South America/Curacao/599
+Earth/South America/Ecuador/593
+Earth/South America/French Guiana/594
+Earth/South America/Guyana/592
+Earth/South America/Paraguay/595
+Earth/South America/Peru/51
+Earth/South America/Saba/5994
+Earth/South America/Sint Eustatius/5993
+Earth/South America/Sint Maarten/1721
+Earth/South America/South Georgia/500
+Earth/South America/Suriname/597
+Earth/South America/Uruguay/598
+Earth/South America/Venezuela/58
+Earth/South Pacific Ocean/Norfolk Island/672

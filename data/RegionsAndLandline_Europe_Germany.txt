@@ -1,0 +1,178 @@
+**Earth/Europe/Germany/Bradenburg/Oranienburg/330
+Earth/Europe/Germany/Western Ruhrgebiet (Essen)/20
+Earth/Europe/Germany/Dusseldorf/21
+Earth/Europe/Germany/Cologne/22
+Earth/Europe/Germany/Dortmund/23
+Earth/Europe/Germany/Aachen/24
+Earth/Europe/Germany/Munster/25
+Earth/Europe/Germany/Koblenz/26
+Earth/Europe/Germany/Siegen/27
+Earth/Europe/Germany/Wesel/28
+Earth/Europe/Germany/Sauerland (Meschede)/29
+Earth/Europe/Germany/Berlin/Oranienburg/330
+Earth/Europe/Germany/Berlin/Potsdam/331/332
+Earth/Europe/Germany/Berlin/Angermunde/333
+Earth/Europe/Germany/Berlin/Strausberg/334
+Earth/Europe/Germany/Berlin/Frankfurt (Oder)/335
+Earth/Europe/Germany/Berlin/Frankfurt (Oder)/336
+Earth/Europe/Germany/Berlin/Luckenwalde/337
+Earth/Europe/Germany/Berlin/Brandenburg an der Havel/338
+Earth/Europe/Germany/Berlin/Neuruppin/339
+Earth/Europe/Germany/Dresden/Pirna/350
+Earth/Europe/Germany/Dresden/Dresden/351
+Earth/Europe/Germany/Dresden/Meißen/352
+Earth/Europe/Germany/Dresden/Finsterwalde/353
+Earth/Europe/Germany/Dresden/Calau/354
+Earth/Europe/Germany/Dresden/Cottbus/355
+Earth/Europe/Germany/Dresden/Cottbus/356
+Earth/Europe/Germany/Dresden/Hoyerswerda/357
+Earth/Europe/Germany/Dresden/Gorlitz/358
+Earth/Europe/Germany/Dresden/Bautzen/359
+Earth/Europe/Germany/Thuringen/Muhlhausen/Thur/360
+Earth/Europe/Germany/Thuringen/Erfurt/361
+Earth/Europe/Germany/Thuringen/Gotha/362
+Earth/Europe/Germany/Thuringen/Nordhausen/363
+Earth/Europe/Germany/Thuringen/Jena/Weimar/364
+Earth/Europe/Germany/Thuringen/Gera/365
+Earth/Europe/Germany/Thuringen/Gera/366
+Earth/Europe/Germany/Thuringen/Saalfeld/Saale-Ilmenau-Sonneberg/367
+Earth/Europe/Germany/Thuringen/Suhl/368
+Earth/Europe/Germany/Thuringen/Eisenach/369
+Earth/Europe/Germany/Chemnitz/Chemnitz/371
+Earth/Europe/Germany/Chemnitz/Chemnitz/372
+Earth/Europe/Germany/Chemnitz/Freiberg/373
+Earth/Europe/Germany/Chemnitz/Plauen/374
+Earth/Europe/Germany/Chemnitz/Zwickau/375
+Earth/Europe/Germany/Chemnitz/Zwickau/376
+Earth/Europe/Germany/Chemnitz/Aue/377
+Earth/Europe/Germany/Rostock/Rostock/381
+Earth/Europe/Germany/Rostock/Rostock/382
+Earth/Europe/Germany/Rostock/Stralsund/Greifswald/383
+Earth/Europe/Germany/Rostock/Wismar/384
+Earth/Europe/Germany/Rostock/Schwerin/385
+Earth/Europe/Germany/Rostock/Schwerin/386
+Earth/Europe/Germany/Rostock/Parchim/387
+Earth/Europe/Germany/Rostock/Grevesmuhlen/388
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Salzwedel/390
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Magdeburg/391
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Magdeburg/392
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Magdeburg/393
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Halberstadt/394
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Neubrandenburg/395
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Neubrandenburg/396
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Anklam/397
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Neustrelitz/398
+Earth/Europe/Germany/Magdeburg-Neubrandenburg/Waren/399
+Earth/Europe/Germany/Hamburg/calling areas immediately bordering Hamburg/410
+Earth/Europe/Germany/Hamburg/currently unassigned/411
+Earth/Europe/Germany/Hamburg/Elmshorn/412
+Earth/Europe/Germany/Hamburg/Luneburg/413
+Earth/Europe/Germany/Hamburg/Stade/414
+Earth/Europe/Germany/Hamburg/Lauenburg/415
+Earth/Europe/Germany/Hamburg/Buxtehude/416
+Earth/Europe/Germany/Hamburg/Winsen/417
+Earth/Europe/Germany/Hamburg/Buchholz/418
+Earth/Europe/Germany/Hamburg/Kaltenkirchen/419
+Earth/Europe/Germany/Bremen/Oyten/420
+Earth/Europe/Germany/Bremen/Bremen/421
+Earth/Europe/Germany/Bremen/Delmenhorst/422
+Earth/Europe/Germany/Bremen/Verden/423
+Earth/Europe/Germany/Bremen/Syke/424
+Earth/Europe/Germany/Bremen/Eystrup/425
+Earth/Europe/Germany/Bremen/Rotenburg/426
+Earth/Europe/Germany/Bremen/Sulingen/427
+Earth/Europe/Germany/Bremen/Zeven/428
+Earth/Europe/Germany/Bremen/Ottersberg/429
+Earth/Europe/Germany/Kiel/Raisdorf/430
+Earth/Europe/Germany/Kiel/Kiel/431
+Earth/Europe/Germany/Kiel/Neumunster/432
+Earth/Europe/Germany/Kiel/Rendsburg/433
+Earth/Europe/Germany/Kiel/Laboe/434
+Earth/Europe/Germany/Kiel/Eckernförde/435
+Earth/Europe/Germany/Kiel/Oldenburg/436
+Earth/Europe/Germany/Kiel/Fehmarn/437
+Earth/Europe/Germany/Kiel/Lutjenburg/438
+Earth/Europe/Germany/Kiel/Nortorf/439
+Earth/Europe/Germany/Oldenburg/Brake/440
+Earth/Europe/Germany/Oldenburg/Oldenburg/441
+Earth/Europe/Germany/Oldenburg/Wilhelmshaven/442
+Earth/Europe/Germany/Oldenburg/Wildeshausen/443
+Earth/Europe/Germany/Oldenburg/Vechta/444
+Earth/Europe/Germany/Oldenburg/Varel/445
+Earth/Europe/Germany/Oldenburg/Friesland/446
+Earth/Europe/Germany/Oldenburg/Cloppenburg/447
+Earth/Europe/Germany/Oldenburg/Westerstede/448
+Earth/Europe/Germany/Oldenburg/Friesoythe/449
+Earth/Europe/Germany/Lubeck/Kastorf/450
+Earth/Europe/Germany/Lubeck/Lubeck/451
+Earth/Europe/Germany/Lubeck/Plön/452
+Earth/Europe/Germany/Lubeck/Lauenburg/453
+Earth/Europe/Germany/Lubeck/Salem/454
+Earth/Europe/Germany/Lubeck/Bad Segeberg/455
+Earth/Europe/Germany/Lubeck/Neustadt/456
+Earth/Europe/Germany/Flensburg/Flensburg/460
+Earth/Europe/Germany/Flensburg/Schleswig/462
+Earth/Europe/Germany/Flensburg/Glucksburg/463
+Earth/Europe/Germany/Flensburg/Kappeln/464
+Earth/Europe/Germany/Flensburg/Sylt/465
+Earth/Europe/Germany/Flensburg/Niebull/466
+Earth/Europe/Germany/Flensburg/Langenhorn/467
+Earth/Europe/Germany/Flensburg/Fohr/461
+Earth/Europe/Germany/Bremerhaven/Sandstedt/470
+Earth/Europe/Germany/Bremerhaven/Bremerhaven/471
+Earth/Europe/Germany/Bremerhaven/Cuxhaven/472
+Earth/Europe/Germany/Bremerhaven/Nordenham/473
+Earth/Europe/Germany/Bremerhaven/Loxstedt/474
+Earth/Europe/Germany/Bremerhaven/Otterndorf/475
+Earth/Europe/Germany/Bremerhaven/Bremervörde/476
+Earth/Europe/Germany/Bremerhaven/Freiburg/477
+Earth/Europe/Germany/Bremerhaven/Osterholz-Scharmbeck/479
+Earth/Europe/Germany/Heide/Dithmarschen/480
+Earth/Europe/Germany/Heide/Heide/481
+Earth/Europe/Germany/Heide/Itzehoe/482
+Earth/Europe/Germany/Heide/Neuenkirchen/483
+Earth/Europe/Germany/Heide/Husum/484
+Earth/Europe/Germany/Heide/Brunsbuttel/485
+Earth/Europe/Germany/Heide/St. Peter-Ording/486
+Earth/Europe/Germany/Heide/Hohenwestedt/487
+Earth/Europe/Germany/Heide/Friedrichstadt/488
+Earth/Europe/Germany/Heide/Town/489
+Earth/Europe/Germany/Emden/Wymeer/490
+Earth/Europe/Germany/Emden/Leer/491
+Earth/Europe/Germany/Emden/Emden/492
+Earth/Europe/Germany/Emden/Norden/493
+Earth/Europe/Germany/Emden/Aurich/494
+Earth/Europe/Germany/Emden/Rhauderfehn/495
+Earth/Europe/Germany/Emden/Papenburg/496
+Earth/Europe/Germany/Emden/Esens/497
+Earth/Europe/Germany/Nienburg-Wunstorf-Springe/50
+Earth/Europe/Germany/Hannover/51
+Earth/Europe/Germany/Bielefeld/52
+Earth/Europe/Germany/Braunschweig/53
+Earth/Europe/Germany/Osnabruck/54
+Earth/Europe/Germany/Göttingen/55
+Earth/Europe/Germany/Kassel/56
+Earth/Europe/Germany/Minden/57
+Earth/Europe/Germany/Uelzen/58
+Earth/Europe/Germany/Lingen (Ems)/59
+Earth/Europe/Germany/Frankfurt, Main/60
+Earth/Europe/Germany/Rhine-Main Area, Southern Hesse/61
+Earth/Europe/Germany/Rhine-Neckar/62
+Earth/Europe/Germany/Palatine/63
+Earth/Europe/Germany/Central Hesse/64
+Earth/Europe/Germany/Moselle, Eifel, Hunsruck/65
+Earth/Europe/Germany/Greater Fulda, Eastern Hesse/66
+Earth/Europe/Germany/Rhenish Hesse, Eastern Hunsruck/67
+Earth/Europe/Germany/Saarland/68
+Earth/Europe/Germany/Stuttgart/70
+Earth/Europe/Germany/Stuttgart/71
+Earth/Europe/Germany/Karlsruhe/72
+Earth/Europe/Germany/Ulm/73
+Earth/Europe/Germany/Rottweil/74
+Earth/Europe/Germany/Oberschwaben/75
+Earth/Europe/Germany/Freiburg/76
+Earth/Europe/Germany/Sudschwarzwald/77
+Earth/Europe/Germany/Offenburg and Nordschwarzwald/78
+Earth/Europe/Germany/Schwäbisch Hall/79
+Earth/Europe/Germany/Augsburg/82
+Earth/Europe/Germany/Munchen/89

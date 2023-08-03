@@ -1,0 +1,128 @@
+Earth/Europe/Poland/Barczewko, Barczewo, Biskupiec (Olsztyn), Dobre Miasto, Olsztyn/89
+Earth/Europe/Poland/Brzesko (Tarnow), Zakliczyn, Dunajcem (Tarnow)/192
+Earth/Europe/Poland/Jaroslaw (Przemysl)/194
+Earth/Europe/Poland/Lezajsk/195
+Earth/Europe/Poland/Ostrowiec (Slupsk)/591
+Earth/Europe/Poland/Borowa, Mielca, Mielec, Pruszkow, Rzemien/196
+Earth/Europe/Poland/Bochnia, Brzeznica (Tarnow), Rzezawa/197
+Earth/Europe/Poland/Lask (Sieradz)/198
+Earth/Europe/Poland/Myslenice, Zakliczyn, Myslenic (Krakow)/115
+Earth/Europe/Poland/Baranowo (Ostroleka)/478
+Earth/Europe/Poland/Jastrzebie (Torun)/511
+Earth/Europe/Poland/Nasielsk, Pultusk/238
+Earth/Europe/Poland/Banie, Goleniow, Gryfino, Piaseczno (Szczecin), Police, Przeclaw (Szczecin), Szczecin, Szczecin (Stettin)/91
+Earth/Europe/Poland/Aug (Suwalki)/119
+Earth/Europe/Poland/Klodawa (Konin), Kolo/636
+Earth/Europe/Poland/Gizycko/878
+Earth/Europe/Poland/Brzesko (Szczecin), Stargard Szczecinski/92
+Earth/Europe/Poland/Bialogard, Debki (Koszalin), Karczew (Warszawa), Koscielisko, Koszalin, Lacko (Koszalin), Ostrowiec (Koszalin)/94
+Earth/Europe/Poland/Lasin/518
+Earth/Europe/Poland/Baczynas, Choszczno, Gorzow Wielkopolski, Klodawa (Gorzow), Miedzyrzecz, Mysliborz/95
+Earth/Europe/Poland/Krasiczyn, Medyka, Przemysl/10
+Earth/Europe/Poland/Alwernia, Crakow (Krakow), Krakow (Cracow), Krzeszowice, Skawina, Wieliczka/12
+Earth/Europe/Poland/Dabrowa Tarnowska, Pleszew, Rzuchowa (Tarnow), Tarnow, Tuchow, Wierzchoslawice (Tarnow), Wola Rzedzinska, Zabno/14
+Earth/Europe/Poland/Baranow Sandomierski, Nowa Deba, Sandomierz, Staszow, Tarnobrzeg/15
+Earth/Europe/Poland/Janow Lubelski, Jarocin (Tarnobrzeg), Nisko, Stalowa Wola/16
+Earth/Europe/Poland/Albigowa, Bialobrzegi (Rzeszow), Boguchwala, Czarna (Rzeszow), Glogow Malopolski (Rzeszow), Kolbuszowa, Lancut, Ropczyce, Rzeszow/17
+Earth/Europe/Poland/Barcice, Bukowina Tatrzanska, Gorlice, Grybow, Krynica, Muszyna, Nowy Dwor Mazowiecki, Stary Sacz, Zegiestow Zdroj/18
+Earth/Europe/Poland/Baszkow/641
+Earth/Europe/Poland/Jarocin (Kalisz)/646
+Earth/Europe/Poland/Kepno, Laski (Kalisz), Sycow (Kalisz)/647
+Earth/Europe/Poland/Lobez, Resko/923
+Earth/Europe/Poland/Gostyn (Szczecin), Kamien Pomorski/928
+Earth/Europe/Poland/Babice Stare, Baniocha, Bialobrzegi (Warszawa), Grodzisk Mazowiecki, Magdalenka, Piaseczno (Warszawa), Podkowa Lesna, Pruszkow, Raszyn, Tluszcz, Warsaw, Warszawa (Warsaw)/22
+Earth/Europe/Poland/Ciechanow, Plonsk, Zuromina/23
+Earth/Europe/Poland/Plock/24
+Earth/Europe/Poland/Siedlce/25
+Earth/Europe/Poland/Orzesze/29
+Earth/Europe/Poland/Iwonicz, Iwonicz Zdroj, Krosno, Ryki/131
+Earth/Europe/Poland/Balice/496
+Earth/Europe/Poland/Dabie (Siedlce), Lukow/255
+Earth/Europe/Poland/Klucze, Zawiercie/376
+Earth/Europe/Poland/Jedrzejow (Siedlce)/256
+Earth/Europe/Poland/Jedrzejow (Kielce), Malogoszcz/498
+Earth/Europe/Poland/Brusy (Bydgoszcz), Chojnice (Bydgoszcz), Czechowice Dziedzice, Tuchola (Bydgoszcz)/531
+Earth/Europe/Poland/Jaslo, Knurow/136
+Earth/Europe/Poland/Swiecie (Bydgoszcz)/532
+Earth/Europe/Poland/Lesko, Sanok/137
+Earth/Europe/Poland/Gryfice, Ploty, Trzebiatow (Szczecin)/931
+Earth/Europe/Poland/Inowroclaw, Kruszwica, Wierzchoslawice (Bydgoszcz)/536
+Earth/Europe/Poland/Gostyn Poznanski/657
+Earth/Europe/Poland/Nowogard Szczecinski/932
+Earth/Europe/Poland/Laski (Szczecin), Miedzyzdroje, Swinoujscie/936
+Earth/Europe/Poland/Jelesnia, Szczyrk, Trzebinia (Bielsko), Zywiec/30
+Earth/Europe/Poland/Raszyn/48-65
+Earth/Europe/Poland/Bydgoszcz, Bytom, Chorzow, Czechowice, Gliwice, Kartuzy, Katowice, Labedy, Mielno, Ruda Slaska, Sosnowiec, Swietochlowice, Zabrze/32
+Earth/Europe/Poland/Bielsko Biala, Brenna (Bielsko Biala), Cieszyn, Skoczow, Ustronie/33
+Earth/Europe/Poland/Warta (Czestochowa), Czestochowa, Klobuck, Lubliniec, Pajeczno/34
+Earth/Europe/Poland/Balin, Jaworzno, Klucze, Olkusz, Trzebinia (Katowice), Wolbrom/35
+Earth/Europe/Poland/Jastrzebie (Katowice), Jastrzebie Zdroj (Katowice), Rybnik, Wodzislaw (Katowice), Zory (Katowice)/36
+Earth/Europe/Poland/Kety, Oswiecim/381
+Earth/Europe/Poland/Andrychow, Babica, Barwald, Kalwaria Zebrzydowska, Wadowice (Bielsko)/387
+Earth/Europe/Poland/Brzeznica Debicka, Czarna (Tarnow), Dabrowa Gornicza, Pilzno (Tarnow), Pustkow Osiedle, Zawada (Tarnow), Zyrakow/146
+Earth/Europe/Poland/Nowy Tomysl/666
+Earth/Europe/Poland/Ksiaz (Poznan), Sosnowiec, Sroda Wielkopolska (Poznan)/667
+Earth/Europe/Poland/Oborniki Wielkopolskie (Poznan, Szamotuly/668
+Earth/Europe/Poland/Lowicz, Skierniewice/40
+Earth/Europe/Poland/Debno (Kielce), Kielce, Konskie (Kielce), Nowiny (Kielce), Ostrowiec Swietokrzyski (Kielc, Skarzysko Kamienna, Starachowice/41
+Earth/Europe/Poland/Aleksandrow Lodzki, Andrespol, Andrzejow, Lodz, Otwock, Pabianice, Tuszyn, Zgierz/42
+Earth/Europe/Poland/Siemianowice Slaskie/43
+Earth/Europe/Poland/Bedzin, Opoczno, Piotrkow Trybunalski, Tomaszow Mazowiecki/44
+Earth/Europe/Poland/Bialobrzegi (Radom), Brzeznica (Radom), Kozienice, Pionki (Radom), Radom/48
+Earth/Europe/Poland/Aniolow/49
+Earth/Europe/Poland/Glogowek, Kedzierzyn-Kozle/794
+Earth/Europe/Poland/Kwidzyn/555
+Earth/Europe/Poland/Bogatynia/797
+Earth/Europe/Poland/Balucz/435
+Earth/Europe/Poland/Pulawy/831
+Earth/Europe/Poland/Sztum (Elblag)/557
+Earth/Europe/Poland/Elblag, Paslek, Sztutowo, Tolkmicko/50
+Earth/Europe/Poland/Lubartow/836
+Earth/Europe/Poland/Grudziadz, Swiecie (Torun)/51
+Earth/Europe/Poland/Krasnik/837
+Earth/Europe/Poland/Barcin, Busko Zdroj, Bydgoszcz, Maksymilianowo, Sepolno Krajenskie/52
+Earth/Europe/Poland/Myslowice/53
+Earth/Europe/Poland/Aleksandrow Kujawski, Baruchowo, Ciechocinek, Kowal, Lipno (Wroclaw), Rymanow Zdrow, Wisla, Wloclawek/54
+Earth/Europe/Poland/Ankamaty, Bagart (Elblag), Malbork, Torun/55
+Earth/Europe/Poland/Chelmza, Golub-Dobrzyn, Torun/56
+Earth/Europe/Poland/Biala Podlaska/57
+Earth/Europe/Poland/Banino, Gdansk, Gdynia, Hel, Jastarnia, Klodawa (Gdansk), Nowy Dwor (Gdansk), Pszczyna, Reda, Rumia, Sopot/58
+Earth/Europe/Poland/Leba, Lebork, Slupsk, Tychy/59
+Earth/Europe/Poland/Bialy Dunajec, Murzasichle, Poronin, Zakopane/165
+Earth/Europe/Poland/Debno Lub/962
+Earth/Europe/Poland/Wabrzezno/568
+Earth/Europe/Poland/Kolobrzeg/965
+Earth/Europe/Poland/Szczecinek/966
+Earth/Europe/Poland/Jordanow (Wroclaw), Strzelin/725
+Earth/Europe/Poland/Baranowo (Poznan), Nowy Targ, Poznan, Swarzedz, Wolomin/61
+Earth/Europe/Poland/Kalisz, Plesna/62
+Earth/Europe/Poland/Konin, Turek/63
+Earth/Europe/Poland/Antonin, Krotoszyn, Ostrow Wielkopolski/64
+Earth/Europe/Poland/Gostyn (Katowice), Koscian, Leszno, Lipno (Leszno), Wschowa/65
+Earth/Europe/Poland/Gniezno, Wrzesnia/66
+Earth/Europe/Poland/Brzeznica (Pila), Pila/67
+Earth/Europe/Poland/Drzonkow, Swidnica (Zielona Gora), Zawada (Zielona Gora), Zielona Gora/68
+Earth/Europe/Poland/Baldowo, Barlozno, Czarna Woda, Lubichowo, Piaseczno (Gdansk), Skarszewy, Skorcz, Starogard Gdanski, Tarnowskie Gory/69
+Earth/Europe/Poland/Czudec (Rzeszow)/171
+Earth/Europe/Poland/Bialobrzegi (Piotrkow Trybunal/451
+Earth/Europe/Poland/Raciborz/335
+Earth/Europe/Poland/Radomsko/457
+Earth/Europe/Poland/Wyszkow/216
+Earth/Europe/Poland/Kutno, Strzelce (Plock)/218
+Earth/Europe/Poland/Borowa (Wroclaw), Brzeg Dolny, Jelcz (Wroclaw), Jelcz Laskowice, Katowice, Olawa, Olesnica Slaska (Wroclaw), Sroda Slaska, Wroclaw/71
+Earth/Europe/Poland/Zabkowice, Ziebice/72
+Earth/Europe/Poland/Dzierzoniow, Nowa Ruda, Piekary Slaskie, Swidnica (Walbrzych), Swiebodzice, Walbrzych/74
+Earth/Europe/Poland/Jelenia Gora, Karpacz, Kowary, Szklarska Poreba/75
+Earth/Europe/Poland/Chojnow (Legnica), Gliwice, Jawor, Legionowo, Lubin (Legnica), Polkowice, Warta Boleslawiecka, Zabrze, Zlotoryja/76
+Earth/Europe/Poland/Opole, Strzelce (Opole), Zawada (Opole), Zawadzkie/77
+Earth/Europe/Poland/Lacko (Nowy Sacz), Piwniczna/184
+Earth/Europe/Poland/Banska Dolina, Banska Nizna, Bialka Tatrzanska (Nowy Sacz), Chocholow, Czarny Dunajec, Czorsztyn, Jablonka Orawska, Jordanow (Nowy Sacz), Lapsze Nizne, Maniowy, Niedzica, Rabka/187
+Earth/Europe/Poland/Bialka (Biala Podlaska)/80
+Earth/Europe/Poland/Lublin, Naleczow, Swidnik (Lublin)/81
+Earth/Europe/Poland/Bytom, Sawin/82
+Earth/Europe/Poland/Grajewo/868
+Earth/Europe/Poland/Braniewo, Frombork/506
+Earth/Europe/Poland/Bialobrzegi (Zamosc), Bilgoraj, Zamosc, Zawada (Zamosc)/84
+Earth/Europe/Poland/Bialystok, Bogdanki (Bialystok), Lapy, Mikolow, Sokolka/85
+Earth/Europe/Poland/Kolno (Lomza), Lomza, Wysokie Mazowieckie, Zambrow/86
+Earth/Europe/Poland/Elk, Suwalki, Szaflary/87

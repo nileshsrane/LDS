@@ -1,0 +1,10 @@
+Earth/Europe/Montenegro/Budva/33
+Earth/Europe/Montenegro/Bijelo Polje, Mojkovac, Rakonje/50
+Earth/Europe/Montenegro/Niksic/40
+Earth/Europe/Montenegro/Berane, Plav, Rozaje/51
+Earth/Europe/Montenegro/Bar, Burtaisi, Ulcinj/30
+Earth/Europe/Montenegro/Cetinje/41
+Earth/Europe/Montenegro/Pljevlja/52
+Earth/Europe/Montenegro/Danilovgrad, Kolasin, Podgorica, Tuzi/20
+Earth/Europe/Montenegro/Bijela, Herceg Novi, Igalo/31
+Earth/Europe/Montenegro/Kotor, Perast, Skaljari, Tivat/32

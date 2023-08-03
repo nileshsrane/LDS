@@ -1,0 +1,20 @@
+Earth/Europe/Czech Republic/Brno, Jihomoravsky/54
+Earth/Europe/Czech Republic/Plzen/377
+Earth/Europe/Czech Republic/Praha (Prague)/3
+Earth/Europe/Czech Republic/Jihocesky/38
+Earth/Europe/Czech Republic/Jihocesky/39
+Earth/Europe/Czech Republic/Jihomoravsky/51
+Earth/Europe/Czech Republic/Jihomoravsky/53
+Earth/Europe/Czech Republic/Karlovarsky/35
+Earth/Europe/Czech Republic/Kralovehradecky/49
+Earth/Europe/Czech Republic/Liberecky/48
+Earth/Europe/Czech Republic/Moravskoslezsky/55
+Earth/Europe/Czech Republic/Moravskoslezsky/59
+Earth/Europe/Czech Republic/Olomoucky/58
+Earth/Europe/Czech Republic/Pardubicky/46
+Earth/Europe/Czech Republic/Plzensky/37
+Earth/Europe/Czech Republic/Stredocesky/31
+Earth/Europe/Czech Republic/Stredocesky/32
+Earth/Europe/Czech Republic/Ustecky/41/47
+Earth/Europe/Czech Republic/Vysocina/56
+Earth/Europe/Czech Republic/Zlinsky/57

@@ -1,0 +1,55 @@
+Earth/Asia/Nepal/Jaleswar, Matihani/44
+Earth/Asia/Nepal/Dailekh/89
+Earth/Asia/Nepal/Barathhawa, Malangwa/46
+Earth/Asia/Nepal/Sindhuli Madi/47
+Earth/Asia/Nepal/Manthali/48
+Earth/Asia/Nepal/Charikot/49
+Earth/Asia/Nepal/Attaria, Bhajani, Tikapur, Dhangadhi, Lamki/91
+Earth/Asia/Nepal/Chainpur/92
+Earth/Asia/Nepal/Darchula/93
+Earth/Asia/Nepal/Dipayal, S. Doti/94
+Earth/Asia/Nepal/Birgunj, Parwanipur, Pokharia/51
+Earth/Asia/Nepal/Baitadi/95
+Earth/Asia/Nepal/Dadeldhura/96
+Earth/Asia/Nepal/Kalaiya, Nijgadh, Simara/53
+Earth/Asia/Nepal/Mangalsen, Martadi/97
+Earth/Asia/Nepal/Dhading, Trishuli, Dhunche/10
+Earth/Asia/Nepal/Banepa, Chautara/11
+Earth/Asia/Nepal/Chandranigahpur, Gaur/55
+Earth/Asia/Nepal/Bellauri, Jhallari, Mahendranagar/99
+Earth/Asia/Nepal/Parsa Khairani, Rampur, Sauraha, Bharatpur, Mugling, Tandi/56
+Earth/Asia/Nepal/Hetauda, Bhimphedi/57
+Earth/Asia/Nepal/Sisuwa, Pokhara/61
+Earth/Asia/Nepal/Syangja, Galyang Bazar, Walling/63
+Earth/Asia/Nepal/Gorkha, Manakamna/64
+Earth/Asia/Nepal/Biratnagar, Pathari, Urlabari, Birathagar pmp, Letang, Rangeli/21
+Earth/Asia/Nepal/Ambukhairani, Damauli, Dumre/65
+Earth/Asia/Nepal/Besisahar/66
+Earth/Asia/Nepal/Dhulabari, Kakadvitta, Bhadrapur, Birtamod, Buddhabare, Surungga, Damak, Damak pmp/23
+Earth/Asia/Nepal/Kusma/67
+Earth/Asia/Nepal/Phidim, Taplejung/24
+Earth/Asia/Nepal/Baglung/68
+Earth/Asia/Nepal/Inerwa, Itahari, Jhumka, Dharan, Duhabi/25
+Earth/Asia/Nepal/Beni/69
+Earth/Asia/Nepal/Dhankuta, Hile, Terhathum/26
+Earth/Asia/Nepal/Fikkal, Pashupatinagar, Ilam/27
+Earth/Asia/Nepal/Bhojpur, Khandbari, Chainpur/29
+Earth/Asia/Nepal/Bhairahawa, Butwal, Lumbini, Manglapur/71
+Earth/Asia/Nepal/Kalyanpur, Rajbiraj, Hanumannagar, Kanchanpur/31
+Earth/Asia/Nepal/Tansen/75
+Earth/Asia/Nepal/Krishnanagar, Taulihawa/76
+Earth/Asia/Nepal/Lahan, Siraha, Mirchaiya/33
+Earth/Asia/Nepal/Sandhikharka/77
+Earth/Asia/Nepal/Kawositi, Parasi, Bardaghat, Sunwol, Tribeni/78
+Earth/Asia/Nepal/Gaighat/35
+Earth/Asia/Nepal/Tamghas/79
+Earth/Asia/Nepal/Diktel/36
+Earth/Asia/Nepal/Okhaldhunga, Rumjatar/37
+Earth/Asia/Nepal/Namche, Salleri/38
+Earth/Asia/Nepal/Khajura, Kohalpur, Nepalgunj/81
+Earth/Asia/Nepal/Tulsipur, Ghorai, Lalmattya, Lamahi/82
+Earth/Asia/Nepal/Chhinchu, Surkhet/83
+Earth/Asia/Nepal/Rajapur, Taratal, Guleria/84
+Earth/Asia/Nepal/Mahendranagar, Janakpur/41
+Earth/Asia/Nepal/Bijuwar, Pyuthankh/86
+Earth/Asia/Nepal/Jumla, Manma/87

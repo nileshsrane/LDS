@@ -1,0 +1,50 @@
+Earth/Asia/Afghanistan/Herat,Nimroz/44
+Earth/Asia/Afghanistan/Faryab/45
+Earth/Asia/Afghanistan/Sar-E Pol/46
+Earth/Asia/Afghanistan/Badghis/47
+Earth/Asia/Afghanistan/Ghowr/48
+Earth/Asia/Afghanistan/Farah/49
+Earth/Asia/Afghanistan/Balkh/50
+Earth/Asia/Afghanistan/Balkh,Kunduz/51
+Earth/Asia/Afghanistan/Balkh,Badkhshan/52
+Earth/Asia/Afghanistan/Balkh,Takhar/53
+Earth/Asia/Afghanistan/Balkh,Jowzjan/54
+Earth/Asia/Afghanistan/Kunduz, Samangan/55
+Earth/Asia/Afghanistan/Sar-E Pol, Takhar/56
+Earth/Asia/Afghanistan/Faryab, Jowzjan/57
+Earth/Asia/Afghanistan/Baghlan, Samangan/58
+Earth/Asia/Afghanistan/Baghlan/59
+Earth/Asia/Afghanistan/Nangarhar/60
+Earth/Asia/Afghanistan/Nangarhar,Nurestan/61
+Earth/Asia/Afghanistan/Nangarhar,Kunarha/62
+Earth/Asia/Afghanistan/Badkhshan,Laghman/63
+Earth/Asia/Afghanistan/Kabul/20
+Earth/Asia/Afghanistan/Murestan, Paktia/64
+Earth/Asia/Afghanistan/Kabul,Parwan/21
+Earth/Asia/Afghanistan/Kunarha, Paktika/65
+Earth/Asia/Afghanistan/Kabul,Kapisa/22
+Earth/Asia/Afghanistan/Laghman/66
+Earth/Asia/Afghanistan/Kabul,Bamian/23
+Earth/Asia/Afghanistan/Paktia/67
+Earth/Asia/Afghanistan/Kabul,Wardak/24
+Earth/Asia/Afghanistan/Khost/68
+Earth/Asia/Afghanistan/Logar, Parwan/25
+Earth/Asia/Afghanistan/Paktika/69
+Earth/Asia/Afghanistan/Dorkondi, Kapisa,Panj Shir/26
+Earth/Asia/Afghanistan/Bamian,Daikondi, Khost/27
+Earth/Asia/Afghanistan/Panjshar, Wardak/28
+Earth/Asia/Afghanistan/Logar/29
+Earth/Asia/Afghanistan/Kandahar/30
+Earth/Asia/Afghanistan/Kandahar,Ghazni/31
+Earth/Asia/Afghanistan/Kandahar,Uruzgan/32
+Earth/Asia/Afghanistan/Kandahar,Zabol/33
+Earth/Asia/Afghanistan/Kandahar,Helmand/34
+Earth/Asia/Afghanistan/Nimruz/35
+Earth/Asia/Afghanistan/Ghazni/36
+Earth/Asia/Afghanistan/Uruzgan/37
+Earth/Asia/Afghanistan/Zabol/38
+Earth/Asia/Afghanistan/Helmand/39
+Earth/Asia/Afghanistan/Herat/40
+Earth/Asia/Afghanistan/Herat,Badghis/41
+Earth/Asia/Afghanistan/Herat,Ghowr/42
+Earth/Asia/Afghanistan/Herat,Farah/43

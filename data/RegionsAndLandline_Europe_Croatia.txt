@@ -1,0 +1,20 @@
+Earth/Europe/Croatia/Bjelovar/43
+Earth/Europe/Croatia/Cakovec/40
+Earth/Europe/Croatia/Dubrovnik/20
+Earth/Europe/Croatia/Gospic/53
+Earth/Europe/Croatia/Karlovac/47
+Earth/Europe/Croatia/Koprivnica/48
+Earth/Europe/Croatia/Krapina/49
+Earth/Europe/Croatia/Osijek/31
+Earth/Europe/Croatia/Pazin/52	
+Earth/Europe/Croatia/Pozega/34
+Earth/Europe/Croatia/Rijeka/51
+Earth/Europe/Croatia/Sibenik/22
+Earth/Europe/Croatia/Sisak/44
+Earth/Europe/Croatia/Slavonski Brod/35
+Earth/Europe/Croatia/Split/21	
+Earth/Europe/Croatia/Varazdin/42
+Earth/Europe/Croatia/Vinkovci/32
+Earth/Europe/Croatia/Virovitica/33	
+Earth/Europe/Croatia/Zadar/23
+Earth/Europe/Croatia/Zagreb/1

@@ -1,0 +1,20 @@
+Earth/Europe/Bosnia Herzegovina/Banja Luka/51
+Earth/Europe/Bosnia Herzegovina/Bijeljina/55
+Earth/Europe/Bosnia Herzegovina/Bosansko - Podrinjska Zupanija/38
+Earth/Europe/Bosnia Herzegovina/Distrikt Brcko/49
+Earth/Europe/Bosnia Herzegovina/Doboj/53
+Earth/Europe/Bosnia Herzegovina/Herceg/34
+Earth/Europe/Bosnia Herzegovina/Hercegovac/36
+Earth/Europe/Bosnia Herzegovina/Mrkonjic Grad/50
+Earth/Europe/Bosnia Herzegovina/Posavska Zupanija/31
+Earth/Europe/Bosnia Herzegovina/Prijedor/52
+Earth/Europe/Bosnia Herzegovina/Samac/54
+Earth/Europe/Bosnia Herzegovina/Srednjo/30
+Earth/Europe/Bosnia Herzegovina/Trebinje/59
+Earth/Europe/Bosnia Herzegovina/Tuzlanska Zupanija/35
+Earth/Europe/Bosnia Herzegovina/Unsko/37
+Earth/Europe/Bosnia Herzegovina/Zapadno/39
+Earth/Europe/Bosnia Herzegovina/Zenic/32
+Earth/Europe/Bosnia Herzegovina/Zvornik/56
+Earth/Europe/Bosnia Herzegovina/Foca/Srbinje/Srbinje/58
+Earth/Europe/Bosnia Herzegovina/Kanton Sarajevo, Sarajevska Zupanija/33

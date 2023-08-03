@@ -1,0 +1,33 @@
+Earth/Europe/Serbia/Indija, Ruma, Sremska Mitrovica/22
+Earth/Europe/Serbia/Zrenjanin/23
+Earth/Europe/Serbia/Senta, Subotica/24
+Earth/Europe/Serbia/Sombor/25
+Earth/Europe/Serbia/Smederevo/26
+Earth/Europe/Serbia/Prokuplje/27
+Earth/Europe/Serbia/Kosovska Mitrovica/28
+Earth/Europe/Serbia/Prizren/29
+Earth/Europe/Serbia/Urosevac/290
+Earth/Europe/Serbia/Dakovica/390
+Earth/Europe/Serbia/Kikinda/230
+Earth/Europe/Serbia/Bor/30
+Earth/Europe/Serbia/Uzice/31
+Earth/Europe/Serbia/Pirot/10
+Earth/Europe/Serbia/Cacak, Gornji Milanovac/32
+Earth/Europe/Serbia/Belgrade, Mladenovac, Obrenovac/11
+Earth/Europe/Serbia/Prijepolje, Prijepolje/33
+Earth/Europe/Serbia/Pozarevac/12
+Earth/Europe/Serbia/Arandelovac, Kragujevac/34
+Earth/Europe/Serbia/Pancevo, Vrsac/13
+Earth/Europe/Serbia/Cuprija, Jagodina, Paracin/35
+Earth/Europe/Serbia/Valjevo/14
+Earth/Europe/Serbia/Kraljevo/36
+Earth/Europe/Serbia/Loznica, Sabac/15
+Earth/Europe/Serbia/Krusevac/37
+Earth/Europe/Serbia/Leskovac/16
+Earth/Europe/Serbia/Pristina/38
+Earth/Europe/Serbia/Bujanovac, Vranje/17
+Earth/Europe/Serbia/Nis/18
+Earth/Europe/Serbia/Zajecar/19
+Earth/Europe/Serbia/Gnjilane/280
+Earth/Europe/Serbia/Novi Pazar/20
+Earth/Europe/Serbia/Backa Palanka, Becej, Novi Sad, Temerin, Vrbas/21

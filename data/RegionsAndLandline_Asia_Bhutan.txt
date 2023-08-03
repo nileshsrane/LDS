@@ -1,0 +1,13 @@
+Earth/Asia/Bhutan/Thimphu, Simtokha, Dechencholing, Taba, Kharsadrapchu, Basochu, Wangdue, Punakha, Lingshi DAMA, Gasa/2
+**
+Earth/Asia/Bhutan/Trongsa, Jakar, Chumey, Zhemgang DAMA, Zhemgang, Tingtibi/3
+**
+Earth/Asia/Bhutan/Trashigang,Kanglung,Lhuntse,Tangmachu,Rangjung,Wamrong,Khaling,Mongar, Sakteng DAMA, Gelpoyshing, Trashi Yangtse, Tsenkharla/4
+**
+Earth/Asia/Bhutan/Phuntsholing, Pasakha, Gedu,Tala,Padechu,Sinchekha, Lhamoi Zingkha, Samtse, Gomtu, Chargary, Sibsoo/5
+**
+Earth/Asia/Bhutan/Gelephu, Suray, Lodrai, Sarpang, Tsirang(Damphu), Damphu DAMA, Dagana, Dagapela, Drujegang, Panbang DAMA/6
+**
+Earth/Asia/Bhutan/S,Jongkhar, Deothang, Nganglam, Bangtar DAMA, Daifam DAMA, Nganglam DAMA, P,Gatshel, P,Gatshel DAMA/7
+**
+Earth/Asia/Bhutan/Paro, Drukgyel Dzong, Shaba, Ha, Ha (Damthang), Chapcha, Wangkha, Tsimasham/8

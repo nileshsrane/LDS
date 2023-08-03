@@ -1,0 +1,51 @@
+Earth/Europe/Lithuania/Pasvalys/8451
+Earth/Europe/Lithuania/Rokiskis/8458
+Earth/Europe/Lithuania/Birsai/8450
+Earth/Europe/Lithuania/Alytus/831
+Earth/Europe/Lithuania/Kaunas/834
+Earth/Europe/Lithuania/Elektrenai, Trakai/8528
+Earth/Europe/Lithuania/Plunge/8448
+Earth/Europe/Lithuania/Silale/8449
+Earth/Europe/Lithuania/Kaunas, Kaunas/837
+Earth/Europe/Lithuania/Marijampole/8343
+Earth/Europe/Lithuania/Svencionys/8387
+Earth/Europe/Lithuania/Pakruojis/8421
+Earth/Europe/Lithuania/Zarasai/8385
+Earth/Europe/Lithuania/Vilkaviskis/8342
+Earth/Europe/Lithuania/Ignalina, Visaginas/8386
+Earth/Europe/Lithuania/Kedainiai/8347
+Earth/Europe/Lithuania/Akmene/8425
+Earth/Europe/Lithuania/Neringa/8469
+Earth/Europe/Lithuania/Sakiai/8345
+Earth/Europe/Lithuania/Utena/8389
+Earth/Europe/Lithuania/Radviliskis/8422
+Earth/Europe/Lithuania/Kaisiadorys/8346
+Earth/Europe/Lithuania/Salcininkai/8380
+Earth/Europe/Lithuania/Moletai/8383
+Earth/Europe/Lithuania/Palanga/8460
+Earth/Europe/Lithuania/Ukmerge/8340
+Earth/Europe/Lithuania/Anyksciai/8381
+Earth/Europe/Lithuania/Sirvintos/8382
+Earth/Europe/Lithuania/Siauliai/841
+Earth/Europe/Lithuania/Siauliai/842
+Earth/Europe/Lithuania/Klaipeda/844
+Earth/Europe/Lithuania/Panevesys, Panevesys/845
+Earth/Europe/Lithuania/Kupiskis/8459
+Earth/Europe/Lithuania/Klaipeda, Klaipeda/846
+Earth/Europe/Lithuania/Varena/8310
+Earth/Europe/Lithuania/Alytus/8315
+Earth/Europe/Lithuania/Druskininkai/8313
+Earth/Europe/Lithuania/Raseiniai/8428
+Earth/Europe/Lithuania/Jonava/8349
+Earth/Europe/Lithuania/Joniskis/8426
+Earth/Europe/Lithuania/Kelme/8427
+Earth/Europe/Lithuania/Maseikiai/8443
+Earth/Europe/Lithuania/Skuodas/8440
+Earth/Europe/Lithuania/Silute/8441
+Earth/Europe/Lithuania/Taurage/8446
+Earth/Europe/Lithuania/Jurbarkas/8447
+Earth/Europe/Lithuania/Telsiai/8444
+Earth/Europe/Lithuania/Kretinga/8445
+Earth/Europe/Lithuania/Lazdijai/8318
+Earth/Europe/Lithuania/Birstonas, Prienai/8319
+Earth/Europe/Lithuania/Vilnius, Vilnius/85

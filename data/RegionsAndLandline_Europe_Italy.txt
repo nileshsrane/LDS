@@ -1,0 +1,148 @@
+Earth/Europe/Italy/Salerno/89
+Earth/Europe/Italy/Bolzano/471
+Earth/Europe/Italy/Campobasso/874
+Earth/Europe/Italy/Messina/90
+Earth/Europe/Italy/Palermo/91
+Earth/Europe/Italy/Catania/95
+Earth/Europe/Italy/Genoa/10
+Earth/Europe/Italy/Turin/11
+Earth/Europe/Italy/Taranto/99
+Earth/Europe/Italy/Biella/15
+Earth/Europe/Italy/Savona/19
+Earth/Europe/Italy/Gorizia/481
+Earth/Europe/Italy/Cremona, Cremona, MonzaSeregno, MonzaSeregno/362
+Earth/Europe/Italy/Bergamo, Cremona, Bergamo,Cremona/363
+Earth/Europe/Italy/Turin, Susa Valley/122
+Earth/Europe/Italy/Brescia-Valle Camonica and Breno, Brescia-aresa of Valle Camonica and Breno/364
+Earth/Europe/Italy/Foggia/881
+Earth/Europe/Italy/Turin, Lanzo Valleys/123
+Earth/Europe/Italy/Brescia-Lake Garda and Valle Sabbia, Salò, Brescia-Lake Garda and Valle Sabbia, Salò/365
+Earth/Europe/Italy/Viterbo/761
+Earth/Europe/Italy/Foggia-Apricena, San Giovanni Rotondo, Tremiti isles/882
+Earth/Europe/Italy/Turin, Rivarolo Canavese, Orco Valley/124
+Earth/Europe/Italy/Barletta-Andria-Trani/883
+Earth/Europe/Italy/Turin, Ivrea/125
+Earth/Europe/Italy/Parma/521
+Earth/Europe/Italy/Foggia-Rodi Garganico, Vieste, Manfredonia/884
+Earth/Europe/Italy/Reggio Emilia/522
+Earth/Europe/Italy/Piacenza/523
+Earth/Europe/Italy/Rome, The Vatican City, Rome, Rome, Vatican City/6
+Earth/Europe/Italy/RietiPoggio Mirteto/765
+Earth/Europe/Italy/Palermo/921
+Earth/Europe/Italy/Agrigento/922
+Earth/Europe/Italy/Trapani/923
+Earth/Europe/Italy/Agrigento/925
+Earth/Europe/Italy/Cremona, Cremona/372
+Earth/Europe/Italy/Alessandria/131
+Earth/Europe/Italy/ComoMenaggio, ComoMenaggio, CremonaCrema, CremonaCrema, Lecco, Lodi, Milan, Lodi, Milan, Varese, Varese-Busto Arsizio, Varese-Busto, Arsizio/373
+Earth/Europe/Italy/Cremona and part of Mantua, Cremona, Mantua/375
+Earth/Europe/Italy/Latina-Formia, Fondi/771
+Earth/Europe/Italy/Cremona, Mantua, Mantua/376
+Earth/Europe/Italy/Latina/773
+Earth/Europe/Italy/Ferrara/532
+Earth/Europe/Italy/RomeTivoli/774
+Earth/Europe/Italy/Frosinone/775
+Earth/Europe/Italy/FrosinoneCassino/776
+Earth/Europe/Italy/Mirandola/535
+Earth/Europe/Italy/Siracusa/931
+Earth/Europe/Italy/Sassuolo, Formigine, Fiorano Modenese, Maranello, Prigniano sulla Secchia, Comunità montana of Frignano/536
+Earth/Europe/Italy/Ragusa/932
+Earth/Europe/Italy/Caltanissetta/933
+Earth/Europe/Italy/Caltanissetta, Enna/934
+Earth/Europe/Italy/Brescia, Franciacorta, valle Trompia, Brescia, Franciacorta, valle Trompia and Southern Province/30
+Earth/Europe/Italy/Como, Como/31
+Earth/Europe/Italy/Bergamo, Bergamo/35
+Earth/Europe/Italy/Monza, Monza/39
+Earth/Europe/Italy/Pavia, Pavia/382
+Earth/Europe/Italy/Asti/141
+Earth/Europe/Italy/NuoroOgliastra/782
+Earth/Europe/Italy/Rimini/541
+Earth/Europe/Italy/Oristano/783
+Earth/Europe/Italy/Venice-San Donà di Piave/421
+Earth/Europe/Italy/Nuoro/784
+Earth/Europe/Italy/Treviso/422
+Earth/Europe/Italy/Forlì-Cesena-Forlì/543
+Earth/Europe/Italy/Treviso, Montebelluna/423
+Earth/Europe/Italy/Ravenna/544
+Earth/Europe/Italy/Vicenza, Bassano del Grappa/424
+Earth/Europe/Italy/Ravenna/545
+Earth/Europe/Italy/Novara di Sicilia/941
+Earth/Europe/Italy/Rovigo, Rovigo/425
+Earth/Europe/Italy/MessinaTaormina/942
+Earth/Europe/Italy/Rovigo, Adria/426
+Earth/Europe/Italy/Forlì-Cesena-Cesena/547
+Earth/Europe/Italy/Sassari-Olbia, Costa Smeralda/789
+Earth/Europe/Italy/Caserta/823
+Earth/Europe/Italy/Republic of San Marino/549
+Earth/Europe/Italy/Benevento/824
+Earth/Europe/Italy/Avellino/825
+Earth/Europe/Italy/Trieste/40
+Earth/Europe/Italy/Venice, Landside Mestre/41
+Earth/Europe/Italy/Verona/45
+Earth/Europe/Italy/Padova/49
+Earth/Europe/Italy/Udine/432
+Earth/Europe/Italy/Pordenone/434
+Earth/Europe/Italy/Lecce/832
+Earth/Europe/Italy/Treviso-Conegliano, Vittorio Veneto, Pieve di Soligo/438
+Earth/Europe/Italy/Matera/835
+Earth/Europe/Italy/Pisa/50
+Earth/Europe/Italy/Bologna/51
+Earth/Europe/Italy/Florence/55
+Earth/Europe/Italy/Modena/59
+Earth/Europe/Italy/Vercelli/161
+Earth/Europe/Italy/Vercelli-Valsesia/163
+Earth/Europe/Italy/Aosta Valley, Courmayeur/165
+Earth/Europe/Italy/Aosta Valley-Cervinia/166
+Earth/Europe/Italy/Novara, Novara/321
+Earth/Europe/Italy/Novara, Novara/322
+Earth/Europe/Italy/Grosseto/564
+Earth/Europe/Italy/Vicenza/444
+Earth/Europe/Italy/Livorno, Isola d'Elba/565
+Earth/Europe/Italy/Catanzaro/961
+Earth/Europe/Italy/Verbano-Cusio-Ossola, Verbano-Cusio-Ossola/324
+Earth/Europe/Italy/VicenzaSchio/445
+Earth/Europe/Italy/Follonica, Nothern Grosseto/566
+Earth/Europe/Italy/Crotone/962
+Earth/Europe/Italy/Pesaro, Urbino/721
+Earth/Europe/Italy/Vibo Valentia/963
+Earth/Europe/Italy/Reggio Calabria/965
+Earth/Europe/Italy/Cuneo/171
+Earth/Europe/Italy/Empoli, Florence, Pisa/571
+Earth/Europe/Italy/Montecatini Terme, Pistoia, Villa Basilica, Lucca/572
+Earth/Europe/Italy/Pistoia/573
+Earth/Europe/Italy/Arezzo/575
+Earth/Europe/Italy/Siena/577
+Earth/Europe/Italy/Ancona-Jesi/731
+Earth/Europe/Italy/Southern Siena, Città della Pieve, Perugia/578
+Earth/Europe/Italy/Ancona-Fabriano/732
+Earth/Europe/Italy/Salerno/974
+Earth/Europe/Italy/Macerata/733
+Earth/Europe/Italy/Potenza/975
+Earth/Europe/Italy/Fermo/734
+Earth/Europe/Italy/Cagliari/70
+Earth/Europe/Italy/Ascoli PicenoSan Benedetto del Tronto/735
+Earth/Europe/Italy/Ancona/71
+Earth/Europe/Italy/Ascoli Piceno/736
+Earth/Europe/Italy/MacerataCamerino/737
+Earth/Europe/Italy/Perugia/75
+Earth/Europe/Italy/Sassari, Alghero/79
+Earth/Europe/Italy/Imperia/183
+Earth/Europe/Italy/Imperia-Sanremo/184
+Earth/Europe/Italy/Genoa/185
+Earth/Europe/Italy/Trento/461
+Earth/Europe/Italy/La Spezia and Cinque Terre/187
+Earth/Europe/Italy/Lucca/583
+Earth/Europe/Italy/Sondrio, Sondrio/342
+Earth/Europe/Italy/Viareggio, Versilia/584
+Earth/Europe/Italy/SondrioChiavenna, SondrioChiavenna/343
+Earth/Europe/Italy/Massa, Carrara/585
+Earth/Europe/Italy/Livorno/586
+Earth/Europe/Italy/Teramo/861
+Earth/Europe/Italy/Bergamo, Bergamo/345
+Earth/Europe/Italy/Pontedera, Pisa, Volterra, Pisa/587
+Earth/Europe/Italy/L'Aquila/862
+Earth/Europe/Italy/CosenzaCosenza/984
+Earth/Europe/Italy/Isernia/865
+Earth/Europe/Italy/Bari/80
+Earth/Europe/Italy/Naples/81
+Earth/Europe/Italy/Pescara/85

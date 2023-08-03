@@ -1,0 +1,16 @@
+Earth/Europe/Austria/Bludenz/5552
+Earth/Europe/Austria/Graz/316
+Earth/Europe/Austria/Innsbruck/512
+Earth/Europe/Austria/Kitzbuhel/5356
+Earth/Europe/Austria/Klagenfurt/463
+Earth/Europe/Austria/Krems An Der Donau/2732
+Earth/Europe/Austria/Leoben/3842
+Earth/Europe/Austria/Linz Donau/732
+Earth/Europe/Austria/Neunkirchen Niederosterreich/2635
+Earth/Europe/Austria/Salzburg/662
+Earth/Europe/Austria/St. Polten/2742
+Earth/Europe/Austria/Vienna/1
+Earth/Europe/Austria/Villach/4242
+Earth/Europe/Austria/Wels/7242
+Earth/Europe/Austria/Wiener Neustadt/2622
+Earth/Europe/Austria/Wolfsberg/4352

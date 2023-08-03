@@ -1,0 +1,310 @@
+Earth/North America/United States/Alabama/Central Alabama,Birmingham/205
+Earth/North America/United States/Alabama/Eastern and Northern Alabama/Huntsville,Florence,Gadsden/256
+Earth/North America/United States/Alabama/Southern Alabama/Auburn,Opelika,Montgomery/334
+Earth/North America/United States/Alabama/Southern Alabama/Mobile and coastal areas,Jackson,Evergreen,Monroeville/251
+Earth/North America/United States/Alaska/907
+Earth/North America/United States/Arizona/Central Arizona/Northern Arizona:Prescott,Flagstaff,Yuma/928
+Earth/North America/United States/Arizona/East Phoenix/480
+Earth/North America/United States/Arizona/Phoenix/602
+Earth/North America/United States/Arizona/South East Arizona/Tucson/520
+Earth/North America/United States/Arizona/West Phoenix/623
+Earth/North America/United States/Arkansas/870
+Earth/North America/United States/Arkansas/Central Arkansas/Little Rock,Hot Springs,Conway/501
+Earth/North America/United States/Arkansas/North West Arkansas/Fort Smith,Fayetteville,Springdale,Bentonville/479
+Earth/North America/United States/California/764
+Earth/North America/United States/California/California/Long Beach/562
+Earth/North America/United States/California/California/Oakland,East Bay/510
+Earth/North America/United States/California/California/San Francisco County,Marin County/415
+Earth/North America/United States/California/California/Southern San Francisco,San Mateo County,Santa Clara County/650
+Earth/North America/United States/California/Central California/Fresno/559
+Earth/North America/United States/California/Central California/Stockton/209
+Earth/North America/United States/California/Central Coastal California/San Jose/408
+Earth/North America/United States/California/Central and Coastal California/San Jose/669
+Earth/North America/United States/California/Contra Costa area/Antioch,Concord,Pleasanton,Walnut Creek/925
+Earth/North America/United States/California/Eastern Southern California/Pasadena/626
+Earth/North America/United States/California/Inland empire/San Bernardino,Riverside/909
+Earth/North America/United States/California/North East California/Eldorado County,Auburn,Chico,Redding,So. Lake Tahoe,Marysville,Nevada City,Grass Valley/530
+Earth/North America/United States/California/North East California/Sacramento,Walnut Grove,Lincoln,Newcastle,El Dorado Hills/916
+Earth/North America/United States/California/North West California/Santa Rosa,Napa,Vallejo,American Canyon,Fairfield/707
+Earth/North America/United States/California/North West Orange County/657
+Earth/North America/United States/California/Northern Los AngeleNorthern Mckittrick,Mojave,Newhall,Oildale,Palmdale,Taft,Tehachapi,Bakersfield,Earlimart,Lancaster/661
+Earth/North America/United States/California/Northern Orange County,Western Orange County/714
+Earth/North America/United States/California/San Diego North County,Sierra Nevada/760
+Earth/North America/United States/California/San Diego far north suburbs,Oceanside,Escondido/442
+Earth/North America/United States/California/San Francisco County,Marin County/628
+Earth/North America/United States/California/Santa Cruz Central Coast,Monterey County/831
+Earth/North America/United States/California/Solano County/369
+Earth/North America/United States/California/Southern California/Beverly Hills,West Hollywood,West Los Angeles/310
+Earth/North America/United States/California/Southern California/Los Angeles,Agoura Hills,Calabasas,Hidden Hills,Westlake Village/747
+Earth/North America/United States/California/Southern California/Los Angeles,Hollywood/323
+Earth/North America/United States/California/Southern California/Los Angeles/213
+Earth/North America/United States/California/Southern California/Los Angeles/424
+Earth/North America/United States/California/Southern California/Los Angeles:San Fernando Valley/818
+Earth/North America/United States/California/Southern California/San Diego/619
+Earth/North America/United States/California/Southern California/San Diego/858
+Earth/North America/United States/California/Southern California/San Diego/935
+Earth/North America/United States/California/Southern Central California/Central Coastal California:Ventura County/Santa Barbara County:San Luis Obispo,Thousand Oaks,Carpinteria,Santa Barbara,Santa Maria,Lompoc,Santa Ynez Valley,Solvang/805
+Earth/North America/United States/California/Southern Coastal Orange County/949
+Earth/North America/United States/California/Western Riverside County/951
+Earth/North America/United States/Colorado/Central Colorado/Denver/303
+Earth/North America/United States/Colorado/Central Colorado/Denver/720
+Earth/North America/United States/Colorado/Northern Colorado,Western Colorado/970
+Earth/North America/United States/Colorado/South East Colorado/Pueblo,Colorado Springs/719
+Earth/North America/United States/Connecticut/Fairfield County and New Haven County; Bridgeport,New Haven/203
+Earth/North America/United States/Connecticut/Hartford,New London/959
+Earth/North America/United States/Connecticut/New Haven Counties/860
+Earth/North America/United States/Connecticut/New Haven,Greenwich/475
+Earth/North America/United States/Delaware/Delaware/302
+Earth/North America/United States/District of Columbia/Washington D.C./202
+Earth/North America/United States/Florida/Brevard County,Cape Canaveral area,Orlando Metro/321
+Earth/North America/United States/Florida/Broward County,Ft. Lauderdale/754
+Earth/North America/United States/Florida/Broward County,Ft. Lauderdale/954
+Earth/North America/United States/Florida/Central Florida/Metro Orlando/407
+Earth/North America/United States/Florida/Central Florida/OrlandoMetro/689
+Earth/North America/United States/Florida/Florida Panhandle/850
+Earth/North America/United States/Florida/Florida Tampa Metro/Saint Petersburg/Clearwater:Pinellas,Pasco County/727
+Earth/North America/United States/Florida/Gainesville,Ocala,Crystal River/352
+Earth/North America/United States/Florida/Lakeland,Polk County/863
+Earth/North America/United States/Florida/Lee,Collier,Monroe Counties/239
+Earth/North America/United States/Florida/Northern Florida/Jacksonville/904
+Earth/North America/United States/Florida/Northern central Florida/Lake City/386
+Earth/North America/United States/Florida/South East Florida,Monroe County:Miami/786
+Earth/North America/United States/Florida/South East Florida/Miami,The Keys/305
+Earth/North America/United States/Florida/South West Florida/Sarasota,Manatee Counties/941
+Earth/North America/United States/Florida/South West Florida/Tampa Metro/813
+Earth/North America/United States/Florida/Southern Central Florida/Palm Beach County:West Palm Beach,Boca Raton,Vero Beach/561
+Earth/North America/United States/Florida/Southern Central Florida/St. Lucie,Martin,Indian River Counties/772
+Earth/North America/United States/Georgia/Atlanta Suburbs/770
+Earth/North America/United States/Georgia/Central Georgia/Macon/478
+Earth/North America/United States/Georgia/Greater Atlanta Metro/470
+Earth/North America/United States/Georgia/Northern Georgia/Atlanta Metro/678
+Earth/North America/United States/Georgia/Northern Georgia/Atlanta and Suburbs/404
+Earth/North America/United States/Georgia/Northern Georgia/Columbus,Augusta/706
+Earth/North America/United States/Georgia/Northern Georgia/Columbus,Augusta/762
+Earth/North America/United States/Georgia/South East Georgia/Savannah/912
+Earth/North America/United States/Georgia/South West Georgia/Albany/229
+Earth/North America/United States/Guam/671
+Earth/North America/United States/Hawaii/808
+Earth/North America/United States/Idaho/208
+Earth/North America/United States/Illinois/Central Illinois/Springfield/217
+Earth/North America/United States/Illinois/Chicago City/773
+Earth/North America/United States/Illinois/Chicago Downtown/872
+Earth/North America/United States/Illinois/Chicago Southern Suburbs,Chicago Western Suburbs/708
+Earth/North America/United States/Illinois/Chicago Ssouth Suburbs/464
+Earth/North America/United States/Illinois/Illinois/Chicago Downtown/312
+Earth/North America/United States/Illinois/North East Illinois/Evanston,Waukegan,Northbrook/224
+Earth/North America/United States/Illinois/North West Illinois/Rockford,Kankakee/779
+Earth/North America/United States/Illinois/North West Illinois/Rockford,Kankakee/815
+Earth/North America/United States/Illinois/Northern North East Illinois/North West Suburbs of Chicago/847
+Earth/North America/United States/Illinois/Southern Illinois/Centralia/618
+Earth/North America/United States/Illinois/Western Central Illinois/Peoria/309
+Earth/North America/United States/Illinois/Western Illinois,North East Illinois,Chicago Western Suburbs/630
+Earth/North America/United States/Illinois/Western North East Illinois,Western Suburbs of Chicago/331
+Earth/North America/United States/Indiana/765
+Earth/North America/United States/Indiana/Central Indiana/Indianapolis/317
+Earth/North America/United States/Indiana/North East Indiana/Fort Wayne/260
+Earth/North America/United States/Indiana/North West Indiana/Gary/219
+Earth/North America/United States/Indiana/Northern Indiana/Elkhart,South Bend/574
+Earth/North America/United States/Indiana/Southern Indiana/Evansville,Cincinnati outskirts in IN,Columbus,Bloomington/812
+Earth/North America/United States/Iowa/Central Iowa/Des Moines/515
+Earth/North America/United States/Iowa/Eastern Iowa/Cedar Rapids/319
+Earth/North America/United States/Iowa/Eastern Iowa/Davenport,Dubuque/563
+Earth/North America/United States/Iowa/Mason City,Marshalltown,Creston,Ottumwa/641
+Earth/North America/United States/Iowa/Western Iowa/Council Bluffs/712
+Earth/North America/United States/Kansas/Kansas City/913
+Earth/North America/United States/Kansas/Northern Kansas/Western Kansas:Topeka/785
+Earth/North America/United States/Kansas/Southern Kansas/Wichita/316
+Earth/North America/United States/Kansas/Southern Kansas/Wichita/620
+Earth/North America/United States/Kentucky/859
+Earth/North America/United States/Kentucky/Eastern Kentucky/Eastern Frankfort:Ashland/606
+Earth/North America/United States/Kentucky/Northern Central Kentucky/Louisville/502
+Earth/North America/United States/Kentucky/Western Kentucky/Bowling Green,Paducah/270
+Earth/North America/United States/Louisiana/Baton Rouge,New Roads,Donaldsonville,Albany,Gonzales,Greensburg,Plaquemine,Vacherie/225
+Earth/North America/United States/Louisiana/Eastern Louisiana/New Orleans Metro/504
+Earth/North America/United States/Louisiana/Eastern Louisiana/South East Lake Pontchartrain,Northern shore of Lake Pontchartrain/985
+Earth/North America/United States/Louisiana/Northern Louisiana/Shreveport,Ruston,Monroe,Alexandria/318
+Earth/North America/United States/Louisiana/South West Louisiana/Lake Charles,Lafayette/337
+Earth/North America/United States/Maine/207
+Earth/North America/United States/Maryland/Eastern Maryland/Baltimore,Annapolis,Chesapeake Bay area,Ocean City/410
+Earth/North America/United States/Maryland/Eastern Maryland/Baltimore,Annapolis,Chesapeake Bay,Ocean City/443
+Earth/North America/United States/Maryland/Western Maryland/Silver Spring,Frederick,Camp Springs,Prince George's County/301
+Earth/North America/United States/Maryland/Western Maryland/Silver Spring,Frederick,Gaithersburg/240
+Earth/North America/United States/Massachusetts/Boston Suburbs/339
+Earth/North America/United States/Massachusetts/Boston Surburbs,North West Massachusetts/781
+Earth/North America/United States/Massachusetts/Central Massachusetts/Framingham; Cape Cod/508
+Earth/North America/United States/Massachusetts/Central Massachusetts/Framingham; Cape Cod/774
+Earth/North America/United States/Massachusetts/Greater Boston/617
+Earth/North America/United States/Massachusetts/Greater Boston/857
+Earth/North America/United States/Massachusetts/North Boston/351
+Earth/North America/United States/Massachusetts/Northern Boston/978
+Earth/North America/United States/Massachusetts/Western Massachusetts/Springfield/413
+Earth/North America/United States/Michigan/278
+Earth/North America/United States/Michigan/Central Michigan/Lansing/517
+Earth/North America/United States/Michigan/Dearborn/679
+Earth/North America/United States/Michigan/Detroit,Detroit Suburbs/313
+Earth/North America/United States/Michigan/Eastern Michigan/Flint,Pontiac/810
+Earth/North America/United States/Michigan/Macomb County/586
+Earth/North America/United States/Michigan/Oakland County,Pontiac/248
+Earth/North America/United States/Michigan/Oakland County/947
+Earth/North America/United States/Michigan/South East Michigan/Western Detroit,Southern Detroit/734
+Earth/North America/United States/Michigan/South West Michigan/Kalamazoo,Saugatuck,Hastings,Battle Creek,Sturgis,Lake Michigan/269
+Earth/North America/United States/Michigan/Upper Central Michigan/Mt Pleasant,Saginaw/989
+Earth/North America/United States/Michigan/Upper Peninsula Michigan/Sault Ste. Marie,Escanaba,Marquette/906
+Earth/North America/United States/Michigan/Western Michigan/Holland,Grand Haven,Greenville,Grand Rapids,Ionia/616
+Earth/North America/United States/Michigan/Western Michigan/Northwestern portion of lower Peninsula,Traverse City,Muskegon,Cheboygan,Alanson/231
+Earth/North America/United States/Minnesota/Central Minnesota/Minneapolis/612
+Earth/North America/United States/Minnesota/Central Minnesota/Saint Cloud:rural Minn/320
+Earth/North America/United States/Minnesota/Central Minnesota/St. Paul/651
+Earth/North America/United States/Minnesota/North West Minneapolis/763
+Earth/North America/United States/Minnesota/Northern Minnesota/Duluth/218
+Earth/North America/United States/Minnesota/South West Minneapolis,Bloomington/952
+Earth/North America/United States/Minnesota/Southern Minnesota/Rochester,Mankato,Worthington/507
+Earth/North America/United States/Mississippi/Meridian,Jackson/601
+Earth/North America/United States/Mississippi/Meridian,Jackson/769
+Earth/North America/United States/Mississippi/Northern Mississippi/Tupelo,Grenada/662
+Earth/North America/United States/Mississippi/Southern Mississippi/coastal areas,Biloxi,Gulfport/228
+Earth/North America/United States/Missouri/Northern Missouri/660
+Earth/North America/United States/Missouri/Northern Missouri/Kansas City/816
+Earth/North America/United States/Missouri/Northern Missouri/Kansas City/975
+Earth/North America/United States/Missouri/South East Missouri/Central Missouri,Eastern Missouri/573
+Earth/North America/United States/Missouri/South East Missouri/St Louis city/314
+Earth/North America/United States/Missouri/South East Missouri/St. Louis Metro/557
+Earth/North America/United States/Missouri/South West Missouri/Springfield/417
+Earth/North America/United States/Missouri/Western St. Louis,St. Louis County Metro,St. Charles County,Jefferson County/636
+Earth/North America/United States/Montana/406
+Earth/North America/United States/Nebraska/Eastern Nebraska/Omaha,Lincoln/402
+Earth/North America/United States/Nebraska/Western Nebraska/North Platte/308
+Earth/North America/United States/Nevada/Northen Nevada/Reno/775
+Earth/North America/United States/Nevada/Southern Nevada/Clark County,Las Vegas/702
+Earth/North America/United States/Nevada/Southern Nevada/Clark County/725
+Earth/North America/United States/New Hampshire/603
+Earth/North America/United States/New Jersey/Central New Jersey/Elizabeth,Basking Ridge,Somerville,Bridgewater,Bound Brook/908
+Earth/North America/United States/New Jersey/Central New Jersey/Toms River,New Brunswick,Bound Brook/732
+Earth/North America/United States/New Jersey/Central New Jersey/Toms River,New Brunswick,Bound Brook/848
+Earth/North America/United States/New Jersey/Northern New Jersey/Jersey City,Hackensack/201
+Earth/North America/United States/New Jersey/Northern New Jersey/Jersey City,Hackensack/551
+Earth/North America/United States/New Jersey/Northern New Jersey/Newark Paterson Morristown/862
+Earth/North America/United States/New Jersey/Northern New Jersey/Newark,Paterson,Morristown/973
+Earth/North America/United States/New Jersey/South West New Jersey/Greater Camden,Mt Laurel/856
+Earth/North America/United States/New Jersey/Southern New Jersey/Trenton/609
+Earth/North America/United States/New Mexico/957
+Earth/North America/United States/New Mexico/Las Cruces,Alamogordo,Roswell/575
+Earth/North America/United States/New Mexico/Northern Central New Mexico/North West New Mexico:Albuquerque,Santa Fe,Los Alamos/505
+Earth/North America/United States/New York/212
+Earth/North America/United States/New York/347
+Earth/North America/United States/New York/646
+Earth/North America/United States/New York/845
+Earth/North America/United States/New York/Nassau County,Long Island,Hempstead/516
+Earth/North America/United States/New York/New York City/718
+Earth/North America/United States/New York/New York City/917
+Earth/North America/United States/New York/North East New York/Albany/518
+Earth/North America/United States/New York/North West New York/Buffalo/716
+Earth/North America/United States/New York/North West New York/Rochester/585
+Earth/North America/United States/New York/Northern Central New York/Syracuse/315
+Earth/North America/United States/New York/Southern Central New York/Ithaca,Binghamton,Catskills/607
+Earth/North America/United States/New York/Southern New York/Westchester County/914
+Earth/North America/United States/New York/Suffolk County,Long Island; Huntington,Riverhead/631
+Earth/North America/United States/North Carolina/980
+Earth/North America/United States/North Carolina/Central North Carolina/Greensboro,Winston-Salem,High Point/336
+Earth/North America/United States/North Carolina/Eastern North Carolina/Raleigh/919
+Earth/North America/United States/North Carolina/Eastern North Carolina/Raleigh/984
+Earth/North America/United States/North Carolina/Eastern North Carolina/Rocky Mount/252
+Earth/North America/United States/North Carolina/Southern Central North Carolina/Fayetteville,Wilmington/910
+Earth/North America/United States/North Carolina/Western North Carolina/Asheville/828
+Earth/North America/United States/North Carolina/Western North Carolina/Charlotte/704
+Earth/North America/United States/North Dakota/701
+Earth/North America/United States/Northern Mariana Islands/Commonwealth of the Northern Mariana Islands/670
+Earth/North America/United States/Ohio/Cleveland Metro/440
+Earth/North America/United States/Ohio/Cleveland/216
+Earth/North America/United States/Ohio/Columbus/380
+Earth/North America/United States/Ohio/North East Ohio/Akron,Canton,Youngstown; Mahoning County,Trumbull Counties,Warren counties/330
+Earth/North America/United States/Ohio/North East Ohio/Canton,Akron/234
+Earth/North America/United States/Ohio/North West Ohio/Toledo/419
+Earth/North America/United States/Ohio/North West Ohio/Toledo/567
+Earth/North America/United States/Ohio/South East Ohio/740
+Earth/North America/United States/Ohio/South East Ohio/Columbus/614
+Earth/North America/United States/Ohio/South West Ohio/Cincinnati/513
+Earth/North America/United States/Ohio/South West Ohio/Dayton/937
+Earth/North America/United States/Oklahoma/Eastern Oklahoma/Tulsa/539
+Earth/North America/United States/Oklahoma/Eastern Oklahoma:Tulsa/918
+Earth/North America/United States/Oklahoma/Western Oklahoma/Oklahoma City/405
+Earth/North America/United States/Oklahoma/Western Oklahoma/Oklahoma Rural/580
+Earth/North America/United States/Oregon/503
+Earth/North America/United States/Oregon/Eugene,Medford/541
+Earth/North America/United States/Oregon/Metropolitan Portland,Salem,Keizer/971
+Earth/North America/United States/Pennsylvania/Central Pennsylvania/Erie/814
+Earth/North America/United States/Pennsylvania/Eastern Pennsylvania/Harrisburg/717
+Earth/North America/United States/Pennsylvania/North East Pennsylvania/Northern Central Pennsylvania:Wilkes-Barre,Scranton/570
+Earth/North America/United States/Pennsylvania/Pittsburgh,New Castle/878
+Earth/North America/United States/Pennsylvania/South East Pennsylvania/Allentown,Bethlehem,Reading,West Chester,Norristown/484
+Earth/North America/United States/Pennsylvania/South East Pennsylvania/Allentown,Bethlehem,Reading,West Chester,Norristown/610
+Earth/North America/United States/Pennsylvania/South East Pennsylvania/Allentown,Bethlehem,Reading,West Chester,Norristown/835
+Earth/North America/United States/Pennsylvania/South East Pennsylvania/Philadelphia/215
+Earth/North America/United States/Pennsylvania/South East Pennsylvania/Philadelphia/267
+Earth/North America/United States/Pennsylvania/South West Pennsylvania/724
+Earth/North America/United States/Pennsylvania/Western Pennsylvania/Pittsburgh/412
+Earth/North America/United States/Puerto Rico/787
+Earth/North America/United States/Puerto Rico/939
+Earth/North America/United States/Rhode Island/401
+Earth/North America/United States/South Carolina/Columbia,Aiken,Sumter/803
+Earth/North America/United States/South Carolina/South Carolina/Coastal Area:Charleston,Beaufort,Myrtle Beach/843
+Earth/North America/United States/South Carolina/South Carolina/Upstate:Greenville,Spartanburg/864
+Earth/North America/United States/South Dakota/605
+Earth/North America/United States/Tennessee/Eastern Tennessee,Chattanooga,Bristol,Johnson City,Kingsport,Greeneville/423
+Earth/North America/United States/Tennessee/Eastern Tennessee/Knoxville,Knox/865
+Earth/North America/United States/Tennessee/Middle Tennessee/931
+Earth/North America/United States/Tennessee/Northern Middle Tennessee/Nashville Metro/615
+Earth/North America/United States/Tennessee/Northern Middle Tennessee/Nashville Metro/629
+Earth/North America/United States/Tennessee/Western Tennessee/731
+Earth/North America/United States/Tennessee/Western Tennessee/Memphis Metro/901
+Earth/North America/United States/Texas/Central Texas/Abilene,Sweetwater,Snyder,San Angelo/325
+Earth/North America/United States/Texas/Central Texas/Waco,Stephenville/254
+Earth/North America/United States/Texas/Dallas Metro/214
+Earth/North America/United States/Texas/Dallas Metro/469
+Earth/North America/United States/Texas/Dallas Metro/972
+Earth/North America/United States/Texas/Fort Worth/682
+Earth/North America/United States/Texas/Houston Metro/281
+Earth/North America/United States/Texas/Houston/832
+Earth/North America/United States/Texas/North East Texas/Tyler/430
+Earth/North America/United States/Texas/North East Texas/Tyler/903
+Earth/North America/United States/Texas/Northern Central Texas/Denton,Wichita Falls/940
+Earth/North America/United States/Texas/Northern Central Texas/Fort Worth/817
+Earth/North America/United States/Texas/Panhandle Texas/Amarillo,Lubbock/806
+Earth/North America/United States/Texas/San Antonio Subarban/830
+Earth/North America/United States/Texas/South East Texas/Bryan,College Station,Bay City/979
+Earth/North America/United States/Texas/South East Texas/Central Houston/713
+Earth/North America/United States/Texas/South East Texas/Conroe,Lufkin,Nacogdoches,Crockett/936
+Earth/North America/United States/Texas/South East Texas/Galveston,Port Arthur,Beaumont/409
+Earth/North America/United States/Texas/Southern Texas/Austin/512
+Earth/North America/United States/Texas/Southern Texas/Austin/737
+Earth/North America/United States/Texas/Southern Texas/Corpus Christi/361
+Earth/North America/United States/Texas/Southern Texas/San Antonio/210
+Earth/North America/United States/Texas/Valley of Texas area; Harlingen,Laredo/956
+Earth/North America/United States/Texas/Western Texas/Big Spring,Midland,Odessa/432
+Earth/North America/United States/Texas/Western Texas/El Paso/915
+Earth/North America/United States/US Virgin Islands/340
+Earth/North America/United States/Utah/Rural Utah/435
+Earth/North America/United States/Utah/Salt Lake City Metro/385
+Earth/North America/United States/Utah/Salt Lake City Metro/801
+Earth/North America/United States/Vermont/802
+Earth/North America/United States/Virginia/Eastern Virginia/Charlottesville,Lynchburg,Danville,South Boston,Emporia/434
+Earth/North America/United States/Virginia/Eastern Virginia/Richmond/804
+Earth/North America/United States/Virginia/Eastern Virginia/Tidewater,Hampton Roads,Norfolk,Virginia Beach,Chesapeake,Portsmouth,Hampton,Newport News,Suffolk/757
+Earth/North America/United States/Virginia/Northern Virginia/Arlington,McLean,Tysons Corner/571
+Earth/North America/United States/Virginia/Northern Virginia/Arlington,McLean,Tysons Corner/703
+Earth/North America/United States/Virginia/Southern Virginia/South West Virginia:Bristol,Stuart,Martinsville/276
+Earth/North America/United States/Virginia/Western Virginia/South West Virginia:Shenandoah and Roanoke Valleys:Fredericksburg,Harrisonburg,Roanoke,Salem,Lexington/540
+Earth/North America/United States/Washington/Eastern Washington state/C Washington state:Spokane,Yakima,Walla Walla,Ellensburg/509
+Earth/North America/United States/Washington/Northern Washington/Everett,Bellevue/425
+Earth/North America/United States/Washington/Southern Washington/Tacoma,Federal Way/253
+Earth/North America/United States/Washington/Western Washington State/Olympia,Bellingham/360
+Earth/North America/United States/Washington/Western Washington State/Olympia,Bellingham/564
+Earth/North America/United States/Washington/Western Washington/Seattle,Bainbridge Island/206
+Earth/North America/United States/West Virginia/304
+Earth/North America/United States/West Virginia/681
+Earth/North America/United States/Wisconsin/North East Wisconsin/Appleton,Green Bay,Sheboygan/Fond du Lac:Beaver Dam NE,Oshkosh,Appleton,Door County/920
+Earth/North America/United States/Wisconsin/Northern Wisconsin/Eau Claire,Wausau,Superior/715
+Earth/North America/United States/Wisconsin/South East Wisconsin/Milwaukee County/414
+Earth/North America/United States/Wisconsin/South East Wisconsin/counties of Kenosha,Ozaukee,Racine,Walworth,Washington,Waukesha/262
+Earth/North America/United States/Wisconsin/South West Wisconsin/Madison/608
+Earth/North America/United States/Wyoming/307

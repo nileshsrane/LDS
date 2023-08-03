@@ -1,0 +1,88 @@
+Earth/Europe/Russia/Adygeya/877
+Earth/Europe/Russia/Altai/385
+Earth/Europe/Russia/Altai/388
+Earth/Europe/Russia/Amur/416
+Earth/Europe/Russia/Arkhangelsk/818
+Earth/Europe/Russia/Astrakhan/851
+Earth/Europe/Russia/Baikonur/336
+Earth/Europe/Russia/Bashkortostan/347
+Earth/Europe/Russia/Belgorod/472
+Earth/Europe/Russia/Bryansk/483
+Earth/Europe/Russia/Buryatia/301
+Earth/Europe/Russia/Chechen Republic/871
+Earth/Europe/Russia/Chelyabinsk/351
+Earth/Europe/Russia/Cherepovets/820
+Earth/Europe/Russia/Chita/302
+Earth/Europe/Russia/Chukotka/427
+Earth/Europe/Russia/Chuvashi/835
+Earth/Europe/Russia/Daghestan/872
+Earth/Europe/Russia/Ekaterinburg/343
+Earth/Europe/Russia/Ingushi/873
+Earth/Europe/Russia/Jewish/426
+Earth/Europe/Russia/Kabardino-Balkarian/866
+Earth/Europe/Russia/Kaliningrad/401
+Earth/Europe/Russia/Kalmykia/847
+Earth/Europe/Russia/Kaluga/484
+Earth/Europe/Russia/Kamchatka/415
+Earth/Europe/Russia/Karachayevo-Cherkessian/878
+Earth/Europe/Russia/Karelia/814
+Earth/Europe/Russia/Kemerovo/384
+Earth/Europe/Russia/Khabarovsk/421
+Earth/Europe/Russia/Khakassia/390
+Earth/Europe/Russia/Kirov/833
+Earth/Europe/Russia/Komi/821
+Earth/Europe/Russia/Kostroma/494
+Earth/Europe/Russia/Krasnodar/861
+Earth/Europe/Russia/Krasnoyarsk/391
+Earth/Europe/Russia/Kurgan/352
+Earth/Europe/Russia/Kursk/471
+Earth/Europe/Russia/Leningrad/813
+Earth/Europe/Russia/Lipetsk/474
+Earth/Europe/Russia/Magadan/413
+Earth/Europe/Russia/Marij El/836
+Earth/Europe/Russia/Mineranye Vody/879
+Earth/Europe/Russia/Mordovia/834
+Earth/Europe/Russia/Moscow City/495
+Earth/Europe/Russia/Moscow City/499
+Earth/Europe/Russia/Moscow region/496
+Earth/Europe/Russia/Moscow region/498
+Earth/Europe/Russia/Murmansk/815
+Earth/Europe/Russia/Naberezhnye Chelny(city)/855
+Earth/Europe/Russia/Nizhni Novgorod/831
+Earth/Europe/Russia/North Ossetia/867
+Earth/Europe/Russia/Novosibirsk/383
+Earth/Europe/Russia/Omsk/381
+Earth/Europe/Russia/Orel/486
+Earth/Europe/Russia/Orenburg/353
+Earth/Europe/Russia/Penza/841
+Earth/Europe/Russia/Perm/342
+Earth/Europe/Russia/Primorie/423
+Earth/Europe/Russia/Pskov/811
+Earth/Europe/Russia/Rostov/863
+Earth/Europe/Russia/Ryazan/491
+Earth/Europe/Russia/Sakha/411
+Earth/Europe/Russia/Sakhalin Region/424
+Earth/Europe/Russia/Samara/846
+Earth/Europe/Russia/Saratov/845
+Earth/Europe/Russia/Smolensk/481
+Earth/Europe/Russia/Sochi(city)/862
+Earth/Europe/Russia/St. Petersburg(city)/812
+Earth/Europe/Russia/Stavropol/865
+Earth/Europe/Russia/Surgut(city)/346
+Earth/Europe/Russia/Tambov/475
+Earth/Europe/Russia/Tatarstan/843
+Earth/Europe/Russia/Tolyatti(city)/848
+Earth/Europe/Russia/Tomsk/382
+Earth/Europe/Russia/Tula/487
+Earth/Europe/Russia/Tuva/394
+Earth/Europe/Russia/Tver/482
+Earth/Europe/Russia/Tyumen/345
+Earth/Europe/Russia/Udmurtian/341
+Earth/Europe/Russia/Ulyanovsk/842
+Earth/Europe/Russia/Veliky Novgorod/816
+Earth/Europe/Russia/Vladimir/492
+Earth/Europe/Russia/Volgograd/844
+Earth/Europe/Russia/Vologda/817
+Earth/Europe/Russia/Voronezh/473
+Earth/Europe/Russia/Yamalo-Nenets/349
+Earth/Europe/Russia/Yaroslavl/485

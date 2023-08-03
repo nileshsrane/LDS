@@ -1,0 +1,65 @@
+Earth/Europe/Iceland/Keflavik, Ports, Innri-Njarðvík/421
+Earth/Europe/Iceland/Garden/422
+Earth/Europe/Iceland/Sandgerði/423
+Earth/Europe/Iceland/Vogar/424
+Earth/Europe/Iceland/Bray/426
+Earth/Europe/Iceland/Akranes/431
+Earth/Europe/Iceland/Lambhagi/433
+Earth/Europe/Iceland/Búðardalur, Reykhólar/434
+Earth/Europe/Iceland/Gröf, Hreðavatn, Kljáfoss/435
+Earth/Europe/Iceland/Hellissandur, Ólafsvík/436
+Earth/Europe/Iceland/Borgarnes, Hvanneyri/437
+Earth/Europe/Iceland/Grundarfjörður, Hvanneyri/438
+Earth/Europe/Iceland/Hólmavík, Hvammstangi, Laugabakki, Place, Ávík/451
+Earth/Europe/Iceland/Blönduós, Skagaströnd/452
+Earth/Europe/Iceland/Hofsós, Sauðárkr, Varmahlíð./453
+Earth/Europe/Iceland/North West/455
+Earth/Europe/Iceland/Vestfj./456
+Earth/Europe/Iceland/Grenivík, Hrafngil/463
+Earth/Europe/Iceland/Breiðamýri, Húsavík, Reykjahlíð, City Hall/464
+Earth/Europe/Iceland/Kópasker, Raufarhöfn/465
+Earth/Europe/Iceland/Dalvík, Olafsfjordur/466
+Earth/Europe/Iceland/Grímsey, River, Siglufjörður/467
+Earth/Europe/Iceland/Þórshöfn/468
+Earth/Europe/Iceland/Íslandssími/469
+Earth/Europe/Iceland/Egilstaðir, Eiðar, Lagarfoss/471
+Earth/Europe/Iceland/Borgarfjörður, Seyðisfjörður/472
+Earth/Europe/Iceland/Bakkafjörður, Vopnafjörður/473
+Earth/Europe/Iceland/Reydarfjoerdur/474
+Earth/Europe/Iceland/Breiðdalsvík, Fáskrúðsfjörður, Stöðvarfjörður/475
+Earth/Europe/Iceland/Eskifjörður/476
+Earth/Europe/Iceland/Neskaupsstadur/477
+Earth/Europe/Iceland/Djúpivogur, Port/478
+Earth/Europe/Iceland/Westman/481
+Earth/Europe/Iceland/Selfoss, Írafoss/482
+Earth/Europe/Iceland/Eyrarb, Stokksey, Hverag, Thorláksh/483
+Earth/Europe/Iceland/Southland from Aratunga to Miniborg/486
+Earth/Europe/Iceland/Southland from Hella to Vík/487
+Earth/Europe/Iceland/Hvolsvöllur AX and stations./488
+Earth/Europe/Iceland/Reykjavik/510
+Earth/Europe/Iceland/Reykjavik/515
+Earth/Europe/Iceland/Reykjavik/516
+Earth/Europe/Iceland/Reykjavik/520
+Earth/Europe/Iceland/Reykjavik/522
+Earth/Europe/Iceland/Reykjavik/525
+Earth/Europe/Iceland/Reykjavik/530
+Earth/Europe/Iceland/Business Muli/533
+Earth/Europe/Iceland/Reykjavik/535
+Earth/Europe/Iceland/Reykjavik/540
+Earth/Europe/Iceland/Downtown/551
+Earth/Europe/Iceland/Downtown/552
+Earth/Europe/Iceland/Múli/553
+Earth/Europe/Iceland/Kópavogur/554
+Earth/Europe/Iceland/Kópavogur/555
+Earth/Europe/Iceland/Breiðholt/557
+Earth/Europe/Iceland/Downtown/561
+Earth/Europe/Iceland/Downtown/562
+Earth/Europe/Iceland/Kópavogur/564
+Earth/Europe/Iceland/Kópavogur/565
+Earth/Europe/Iceland/Breiðholt/567
+Earth/Europe/Iceland/Múli/568
+Earth/Europe/Iceland/Múli/581
+Earth/Europe/Iceland/planned/585
+Earth/Europe/Iceland/Breiðh/586
+Earth/Europe/Iceland/Breiðholt/587
+Earth/Europe/Iceland/Múli/588

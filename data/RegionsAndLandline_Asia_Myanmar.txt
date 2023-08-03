@@ -1,0 +1,428 @@
+**DataState/Dist/AreaCode/ExchCode
+Earth/Asia/Myanmar/Ayeyarwaddy/Pathein/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Myetto/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Ngwe Saung/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Chaungthar/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Thapaung/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Ngaputaw/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Kan Gyi Htaunt/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Maw La Myaing Kyun/42
+Earth/Asia/Myanmar/Ayeyarwaddy/War Khe Ma/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Kyone Ma Ngay/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Myaung Mya/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Latputha/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Latputha/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Ein Me/42
+Earth/Asia/Myanmar/Ayeyarwaddy/Hin Tha Da/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Ingapu/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Htoo Gyi/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Zalon/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Innpin/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Kyan Kin/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Lay Myat Hnar/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Myan Aung/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Mae Za Li/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Kwin Kauk/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Mubin/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Phyapon/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Bo Ga Lay/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Kyaik Lat/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Day Da Ye/45
+Earth/Asia/Myanmar/Ayeyarwaddy/Nyaung Done/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Da Nu Phyu/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Pan Ta Naw/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Kyaung Kone/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Athat/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Yaykyi/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Kyone Pyaw/46
+Earth/Asia/Myanmar/Ayeyarwaddy/Ahtaung/46
+**
+Earth/Asia/Myanmar/Bago(East)/Bago/52
+Earth/Asia/Myanmar/Bago(East)/Bago/52
+Earth/Asia/Myanmar/Bago(East)/Oatharmyyothit/52
+Earth/Asia/Myanmar/Bago(East)/Daiku/52
+Earth/Asia/Myanmar/Bago(East)/Shwekyin/52
+Earth/Asia/Myanmar/Bago(East)/Thanatpin/52
+Earth/Asia/Myanmar/Bago(East)/Thakala/52
+Earth/Asia/Myanmar/Bago(East)/Pyundazar/52
+Earth/Asia/Myanmar/Bago(East)/Phayargyi/52
+Earth/Asia/Myanmar/Bago(East)/Pyinpongyi/52
+Earth/Asia/Myanmar/Bago(East)/Waw/52
+Earth/Asia/Myanmar/Bago(East)/Kawa/52
+Earth/Asia/Myanmar/Bago(East)/Taungoo/54
+Earth/Asia/Myanmar/Bago(East)/Taungoo/54
+Earth/Asia/Myanmar/Bago(East)/Phyu/54
+Earth/Asia/Myanmar/Bago(East)/Oaktwin/54
+Earth/Asia/Myanmar/Bago(East)/Kyawepawe/54
+Earth/Asia/Myanmar/Bago(East)/Kyaukkyi/54
+Earth/Asia/Myanmar/Bago(East)/Kanyutkwin/54
+Earth/Asia/Myanmar/Bago(East)/Penwekone/54
+Earth/Asia/Myanmar/Bago(East)/Kyaukdagar/54
+Earth/Asia/Myanmar/Bago(East)/Swar/54
+Earth/Asia/Myanmar/Bago(East)/Myothla/54
+Earth/Asia/Myanmar/Bago(East)/Yaenee/54
+Earth/Asia/Myanmar/Bago(East)/Yatarshae/54
+Earth/Asia/Myanmar/Bago(East)/Htantapin/54
+Earth/Asia/Myanmar/Bago(East)/Zayyawatty/54
+**
+Earth/Asia/Myanmar/Bago(West)/Pyay/53
+Earth/Asia/Myanmar/Bago(West)/Pyay/53
+Earth/Asia/Myanmar/Bago(West)/Pyay/53
+Earth/Asia/Myanmar/Bago(West)/Min Hla/53
+Earth/Asia/Myanmar/Bago(West)/Lapatan/53
+Earth/Asia/Myanmar/Bago(West)/Zi Gone/53
+Earth/Asia/Myanmar/Bago(West)/Nattalin/53
+Earth/Asia/Myanmar/Bago(West)/Paung De/53
+Earth/Asia/Myanmar/Bago(West)/Pa Daung/53
+Earth/Asia/Myanmar/Bago(West)/Oak Shi Pin/53
+Earth/Asia/Myanmar/Bago(West)/Pauk Khaung/53
+Earth/Asia/Myanmar/Bago(West)/Paung De Le/53
+Earth/Asia/Myanmar/Bago(West)/Gyo Bin Kauk/53
+Earth/Asia/Myanmar/Bago(West)/Shwe Daung/53
+Earth/Asia/Myanmar/Bago(West)/Inn Ma/53
+Earth/Asia/Myanmar/Bago(West)/The Gone/53
+Earth/Asia/Myanmar/Bago(West)/Pa Dee Gone/53
+Earth/Asia/Myanmar/Bago(West)/Oak Pho/53
+Earth/Asia/Myanmar/Bago(West)/Moe Nyo/53
+Earth/Asia/Myanmar/Bago(West)/Thar Yar Waddy/55
+**
+Earth/Asia/Myanmar/Chin/Hakha/70
+Earth/Asia/Myanmar/Chin/Hakha/70
+Earth/Asia/Myanmar/Chin/Phalan/70
+Earth/Asia/Myanmar/Chin/Teetein/70
+Earth/Asia/Myanmar/Chin/Htantalang/70
+Earth/Asia/Myanmar/Chin/Mintat/70
+Earth/Asia/Myanmar/Chin/Matupi/70
+**
+Earth/Asia/Myanmar/It/Pyinmana/67
+Earth/Asia/Myanmar/It/Leway/67
+Earth/Asia/Myanmar/It/Airport (Old)/67
+Earth/Asia/Myanmar/It/News And Press/67
+Earth/Asia/Myanmar/It/Igw/67
+Earth/Asia/Myanmar/It/Ahara Thukamarket/67
+Earth/Asia/Myanmar/It/Paung Laung Hydro/67
+Earth/Asia/Myanmar/It/Naypyitaw/67
+Earth/Asia/Myanmar/It/Pobbathiri/67
+Earth/Asia/Myanmar/It/Npt Concil/67
+Earth/Asia/Myanmar/It/Aeintaw,Luttaw/67
+Earth/Asia/Myanmar/It/Alar/67
+Earth/Asia/Myanmar/It/Tharwuthti/67
+Earth/Asia/Myanmar/It/Aeintaw,Luttaw/67
+Earth/Asia/Myanmar/It/Tatkone/67
+Earth/Asia/Myanmar/It/Pyisanaung/67
+Earth/Asia/Myanmar/It/Zoo/67
+Earth/Asia/Myanmar/It/Npt Rail Way/67
+**
+Earth/Asia/Myanmar/It/Mrtv/67
+Earth/Asia/Myanmar/It/Dekhinathiri/67
+Earth/Asia/Myanmar/It/Airport (New)/67
+Earth/Asia/Myanmar/It/Shwekyarpin/67
+Earth/Asia/Myanmar/It/Ngn/67
+**
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Myitkyina/74
+Earth/Asia/Myanmar/Kachin/Pammati/74
+Earth/Asia/Myanmar/Kachin/Myitkyina Market/74
+Earth/Asia/Myanmar/Kachin/Waimaw/74
+Earth/Asia/Myanmar/Kachin/Mogaung (1)/74
+Earth/Asia/Myanmar/Kachin/Mogaung (2)/74
+Earth/Asia/Myanmar/Kachin/Namatee/74
+Earth/Asia/Myanmar/Kachin/Sarhmaw/74
+Earth/Asia/Myanmar/Kachin/Tanai/74
+Earth/Asia/Myanmar/Kachin/Hopin/74
+Earth/Asia/Myanmar/Kachin/Pinbaw/74
+Earth/Asia/Myanmar/Kachin/Nammer/74
+Earth/Asia/Myanmar/Kachin/Mohnyin/74
+Earth/Asia/Myanmar/Kachin/Mawhan/74
+Earth/Asia/Myanmar/Kachin/Pharkant/74
+Earth/Asia/Myanmar/Kachin/Lonekhin/74
+Earth/Asia/Myanmar/Kachin/Seikmu/74
+Earth/Asia/Myanmar/Kachin/Banmaw/74
+Earth/Asia/Myanmar/Kachin/Shwegu/74
+Earth/Asia/Myanmar/Kachin/Mansi/74
+Earth/Asia/Myanmar/Kachin/Momoak/74
+**
+Earth/Asia/Myanmar/Kyaung Tong/Kyaingtong/84
+Earth/Asia/Myanmar/Kyaung Tong/Minelar/84
+Earth/Asia/Myanmar/Kyaung Tong/Tachileik/84
+Earth/Asia/Myanmar/Kyaung Tong/Minesat/84
+Earth/Asia/Myanmar/Kyaung Tong/Minepyat/84
+Earth/Asia/Myanmar/Kyaung Tong/Mineyaung/84
+Earth/Asia/Myanmar/Kyaung Tong/Minepyin/84
+Earth/Asia/Myanmar/Kyaung Tong/Kattaung/84
+Earth/Asia/Myanmar/Kyaung Tong/Minekhote/84
+Earth/Asia/Myanmar/Kyaung Tong/Tarlay/84
+**
+Earth/Asia/Myanmar/Kayar/Loikaw/83
+Earth/Asia/Myanmar/Kayar/Loikaw/83
+Earth/Asia/Myanmar/Kayar/Loikaw/83
+Earth/Asia/Myanmar/Kayar/Demawso/83
+Earth/Asia/Myanmar/Kayar/Phruhso/1
+Earth/Asia/Myanmar/Kayar/Baw La Khe/1
+Earth/Asia/Myanmar/Kayar/Phar Saung/1
+Earth/Asia/Myanmar/Kayar/Sha Daw/1
+**
+Earth/Asia/Myanmar/Kayin/Hpa-An/58
+Earth/Asia/Myanmar/Kayin/Kawkayeik/58
+Earth/Asia/Myanmar/Kayin/Hlaingbwe/58
+Earth/Asia/Myanmar/Kayin/Myawaddy/58
+Earth/Asia/Myanmar/Kayin/Kyarinnseikkyi/58
+Earth/Asia/Myanmar/Kayin/Hpa-An/58
+Earth/Asia/Myanmar/Kayin/Mawlamying/58
+**
+Earth/Asia/Myanmar/Lasho/Lashio/82
+Earth/Asia/Myanmar/Lasho/Lashio/82
+Earth/Asia/Myanmar/Lasho/Lashio/82
+Earth/Asia/Myanmar/Lasho/Naungmon/82
+Earth/Asia/Myanmar/Lasho/Kyaukme/82
+Earth/Asia/Myanmar/Lasho/Minetin/82
+Earth/Asia/Myanmar/Lasho/Muse/82
+Earth/Asia/Myanmar/Lasho/Muse(105) Mile/82
+Earth/Asia/Myanmar/Lasho/Namkham/82
+Earth/Asia/Myanmar/Lasho/Tant Yan/82
+Earth/Asia/Myanmar/Lasho/Kutkai/82
+Earth/Asia/Myanmar/Lasho/Theinne/82
+Earth/Asia/Myanmar/Lasho/Tarmoenye/82
+Earth/Asia/Myanmar/Lasho/Kukote/82
+Earth/Asia/Myanmar/Lasho/Nanphaka/82
+Earth/Asia/Myanmar/Lasho/Kaungkha/82
+Earth/Asia/Myanmar/Lasho/Kunlon/82
+Earth/Asia/Myanmar/Lasho/Lukkaing/82
+Earth/Asia/Myanmar/Lasho/Hopan/82
+Earth/Asia/Myanmar/Lasho/Ohmmthee/82
+Earth/Asia/Myanmar/Lasho/Thibaw/82
+Earth/Asia/Myanmar/Lasho/Namtlan/82
+Earth/Asia/Myanmar/Lasho/Naungcho/82
+Earth/Asia/Myanmar/Lasho/Namto/82
+**
+Earth/Asia/Myanmar/Magay/Yenachaung/60
+Earth/Asia/Myanmar/Magay/Yenachaung/60
+Earth/Asia/Myanmar/Magay/Chauk/61
+Earth/Asia/Myanmar/Magay/Chauk/61
+Earth/Asia/Myanmar/Magay/Seikphyu/61
+Earth/Asia/Myanmar/Magay/Pakikku/62
+Earth/Asia/Myanmar/Magay/Yesagyo/62
+Earth/Asia/Myanmar/Magay/Myaing/62
+Earth/Asia/Myanmar/Magay/Pauk/62
+Earth/Asia/Myanmar/Magay/Gantgaw/62
+Earth/Asia/Myanmar/Magay/Kanma/62
+Earth/Asia/Myanmar/Magay/Myit Chay/62
+Earth/Asia/Myanmar/Magay/Magwe 2/62
+Earth/Asia/Myanmar/Magay/Magwe 3/62
+Earth/Asia/Myanmar/Magay/Sinphyukyun/62
+Earth/Asia/Myanmar/Magay/Salin/62
+Earth/Asia/Myanmar/Magay/Taungdwingyi/62
+Earth/Asia/Myanmar/Magay/Myothit/62
+Earth/Asia/Myanmar/Magay/Pwintphyu/62
+Earth/Asia/Myanmar/Magay/Natmauk/63
+Earth/Asia/Myanmar/Magay/Minbu/65
+Earth/Asia/Myanmar/Magay/Minbu New Town/65
+Earth/Asia/Myanmar/Magay/Saku/65
+Earth/Asia/Myanmar/Magay/Min Hla/65
+Earth/Asia/Myanmar/Magay/Thayet/68
+Earth/Asia/Myanmar/Magay/Mindone/68
+Earth/Asia/Myanmar/Magay/Kamma(Thayet)/68
+Earth/Asia/Myanmar/Magay/Aunglan/69
+Earth/Asia/Myanmar/Magay/Sinpaungwae/69
+Earth/Asia/Myanmar/Magay/Satthwar/63
+**
+Earth/Asia/Myanmar/Mandalay/Mandalay Local-1/2
+Earth/Asia/Myanmar/Mandalay/Mandalay Local Transit-1/2
+Earth/Asia/Myanmar/Mandalay/Mandalay Local Transit-2/2
+Earth/Asia/Myanmar/Mandalay/Mandalay Local Transit-3/2
+Earth/Asia/Myanmar/Mandalay/Ye Ywa/2
+Earth/Asia/Myanmar/Mandalay/Man Myanmar Plaza/2
+Earth/Asia/Myanmar/Mandalay/Myanmar Teleport/2
+Earth/Asia/Myanmar/Mandalay/Mandalay Zeebingyi/2
+Earth/Asia/Myanmar/Mandalay/Mandalay New Town/2
+Earth/Asia/Myanmar/Mandalay/Mandalay New Town/2
+Earth/Asia/Myanmar/Mandalay/Yadanapone New Town/2
+Earth/Asia/Myanmar/Mandalay/Mandalay New Town/2
+Earth/Asia/Myanmar/Mandalay/Myitge/2
+Earth/Asia/Myanmar/Mandalay/Patheingyi/2
+Earth/Asia/Myanmar/Mandalay/Patheingyi/2
+Earth/Asia/Myanmar/Mandalay/Amarapura-2/2
+Earth/Asia/Myanmar/Mandalay/Mandalay/2
+Earth/Asia/Myanmar/Mandalay/Amarapura/2
+Earth/Asia/Myanmar/Mandalay/Mandalay/2
+Earth/Asia/Myanmar/Mandalay/Mandalay(4000)/2
+Earth/Asia/Myanmar/Mandalay/Mataya/2
+Earth/Asia/Myanmar/Mandalay/Mandalay Local Transit-2/2
+Earth/Asia/Myanmar/Mandalay/Zay Cho Plaza 0(Rsu)/2
+Earth/Asia/Myanmar/Mandalay/Tntl Airport(Tada-U)/2
+Earth/Asia/Myanmar/Mandalay/Mc Will Msc Msc/2
+Earth/Asia/Myanmar/Mandalay/Kyaukpadaung/61
+Earth/Asia/Myanmar/Mandalay/Nyaung U Zte/61
+Earth/Asia/Myanmar/Mandalay/Pagan Myo Thit/61
+Earth/Asia/Myanmar/Mandalay/Sint Gu/61
+Earth/Asia/Myanmar/Mandalay/Meikhtila Zte/64
+Earth/Asia/Myanmar/Mandalay/Meikhtila Pyithayar/64
+Earth/Asia/Myanmar/Mandalay/Meikhtila Industrial Zone/64
+Earth/Asia/Myanmar/Mandalay/Yamethin/64
+Earth/Asia/Myanmar/Mandalay/Pyawbwe/64
+Earth/Asia/Myanmar/Mandalay/Wundwin/64
+Earth/Asia/Myanmar/Mandalay/Shaw Pin/64
+Earth/Asia/Myanmar/Mandalay/Mahaling/64
+Earth/Asia/Myanmar/Mandalay/Thazi/64
+Earth/Asia/Myanmar/Mandalay/Myingyan/66
+Earth/Asia/Myanmar/Mandalay/Myingyan Industrial Zone/66
+Earth/Asia/Myanmar/Mandalay/Sintkaing/66
+Earth/Asia/Myanmar/Mandalay/Paleik/66
+Earth/Asia/Myanmar/Mandalay/Tadaoo/66
+Earth/Asia/Myanmar/Mandalay/Ngazon/66
+Earth/Asia/Myanmar/Mandalay/Kyaukse (Rsu)/66
+Earth/Asia/Myanmar/Mandalay/Myinttha/66
+Earth/Asia/Myanmar/Mandalay/Kume/66
+Earth/Asia/Myanmar/Mandalay/Taungtha/66
+Earth/Asia/Myanmar/Mandalay/Waelaung-Kyatka/66
+Earth/Asia/Myanmar/Mandalay/Nahtoogyi/66
+Earth/Asia/Myanmar/Mandalay/Pyinool Win (Host)/85
+Earth/Asia/Myanmar/Mandalay/Pyinool Win (Rsu)/85
+Earth/Asia/Myanmar/Mandalay/Pyinool Win (Rsu)/85
+Earth/Asia/Myanmar/Mandalay/Padaythar Myothit/85
+Earth/Asia/Myanmar/Mandalay/Ohmchaw/85
+Earth/Asia/Myanmar/Mandalay/Anee Sakhan/85
+Earth/Asia/Myanmar/Mandalay/Mogoke/86
+Earth/Asia/Myanmar/Mandalay/Kyatpyin/86
+Earth/Asia/Myanmar/Mandalay/Thabeik Kyin/86
+Earth/Asia/Myanmar/Mandalay/Sintkuu/86
+Earth/Asia/Myanmar/Mandalay/Letpanhla/86
+**
+Earth/Asia/Myanmar/Mon/Mawlamyine/57
+Earth/Asia/Myanmar/Mon/Thahton/57
+Earth/Asia/Myanmar/Mon/Moattama/57
+Earth/Asia/Myanmar/Mon/Paung/57
+Earth/Asia/Myanmar/Mon/Zink Yeik/57
+Earth/Asia/Myanmar/Mon/Ye/57
+Earth/Asia/Myanmar/Mon/Lamine/57
+Earth/Asia/Myanmar/Mon/Kyaikhto/57
+Earth/Asia/Myanmar/Mon/Theinzayat/57
+Earth/Asia/Myanmar/Mon/Moatpalin/57
+Earth/Asia/Myanmar/Mon/Belin/57
+Earth/Asia/Myanmar/Mon/Taungzun/57
+Earth/Asia/Myanmar/Mon/Teinzeik/57
+Earth/Asia/Myanmar/Mon/Mudon/57
+Earth/Asia/Myanmar/Mon/Kyaikkhame/57
+Earth/Asia/Myanmar/Mon/Thanphyuzayat/57
+Earth/Asia/Myanmar/Mon/Chaungsone/57
+Earth/Asia/Myanmar/Mon/Kyaikmayaw/57
+**
+Earth/Asia/Myanmar/Nay Pyi Taw/Mann Myanmar Plaza/2
+Earth/Asia/Myanmar/Nay Pyi Taw/Ye War/2
+Earth/Asia/Myanmar/Nay Pyi Taw/Naypyitaw/67
+Earth/Asia/Myanmar/Nay Pyi Taw/Naypyitaw President's House/67
+Earth/Asia/Myanmar/Nay Pyi Taw/Mandalay/2
+**
+Earth/Asia/Myanmar/Rakhine/Sittwe 1/43
+Earth/Asia/Myanmar/Rakhine/Sittwe 2/43
+Earth/Asia/Myanmar/Rakhine/Ngapali(Shwe War Gyaing)/43
+Earth/Asia/Myanmar/Rakhine/Kyaukphyu/43
+Earth/Asia/Myanmar/Rakhine/Myauk-U/43
+Earth/Asia/Myanmar/Rakhine/Maungtaw/43
+Earth/Asia/Myanmar/Rakhine/Taungoke/43
+Earth/Asia/Myanmar/Rakhine/Thandwe/43
+Earth/Asia/Myanmar/Rakhine/Khin Oo/75
+Earth/Asia/Myanmar/Rakhine/Seink Kun/75
+**
+Earth/Asia/Myanmar/Sagaing/Monywa/71
+Earth/Asia/Myanmar/Sagaing/Monywa/71
+Earth/Asia/Myanmar/Sagaing/Monywa Industrial Zone/71
+Earth/Asia/Myanmar/Sagaing/Monywa-Ahlone/71
+Earth/Asia/Myanmar/Sagaing/Palace/71
+Earth/Asia/Myanmar/Sagaing/Myinmu/71
+Earth/Asia/Myanmar/Sagaing/Myauk/71
+Earth/Asia/Myanmar/Sagaing/Chaung Oo/71
+Earth/Asia/Myanmar/Sagaing/Butalin/71
+Earth/Asia/Myanmar/Sagaing/Depae Yii/71
+Earth/Asia/Myanmar/Sagaing/Monyae-Kaymon/71
+Earth/Asia/Myanmar/Sagaing/Ayartaw/71
+Earth/Asia/Myanmar/Sagaing/Serlin Gyi/71
+Earth/Asia/Myanmar/Sagaing/Sagaing/72
+Earth/Asia/Myanmar/Sagaing/Kale/73
+Earth/Asia/Myanmar/Sagaing/Kale Industrial Zone/73
+Earth/Asia/Myanmar/Sagaing/Tamu/73
+Earth/Asia/Myanmar/Sagaing/Shwe Bo/75
+Earth/Asia/Myanmar/Sagaing/Katha/75
+Earth/Asia/Myanmar/Sagaing/Kanbalu/75
+Earth/Asia/Myanmar/Sagaing/Indaw/75
+Earth/Asia/Myanmar/Sagaing/Wet Let/75
+Earth/Asia/Myanmar/Sagaing/Palae/75
+Earth/Asia/Myanmar/Sagaing/Yae U/75
+Earth/Asia/Myanmar/Sagaing/Kaw Lin/75
+Earth/Asia/Myanmar/Sagaing/Deze/75
+Earth/Asia/Myanmar/Sagaing/Wontho/75
+Earth/Asia/Myanmar/Sagaing/Depeyin/75
+Earth/Asia/Myanmar/Sagaing/Kyun Hla/75
+Earth/Asia/Myanmar/Sagaing/Htee Chaink/75
+Earth/Asia/Myanmar/Sagaing/Mawlu Tw/75
+**
+Earth/Asia/Myanmar/Thaninthayi/Dawei/59
+Earth/Asia/Myanmar/Thaninthayi/Dawei/59
+Earth/Asia/Myanmar/Thaninthayi/Palaw/59
+Earth/Asia/Myanmar/Thaninthayi/Launglone/59
+Earth/Asia/Myanmar/Thaninthayi/Thatyetchaung/59
+Earth/Asia/Myanmar/Thaninthayi/Yaephyu/59
+Earth/Asia/Myanmar/Thaninthayi/Myeik/59
+Earth/Asia/Myanmar/Thaninthayi/Bokepyin/59
+Earth/Asia/Myanmar/Thaninthayi/Kawthaung/59
+Earth/Asia/Myanmar/Thaninthayi/Kyunsu/59
+Earth/Asia/Myanmar/Thaninthayi/Kanpauk/59
+Earth/Asia/Myanmar/Thaninthayi/Palaik/59
+Earth/Asia/Myanmar/Thaninthayi/Pala/59
+**
+Earth/Asia/Myanmar/Taunggyi/Yae Aye/81
+Earth/Asia/Myanmar/Taunggyi/Ayetharyar/81
+Earth/Asia/Myanmar/Taunggyi/Nyaung Shwe/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Taunggyi/81
+Earth/Asia/Myanmar/Taunggyi/Ayetharyar(Industrial Zone)/81
+Earth/Asia/Myanmar/Taunggyi/Pinlon/81
+Earth/Asia/Myanmar/Taunggyi/Lechar/81
+Earth/Asia/Myanmar/Taunggyi/Hopone/81
+Earth/Asia/Myanmar/Taunggyi/Sitekhaung/81
+Earth/Asia/Myanmar/Taunggyi/Sesin Twd-06/81
+Earth/Asia/Myanmar/Taunggyi/Kalaw Drx-1/81
+Earth/Asia/Myanmar/Taunggyi/Tekyit/81
+Earth/Asia/Myanmar/Taunggyi/Pinlaung/81
+Earth/Asia/Myanmar/Taunggyi/Phaekhone/81
+Earth/Asia/Myanmar/Taunggyi/Moe Bwe/81
+Earth/Asia/Myanmar/Taunggyi/Aung Ban/81
+Earth/Asia/Myanmar/Taunggyi/Aung Ban/81
+Earth/Asia/Myanmar/Taunggyi/Haehoo/81
+Earth/Asia/Myanmar/Taunggyi/Pin Taya/81
+Earth/Asia/Myanmar/Taunggyi/Namsan/81
+Earth/Asia/Myanmar/Taunggyi/Kho Lan/81
+Earth/Asia/Myanmar/Taunggyi/Kun Hein/81
+Earth/Asia/Myanmar/Taunggyi/Karle/81
+Earth/Asia/Myanmar/Taunggyi/Lin Khay/81
+Earth/Asia/Myanmar/Taunggyi/Moenae/81
+Earth/Asia/Myanmar/Taunggyi/Maukmae/81
+Earth/Asia/Myanmar/Taunggyi/Minepan/81
+**
+Earth/Asia/Myanmar/Yangon/Thanlyin/56
+Earth/Asia/Myanmar/Yangon/Kyauktan/56
+Earth/Asia/Myanmar/Yangon/Kayan/56
+Earth/Asia/Myanmar/Yangon/Thonegwa/56
+Earth/Asia/Myanmar/Yangon/Taikkyi/55
+Earth/Asia/Myanmar/Yangon/Oakkan/55
+Earth/Asia/Myanmar/Yangon/Twante/45
+Earth/Asia/Myanmar/Yangon/Dala Sde/1
+Earth/Asia/Myanmar/Yangon/Hlegu/1
+Earth/Asia/Myanmar/Yangon/Paunggyi/1
+Earth/Asia/Myanmar/Yangon/Inndai Telrad/1
+Earth/Asia/Myanmar/Yangon/Hwa-Wbi/1
+Earth/Asia/Myanmar/Yangon/Htantabin/1
+Earth/Asia/Myanmar/Yangon/Shwenantha/1
+Earth/Asia/Myanmar/Yangon/Nyaungnttpin/1
+Earth/Asia/Myanmar/Yangon/Laydaukkan/1
+Earth/Asia/Myanmar/Yangon/Seikkyee/1
+Earth/Asia/Myanmar/Yangon/Kunchankone/1
+Earth/Asia/Myanmar/Yangon/Kawhmu/1

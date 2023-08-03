@@ -1,0 +1,48 @@
+Earth/Europe/Spain/Baleares, Palma De Mallorca/971
+Earth/Europe/Spain/Almeria/950
+Earth/Europe/Spain/Girona/972
+Earth/Europe/Spain/Lerida/973
+Earth/Europe/Spain/Ceuta, Melilla, Torremolinos/952
+Earth/Europe/Spain/Huesca/974
+Earth/Europe/Spain/Jaen/953
+Earth/Europe/Spain/Madrid/91
+Earth/Europe/Spain/Soria/954
+Earth/Europe/Spain/Zaragoza/976
+Earth/Europe/Spain/Tarragona/977
+Earth/Europe/Spain/Barcelona, Igualada/93
+Earth/Europe/Spain/Cadiz/956
+Earth/Europe/Spain/Turuel/978
+Earth/Europe/Spain/Bilbao, Vizcaya/94
+Earth/Europe/Spain/Cordoba/957
+Earth/Europe/Spain/Palencia/979
+Earth/Europe/Spain/Malaga, Seville/95
+Earth/Europe/Spain/GironaGirona/958
+Earth/Europe/Spain/Huelva/959
+Earth/Europe/Spain/Alicante, Valencia/96
+Earth/Europe/Spain/Zamora/980
+Earth/Europe/Spain/A Coruña/981
+Earth/Europe/Spain/Lugo/982
+Earth/Europe/Spain/Valladolid/983
+Earth/Europe/Spain/La Rioja/941
+Earth/Europe/Spain/Asturias/985
+Earth/Europe/Spain/Avila/920
+Earth/Europe/Spain/Cantabria, Santander/942
+Earth/Europe/Spain/Castellon/964
+Earth/Europe/Spain/Pontevedra/986
+Earth/Europe/Spain/Segovia/921
+Earth/Europe/Spain/Guipuzcoa/943
+Earth/Europe/Spain/Leon/987
+Earth/Europe/Spain/Santa Cruz de Tenerife, Tenerife/922
+Earth/Europe/Spain/Orense/988
+Earth/Europe/Spain/Salamanca/923
+Earth/Europe/Spain/Alava/945
+Earth/Europe/Spain/Albacete/967
+Earth/Europe/Spain/Badajoz/924
+Earth/Europe/Spain/Murcia/968
+Earth/Europe/Spain/Toledo/925
+Earth/Europe/Spain/Burgos/947
+Earth/Europe/Spain/Cuenca/969
+Earth/Europe/Spain/Navarra, Pamplona/948
+Earth/Europe/Spain/Caceres/927
+Earth/Europe/Spain/Guadalajara/949
+Earth/Europe/Spain/Las Palmas, Las Palmas de Gran Canaria/928
